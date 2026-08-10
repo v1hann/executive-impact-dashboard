@@ -1,0 +1,1303 @@
+[
+  {
+    "id": "ashok-vaswani",
+    "name": "Ashok Vaswani",
+    "role": "Managing Director & CEO",
+    "company_ticker": "KOTAKBANK",
+    "date_joined": "2024-01-01",
+    "date_joined_precision": "exact",
+    "years_experience": 35,
+    "career_note": "Spent ~20 years at Citigroup (starting in India) before moving to Barclays, where he ran the global consumer/corporate/payments businesses. Joined Kotak Mahindra Bank on 1 Jan 2024, succeeding founder Uday Kotak.",
+    "career_history": [
+      { "company": "Citigroup", "role": "Various leadership roles", "period": "~1988-2008 (approx. 20 years)", "listed": true },
+      { "company": "Barclays PLC", "role": "CEO, Global Consumer, Private, Corporate & Payments", "period": "2008-2023 (approx. 15 years)", "listed": true },
+      { "company": "Kotak Mahindra Bank", "role": "Managing Director & CEO", "period": "Jan 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://en.wikipedia.org/wiki/Ashok_Vaswani", "https://www.business-standard.com/companies/news/kotak-mahindra-bank-to-appoints-ashok-vaswani-as-the-new-md-ceo-123102100530_1.html"]
+  },
+  {
+    "id": "srini-pallia",
+    "name": "Srini Pallia",
+    "role": "CEO & Managing Director",
+    "company_ticker": "WIPRO",
+    "date_joined": "2024-04-06",
+    "date_joined_precision": "exact",
+    "years_experience": 32,
+    "career_note": "Joined Wipro in 1992 and rose through roles including President of the Consumer Business Unit, global head of Business Application Services, and CEO of Wipro Americas 1, before being named CEO & MD on 6 Apr 2024, succeeding Thierry Delaporte.",
+    "career_history": [
+      { "company": "Wipro Limited", "role": "Various roles up to CEO, Americas 1", "period": "1992-2024 (32 years)", "listed": true },
+      { "company": "Wipro Limited", "role": "CEO & Managing Director", "period": "Apr 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.wipro.com/newsroom/press-releases/2024/wipro-appoints-srini-pallia-as-ceo-and-managing-director/", "https://www.theweek.in/news/biz-tech/2024/04/07/who-is-srinivas-pallia-heres-why-his-new-role-as-wipro-md-and-ceo-is-crucial.html"]
+  },
+  {
+    "id": "mohit-joshi",
+    "name": "Mohit Joshi",
+    "role": "Managing Director & CEO",
+    "company_ticker": "TECHM",
+    "date_joined": "2023-12-20",
+    "date_joined_precision": "exact",
+    "years_experience": 23,
+    "career_note": "Spent nearly 23 years at Infosys, rising from Senior Business Development Manager (2000) to President, heading Global Financial Services, Healthcare and the Finacle/AI product portfolio. Took charge at Tech Mahindra on 20 Dec 2023, a 5-year term.",
+    "career_history": [
+      { "company": "Infosys", "role": "Senior Business Development Manager → President", "period": "2000-2023 (23 years)", "listed": true },
+      { "company": "Tech Mahindra", "role": "Managing Director & CEO", "period": "Dec 2023-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.mahindra.com/news-room/press-release/tech-mahindra-appoints-mohit-joshi-as-md-and-ceo-designate", "https://businesschief.asia/leadership-and-strategy/tech-mahindras-new-ceo-10-things-to-know-about-mohit-joshi"]
+  },
+  {
+    "id": "venu-lambu",
+    "name": "Venugopal (Venu) Lambu",
+    "role": "CEO & Managing Director",
+    "company_ticker": "LTIM",
+    "date_joined": "2025-05-31",
+    "date_joined_precision": "exact",
+    "years_experience": 30,
+    "career_note": "30+ year technology-services veteran with prior leadership stints at Cognizant, HCL Technologies and IBM. Had earlier worked at LTIMindtree (2020-2023) before returning as CEO effective 31 May 2025, succeeding Debashis Chatterjee.",
+    "career_history": [
+      { "company": "IBM / HCL Technologies / Cognizant", "role": "Various leadership roles", "period": "prior to 2020 (approx.)", "listed": true },
+      { "company": "LTIMindtree (LTI)", "role": "Senior leadership role", "period": "2020-2023", "listed": true },
+      { "company": "Randstad Digital", "role": "CEO", "period": "2023-2025", "listed": true },
+      { "company": "LTIMindtree", "role": "CEO & Managing Director", "period": "May 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/companies/news/debashis-chatterjee-to-retire-venu-lambu-appointed-ceo-ltimindtree-125053001375_1.html", "https://www.peoplematters.in/news/appointments/ltimindtree-appoints-venu-lambu-as-ceo-designate-44094"]
+  },
+  {
+    "id": "partha-pratim-sengupta",
+    "name": "Partha Pratim Sengupta",
+    "role": "Managing Director & CEO",
+    "company_ticker": "BANDHANBNK",
+    "date_joined": "2024-11-01",
+    "date_joined_precision": "exact",
+    "years_experience": 40,
+    "career_note": "Nearly 40-year banker who began at SBI (rising to DMD & Chief Credit Officer), then led Indian Overseas Bank as MD & CEO 2020-2022. Activity between leaving IOB (2022) and joining Bandhan Bank (Nov 2024) is not clearly documented publicly — treat that gap as approximate.",
+    "career_history": [
+      { "company": "State Bank of India", "role": "Various roles up to DMD & Chief Credit Officer", "period": "prior to 2020 (approx.)", "listed": true },
+      { "company": "Indian Overseas Bank", "role": "Managing Director & CEO", "period": "2020-2022", "listed": true },
+      { "company": "Bandhan Bank", "role": "Managing Director & CEO", "period": "Nov 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/markets/capital-market-news/bandhan-bank-appoints-partha-pratim-sengupta-as-md-and-ceo-124102501011_1.html", "https://yourstory.com/2024/10/rbi-clears-appointment-partha-pratim-sengupta-md-ceo-bandhan-bank"]
+  },
+  {
+    "id": "rajiv-anand",
+    "name": "Rajiv Anand",
+    "role": "Managing Director & CEO",
+    "company_ticker": "INDUSINDBK",
+    "date_joined": "2025-08-25",
+    "date_joined_precision": "exact",
+    "years_experience": 35,
+    "career_note": "Spent 16 years at the Axis Group (from 2009), founding MD & CEO of Axis Asset Management, later President-Retail Banking and Deputy MD overseeing Wholesale and Digital Banking. Appointed IndusInd Bank MD & CEO effective 25 Aug 2025, after predecessor Sumant Kathpalia resigned over accounting lapses.",
+    "career_history": [
+      { "company": "Axis Asset Management", "role": "Founding Managing Director & CEO", "period": "2009-~2013 (approx.)", "listed": false },
+      { "company": "Axis Bank", "role": "President - Retail Banking → Deputy Managing Director", "period": "~2013-2025 (16 years at Axis Group)", "listed": true },
+      { "company": "IndusInd Bank", "role": "Managing Director & CEO", "period": "Aug 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.icicidirect.com/research/equity/trending-news/indusind-bank-s-board-has-appointed-mr-rajiv-anand-as-md-ceo-for-a-3-year-term-from-august-25-2025", "https://www.business-standard.com/amp/finance/news/rajiv-anand-appointed-indusind-bank-md-ceo-to-steady-operations-125080501150_1.html"]
+  },
+  {
+    "id": "puneet-sharma",
+    "name": "Puneet Sharma",
+    "role": "Chief Financial Officer",
+    "company_ticker": "HDFCBANK",
+    "date_joined": "2026-09-01",
+    "date_joined_precision": "announced, not yet effective",
+    "years_experience": 23,
+    "career_note": "Spent 6+ years as Axis Bank CFO after 12 years at Tata Capital and earlier stints at Citibank and Boston Consulting Group. Joins HDFC Bank as CFO-designate from 1 Sep 2026, becoming full CFO 1 Dec 2026, succeeding retiring CFO Srinivasan Vaidyanathan.",
+    "career_history": [
+      { "company": "Citibank / Boston Consulting Group", "role": "Various roles", "period": "prior to ~2011 (approx.)", "listed": true },
+      { "company": "Tata Capital", "role": "Senior finance roles", "period": "~2011-2018 (12 years)", "listed": false },
+      { "company": "Axis Bank", "role": "Chief Financial Officer", "period": "2018-2026 (6+ years)", "listed": true },
+      { "company": "HDFC Bank", "role": "Chief Financial Officer (designate)", "period": "Sep 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/companies/news/who-is-puneet-sharma-hdfc-bank-new-cfo-axis-resignation-profile-126063000557_1.html", "https://www.bizzbuzz.news/banking/cfo-reshuffle-puneet-sharma-exits-axis-bank-set-to-join-hdfc-bank-1395890"]
+  },
+  {
+    "id": "shashwat-sharma",
+    "name": "Shashwat Sharma",
+    "role": "Managing Director & CEO, Airtel India",
+    "company_ticker": "BHARTIARTL",
+    "date_joined": "2026-01-01",
+    "date_joined_precision": "exact",
+    "years_experience": 21,
+    "career_note": "Spent 10+ years at Hindustan Unilever (Oral Care, Dove, Lakme) before joining Airtel in 2018 as Chief Brand Officer, later CMO and COO. Elevated to MD & CEO of Airtel India effective 1 Jan 2026, as Gopal Vittal moved to Executive Vice Chairman.",
+    "career_history": [
+      { "company": "Hindustan Unilever", "role": "Brand roles (Oral Care, Dove, Lakme)", "period": "~2008-2018 (10+ years)", "listed": true },
+      { "company": "Bharti Airtel", "role": "Chief Brand Officer → CMO → COO", "period": "2018-2026", "listed": true },
+      { "company": "Bharti Airtel", "role": "Managing Director & CEO, Airtel India", "period": "Jan 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.entrepreneur.com/en-in/news-and-trends/bharti-airtel-names-shashwat-sharma-as-next-ceo-as-gopal/501100", "https://news24online.com/business/who-is-shashwat-sharma-bharti-airtels-newly-appointed-ceo-with-over-20-years-of-experience-previously-worked-at/690744/"]
+  },
+  {
+    "id": "sharat-sinha",
+    "name": "Sharat Sinha",
+    "role": "CEO, Airtel Business",
+    "company_ticker": "BHARTIARTL",
+    "date_joined": "2024-06-03",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Career spanned VSNL, Ericsson, Cisco, Tellabs, Palo Alto Networks, VMware and Riverwood Capital before Check Point Software, where he was President - Asia Pacific. Joined Airtel Business as CEO effective 3 Jun 2024, reporting to Gopal Vittal.",
+    "career_history": [
+      { "company": "Cisco / Ericsson / Palo Alto Networks / VMware", "role": "Various senior roles", "period": "prior to ~2020 (approx.)", "listed": true },
+      { "company": "Check Point Software Technologies", "role": "President, Asia Pacific", "period": "~2020-2024", "listed": true },
+      { "company": "Bharti Airtel", "role": "CEO, Airtel Business", "period": "Jun 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.airtel.in/press-release/05-2024/bharti-airtel-appoints-sharat-sinha-as-ceo-of-airtel-business/", "https://allthingstalent.org/sharat-sinha-the-new-ceo-of-airtel-business/2024/05/31/"]
+  },
+  {
+    "id": "rakshit-hargave",
+    "name": "Rakshit Hargave",
+    "role": "CEO & Executive Director",
+    "company_ticker": "BRITANNIA",
+    "date_joined": "2025-12-15",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Career included Lakme Lever (COO), HUL (Sales & Marketing Director), Domino's Pizza India (Chief of Marketing), Nestle India, Beiersdorf (NIVEA) and ABN AMRO before leading Birla Opus (paints division of listed Grasim Industries, 2021-2025). Joined Britannia as CEO effective 15 Dec 2025, succeeding Rajneet Kohli via an interim period under Varun Berry.",
+    "career_history": [
+      { "company": "HUL / Nestle India / Beiersdorf", "role": "Marketing & sales leadership roles", "period": "prior to 2021 (approx.)", "listed": true },
+      { "company": "Birla Opus (Grasim Industries)", "role": "CEO", "period": "2021-2025", "listed": false },
+      { "company": "Britannia Industries", "role": "CEO & Executive Director", "period": "Dec 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://boardstewardship.com/former-birla-opus-ceo-rakshit-hargave-appointed-as-ceo-executive-director-of-britannia-industries/", "https://www.indiaretailing.com/britannia-industries-appoints-rakshit-hargave-as-new-ceo-executive-director"]
+  },
+  {
+    "id": "vivek-anand",
+    "name": "Vivek Anand",
+    "role": "Chief Financial Officer",
+    "company_ticker": "HEROMOTOCO",
+    "date_joined": "2024-03-01",
+    "date_joined_precision": "exact",
+    "years_experience": 29,
+    "career_note": "Chartered Accountant with ~three decades of experience across FMCG, Telecom, Consumer Healthcare and Real Estate. Joined Hero MotoCorp as CFO effective 1 Mar 2024, moving from DLF Limited where he was CFO.",
+    "career_history": [
+      { "company": "FMCG / Telecom / Consumer Healthcare firms", "role": "Senior finance roles", "period": "prior to DLF (approx.)", "listed": true },
+      { "company": "DLF Limited", "role": "Chief Financial Officer", "period": "prior to 2024", "listed": true },
+      { "company": "Hero MotoCorp", "role": "Chief Financial Officer", "period": "Mar 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://indianstartupnews.com/news/hero-motocorp-appoints-vivek-anand-as-cfo-and-rachna-kumar-as-chro-2025217"]
+  },
+  {
+    "id": "harshavardhan-chitale",
+    "name": "Harshavardhan Chitale",
+    "role": "Chief Executive Officer",
+    "company_ticker": "HEROMOTOCO",
+    "date_joined": "2026-01-05",
+    "date_joined_precision": "exact",
+    "years_experience": 30,
+    "career_note": "30+ years across industrial automation, lighting and digital transformation, including Vice Chairman & MD of Philips Lighting India and roles at HCL Infosystems and Honeywell Automation India. Became Hero MotoCorp CEO effective 5 Jan 2026, succeeding acting CEO/CTO Vikram Kasbekar.",
+    "career_history": [
+      { "company": "Honeywell Automation India / HCL Infosystems", "role": "Various leadership roles", "period": "prior to Philips (approx.)", "listed": true },
+      { "company": "Philips Lighting India", "role": "Vice Chairman & Managing Director", "period": "approx. mid-career", "listed": true },
+      { "company": "Signify (formerly Philips Lighting)", "role": "Global CEO, Professional Business (~€4bn business, 12,000 employees, 70 countries)", "period": "up to 2025", "listed": true },
+      { "company": "Hero MotoCorp", "role": "Chief Executive Officer", "period": "Jan 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/companies/people/hero-motocorp-new-ceo-harshvardhan-chitale-signify-vikram-kasbekar-125090800225_1.html", "https://www.indiainfoline.com/news/companies/hero-motocorp-names-harshavardhan-chitale-as-new-ceo"]
+  },
+  {
+    "id": "mv-narasimham",
+    "name": "M. V. Narasimham",
+    "role": "Chief Financial Officer",
+    "company_ticker": "DRREDDY",
+    "date_joined": "2024-08-01",
+    "date_joined_precision": "exact",
+    "years_experience": 30,
+    "career_note": "Chartered Accountant with 30+ years across finance functions, all within Dr. Reddy's Laboratories. Elevated to CFO effective 1 Aug 2024, succeeding retiring CFO Parag Agarwal.",
+    "career_history": [
+      { "company": "Dr. Reddy's Laboratories", "role": "Senior finance roles (internal progression)", "period": "prior to 2024 (30+ years)", "listed": true },
+      { "company": "Dr. Reddy's Laboratories", "role": "Chief Financial Officer", "period": "Aug 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://boardstewardship.com/dr-reddys-promotes-m-v-narasimham-to-cfo/"]
+  },
+  {
+    "id": "achin-gupta",
+    "name": "Achin Gupta",
+    "role": "Managing Director & Global CEO",
+    "company_ticker": "CIPLA",
+    "date_joined": "2026-04-01",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "IIT Delhi and IIM Ahmedabad alumnus who joined Cipla in 2021 to lead the One-India business, was elevated to Global COO in Feb 2025, then named MD & Global CEO effective 1 Apr 2026, succeeding long-serving CEO Umang Vohra.",
+    "career_history": [
+      { "company": "Cipla", "role": "CEO, One-India business", "period": "2021-2025", "listed": true },
+      { "company": "Cipla", "role": "Global Chief Operating Officer", "period": "Feb 2025-Mar 2026", "listed": true },
+      { "company": "Cipla", "role": "Managing Director & Global CEO", "period": "Apr 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.cipla.com/press-releases-statements/achin-gupta-succeed-umang-vohra-cipla-md-gceo-effective-april-1-2026", "https://www.pharmacy.biz/cipla-new-ceo-achin-gupta/"]
+  },
+  {
+    "id": "kunjal-mehta",
+    "name": "Kunjal Mehta",
+    "role": "Chief Financial Officer",
+    "company_ticker": "ADANIENSOL",
+    "date_joined": "2024-04-01",
+    "date_joined_precision": "exact",
+    "years_experience": 25,
+    "career_note": "Chartered Accountant and Cost Accountant with 25+ years across power, steel, ports/logistics and IT-enabled services, including Essar Steel India and finance leadership at Adani Ports & SEZ / Adani Electricity Mumbai. Appointed Adani Energy Solutions CFO effective 1 Apr 2024 (subsequently moved on to become CFO of Jindal Stainless in mid-2026).",
+    "career_history": [
+      { "company": "Essar Steel India", "role": "Senior finance roles", "period": "prior to Adani Group (approx.)", "listed": false },
+      { "company": "Adani Ports & SEZ / Adani Electricity Mumbai", "role": "Finance leadership roles", "period": "prior to 2024", "listed": true },
+      { "company": "Adani Energy Solutions", "role": "Chief Financial Officer", "period": "Apr 2024-mid 2026", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/companies/news/adani-energy-solutions-appoints-kunjal-mehta-as-cfo-with-effect-from-apr-1-124012900831_1.html", "https://www.taxscan.in/adani-energy-solutions-welcomes-kunjal-mehta-as-new-cfo/370160"]
+  },
+  {
+    "id": "p-ramakrishnan",
+    "name": "P. Ramakrishnan",
+    "role": "Chief Financial Officer",
+    "company_ticker": "LT",
+    "date_joined": "2026-07-01",
+    "date_joined_precision": "exact",
+    "years_experience": 30,
+    "career_note": "30+ year L&T veteran across taxation, treasury, investor relations and risk management, elevated to CFO effective 1 Jul 2026, succeeding long-serving CFO R. Shankar Raman (CFO since 2011, multiple 'Best CFO' award winner).",
+    "career_history": [
+      { "company": "Larsen & Toubro", "role": "Senior finance roles (taxation, treasury, IR, risk)", "period": "prior to 2026 (30+ years)", "listed": true },
+      { "company": "Larsen & Toubro", "role": "Chief Financial Officer", "period": "Jul 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.psuconnect.in/corporate-news/l-t-announces-key-management-changes-new-cfo-independent-directors", "https://constructionbusinesstoday.com/news/larsen-cfo/"]
+  },
+  {
+    "id": "william-walsh",
+    "name": "William Walsh",
+    "role": "Chief Executive Officer",
+    "company_ticker": "INDIGO",
+    "date_joined": "2026-08-03",
+    "date_joined_precision": "announced, onboarding pending",
+    "years_experience": 30,
+    "career_note": "Former CEO of Aer Lingus and British Airways, and CEO of International Airlines Group (IAG, parent of BA/Iberia/Aer Lingus/Vueling/Level) before leading IATA as Director General since 2021. Appointed IndiGo CEO following predecessor Pieter Elbers' resignation after a major 2025 operational crisis.",
+    "career_history": [
+      { "company": "Aer Lingus", "role": "Chief Executive Officer", "period": "approx. 2005-2011", "listed": true },
+      { "company": "International Airlines Group (IAG)", "role": "Chief Executive Officer (parent of British Airways, Iberia, Aer Lingus, Vueling, Level)", "period": "approx. 2011-2020", "listed": true },
+      { "company": "International Air Transport Association (IATA)", "role": "Director General", "period": "2021-2026", "listed": false },
+      { "company": "InterGlobe Aviation (IndiGo)", "role": "Chief Executive Officer", "period": "Aug 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://theprint.in/india/indigo-gets-new-ceo-4-months-after-major-operational-crisis-to-take-over-3-august/2893177/", "https://www.cnbc.com/2026/04/01/indigo-shares-jump-as-william-walshnew-ceo-.html"]
+  },
+  {
+    "id": "kvs-manian",
+    "name": "KVS Manian (Krishnan Venkat Subramanian)",
+    "role": "Managing Director & CEO",
+    "company_ticker": "FEDERALBNK",
+    "date_joined": "2024-09-23",
+    "date_joined_precision": "exact",
+    "years_experience": 30,
+    "career_note": "Long-serving Kotak Mahindra Bank veteran who rose to Joint Managing Director overseeing corporate, institutional, wholesale and investment banking. RBI approved him as Federal Bank MD & CEO for a three-year term effective 23 Sep 2024, succeeding Shyam Srinivasan after his 14-year tenure.",
+    "career_history": [
+      { "company": "Kotak Mahindra Bank", "role": "Various leadership roles up to Joint Managing Director", "period": "prior to 2024 (approx. 30 years)", "listed": true },
+      { "company": "Federal Bank", "role": "Managing Director & CEO", "period": "Sep 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/companies/people/reserve-bank-of-india-approves-kvs-manian-as-ceo-of-federal-bank-124072201258_1.html", "https://www.federal.bank.in/appointment-of-federal-bank-md-ceo"]
+  },
+  {
+    "id": "rama-mohan-rao-amara",
+    "name": "Rama Mohan Rao Amara",
+    "role": "Managing Director",
+    "company_ticker": "SBIN",
+    "date_joined": "2024-12-18",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Career SBI banker who was serving as Deputy Managing Director & Chief Risk Officer before being elevated to Managing Director for a three-year term with effect from 18 Dec 2024, filling a vacancy on SBI's central management committee.",
+    "career_history": [
+      { "company": "State Bank of India", "role": "Deputy Managing Director & Chief Risk Officer", "period": "prior to Dec 2024", "listed": true },
+      { "company": "State Bank of India", "role": "Managing Director", "period": "Dec 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.indiatvnews.com/business/news/govt-appoints-rama-mohan-rao-amara-as-sbi-managing-director-all-about-the-new-md-2024-12-19-966959", "https://www.business-standard.com/markets/capital-market-news/sbi-appoints-rama-mohan-rao-amara-as-md-124121900434_1.html"]
+  },
+  {
+    "id": "amit-jhingran",
+    "name": "Amit Jhingran",
+    "role": "Managing Director & CEO",
+    "company_ticker": "SBILIFE",
+    "date_joined": "2023-10-01",
+    "date_joined_precision": "exact",
+    "years_experience": 30,
+    "career_note": "30-year SBI career banker who held roles across international banking and retail banking, including Chief General Manager (Hyderabad Circle) and CEO of SBI's Chicago operations, before being appointed MD & CEO of SBI Life Insurance effective 1 Oct 2023.",
+    "career_history": [
+      { "company": "State Bank of India", "role": "Various roles up to Chief General Manager, Hyderabad Circle / CEO, SBI Chicago", "period": "prior to Oct 2023 (approx. 30 years)", "listed": true },
+      { "company": "SBI Life Insurance", "role": "Managing Director & CEO", "period": "Oct 2023-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.bwpeople.in/article/sbi-life-insurance-appoints-amit-jhingran-as-md-and-ceo-493209", "https://www.indiainfoline.com/news/markets/amit-jhingran-is-appointed-as-the-new-ceo-of-sbi-life-insurance"]
+  },
+  {
+    "id": "anup-bagchi",
+    "name": "Anup Bagchi",
+    "role": "Managing Director & CEO",
+    "company_ticker": "ICICIPRULI",
+    "date_joined": "2023-06-19",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Former Executive Director at ICICI Bank heading wholesale banking, and earlier MD & CEO of ICICI Securities. Joined ICICI Prudential Life as ED & COO from 1 May 2023 for transition, then formally took over as MD & CEO effective 19 Jun 2023, succeeding N.S. Kannan.",
+    "career_history": [
+      { "company": "ICICI Securities", "role": "Managing Director & CEO", "period": "prior to ICICI Bank ED role (approx.)", "listed": true },
+      { "company": "ICICI Bank", "role": "Executive Director, Wholesale Banking", "period": "prior to Jun 2023", "listed": true },
+      { "company": "ICICI Prudential Life Insurance", "role": "Managing Director & CEO", "period": "Jun 2023-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://cafemutual.com/news/insurance/28791-anup-bagchi-is-the-new-md-and-ceo-of-icici-pru-life", "https://www.business-standard.com/article/finance/anup-bagchi-to-take-over-as-md-ceo-of-icici-pru-life-insurance-in-june-123031600503_1.html"]
+  },
+  {
+    "id": "ramandeep-singh-sahni",
+    "name": "Ramandeep Singh Sahni",
+    "role": "Chief Financial Officer",
+    "company_ticker": "BAJAJFINSV",
+    "date_joined": "2025-02-01",
+    "date_joined_precision": "exact",
+    "years_experience": 25,
+    "career_note": "25+ year insurance and finance veteran who joined the Bajaj Finserv Group in 2014 as CFO of Bajaj Allianz Life Insurance, later also serving as CFO of Bajaj Allianz General Insurance (both unlisted group entities). Elevated to CFO of listed parent Bajaj Finserv effective 1 Feb 2025, succeeding S. Sreenivasan.",
+    "career_history": [
+      { "company": "Bajaj Allianz Life Insurance", "role": "Chief Financial Officer", "period": "2014-approx.", "listed": false },
+      { "company": "Bajaj Allianz General Insurance", "role": "Chief Financial Officer", "period": "approx.-2025", "listed": false },
+      { "company": "Bajaj Finserv", "role": "Chief Financial Officer", "period": "Feb 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://boardstewardship.com/ramandeep-sahni-succeeds-s-sreenivasan-as-cfo-of-bajaj-finserv/", "https://apacnewsnetwork.com/2025/01/bajaj-finserv-names-ramandeep-singh-sahni-as-new-cfo/"]
+  },
+  {
+    "id": "ravindra-kumar-kundu",
+    "name": "Ravindra Kumar Kundu",
+    "role": "Managing Director",
+    "company_ticker": "CHOLAFIN",
+    "date_joined": "2024-10-07",
+    "date_joined_precision": "exact",
+    "years_experience": 37,
+    "career_note": "37-year automobile and financial services veteran who spent 25 years at Cholamandalam, joining as a Senior Executive in the Vehicle Finance division and rising to Executive Director (2020-2024) before becoming Managing Director effective 7 Oct 2024.",
+    "career_history": [
+      { "company": "Cholamandalam Investment and Finance Company", "role": "Senior Executive, Vehicle Finance -> Executive Director", "period": "1999-2024 (25 years)", "listed": true },
+      { "company": "Cholamandalam Investment and Finance Company", "role": "Managing Director", "period": "Oct 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.cholamandalam.com/about-us/board-directors", "https://www.cholamandalam.com/news/press-release"]
+  },
+  {
+    "id": "anup-kumar-saha",
+    "name": "Anup Kumar Saha",
+    "role": "Managing Director",
+    "company_ticker": "BAJFINANCE",
+    "date_joined": "2025-04-01",
+    "date_joined_precision": "exact",
+    "years_experience": 25,
+    "career_note": "Spent 14 years at ICICI Bank (rising to Senior General Manager) before joining Bajaj Finance in 2017; appointed Executive Director in Apr 2023 and elevated to Managing Director effective 1 Apr 2025 as Rajeev Jain moved to Vice-Chairman. Saha resigned in Jul 2025 after being a contender for IndusInd Bank's MD & CEO role, which ultimately went to Rajiv Anand.",
+    "career_history": [
+      { "company": "ICICI Bank", "role": "Various roles up to Senior General Manager", "period": "prior to 2017 (14 years)", "listed": true },
+      { "company": "Bajaj Finance", "role": "Executive Director", "period": "2017-2025", "listed": true },
+      { "company": "Bajaj Finance", "role": "Managing Director", "period": "Apr 2025-Jul 2025", "listed": true }
+    ],
+    "sources": ["https://www.business-standard.com/companies/news/bajaj-finance-elevates-anup-kumar-saha-to-managing-director-from-april-1-125032001309_1.html", "https://boardstewardship.com/bajaj-finance-md-anup-saha-quits-to-join-indusind-bank-as-md-ceo/"]
+  },
+  {
+    "id": "manoj-bhat",
+    "name": "Manoj Bhat",
+    "role": "Group Chief Financial Officer",
+    "company_ticker": "M&M",
+    "date_joined": "2025-04-02",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Served as Tech Mahindra's CFO since June 2018 before moving to Mahindra & Mahindra as Group CFO effective 2 Apr 2025, the same day Anish Shah (previously Deputy MD & Group CFO) stepped up to Managing Director & CEO.",
+    "career_history": [
+      { "company": "Tech Mahindra", "role": "Chief Financial Officer", "period": "Jun 2018-Apr 2025", "listed": true },
+      { "company": "Mahindra & Mahindra", "role": "Group Chief Financial Officer", "period": "Apr 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.morungexpress.com/manoj-bhat-to-be-new-cfo-of-mahindra-group"]
+  },
+  {
+    "id": "arnab-roy",
+    "name": "Arnab Roy",
+    "role": "Chief Financial Officer",
+    "company_ticker": "MARUTI",
+    "date_joined": "2024-01-01",
+    "date_joined_precision": "exact",
+    "years_experience": 26,
+    "career_note": "26-year finance leader with CFO stints across GE, Tyco Group, G4S Security and Herbalife, most recently Zone CFO for Schneider Electric's Greater India region (a ~Rs 22,000 crore business spanning multiple Schneider entities including the NSE/BSE-listed Schneider Electric Infrastructure). Appointed Maruti Suzuki CFO effective 1 Jan 2024, succeeding retiring CFO Ajay Seth.",
+    "career_history": [
+      { "company": "GE / Tyco Group / G4S Security / Herbalife", "role": "Various CFO roles", "period": "prior to Schneider (approx.)", "listed": true },
+      { "company": "Schneider Electric", "role": "Zone Chief Financial Officer, Greater India", "period": "Jan 2022-Dec 2023", "listed": true },
+      { "company": "Maruti Suzuki India", "role": "Chief Financial Officer", "period": "Jan 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/companies/news/maruti-suzuki-india-appoints-schneider-s-executive-arnab-roy-as-cfo-123082901210_1.html", "https://ceoworld.biz/2023/08/29/arnab-roy-from-schneider-is-the-new-cfo-of-maruti-suzuki/"]
+  },
+  {
+    "id": "km-balaji",
+    "name": "K.M. Balaji",
+    "role": "Chief Financial Officer",
+    "company_ticker": "ASHOKLEY",
+    "date_joined": "2024-06-01",
+    "date_joined_precision": "exact",
+    "years_experience": 31,
+    "career_note": "31-year Ashok Leyland veteran across MIS, budgeting, product cost engineering, taxation, treasury and investor relations. Promoted from Deputy CFO to CFO effective 1 Jun 2024, succeeding Gopal Mahadevan, who moved to Director - Strategic Finance & M&A.",
+    "career_history": [
+      { "company": "Ashok Leyland", "role": "Various finance roles up to Deputy CFO", "period": "1993-2024 (31 years)", "listed": true },
+      { "company": "Ashok Leyland", "role": "Chief Financial Officer", "period": "Jun 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://ceoworld.biz/2024/05/27/ashok-leyland-appoints-k-m-balaji-as-new-cfo-amid-strong-financial-performance/", "https://www.business-standard.com/markets/capital-market-news/ashok-leyland-announces-change-in-cfo-124052400961_1.html"]
+  },
+  {
+    "id": "kedar-dixit",
+    "name": "Kedar Dixit",
+    "role": "Chief Financial Officer",
+    "company_ticker": "BHARATFORG",
+    "date_joined": "2023-07-01",
+    "date_joined_precision": "exact",
+    "years_experience": 23,
+    "career_note": "Career Bharat Forge finance executive since 2002, heading the Finance & Accounting function as Senior Vice President before being elevated to Chief Financial Officer effective 1 Jul 2023.",
+    "career_history": [
+      { "company": "Bharat Forge", "role": "Senior Vice President, Finance & Accounting", "period": "2002-2023 (23 years)", "listed": true },
+      { "company": "Bharat Forge", "role": "Chief Financial Officer", "period": "Jul 2023-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://boardstewardship.com/kedar-dixit-is-appointed-as-cfo-at-bharat-forge/", "https://in.tradingview.com/news/reuters.com,2023:newsml_FWN3721II:0-bharat-forge-names-kedar-dixit-as-cfo/"]
+  },
+  {
+    "id": "sudarshan-venu",
+    "name": "Sudarshan Venu",
+    "role": "Chairman & Managing Director",
+    "company_ticker": "TVSMOTOR",
+    "date_joined": "2025-08-25",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Already serving as Managing Director of TVS Motor Company, Sudarshan Venu took on the additional role of Chairman effective 25 Aug 2025, succeeding Sir Ralf Speth, who stepped down at the 2025 AGM and became Chief Mentor of the company.",
+    "career_history": [
+      { "company": "TVS Motor Company", "role": "Managing Director", "period": "prior to Aug 2025", "listed": true },
+      { "company": "TVS Motor Company", "role": "Chairman & Managing Director", "period": "Aug 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.businesswire.com/news/home/20250606441596/en/TVS-Motor-Announces-Sudarshan-Venu-as-Chairman-of-the-Company-Effective-August-25-2025", "https://www.business-standard.com/amp/markets/capital-market-news/tvs-motor-promotes-md-sudarshan-venu-as-chairman-effective-august-25-125060500670_1.html"]
+  },
+  {
+    "id": "bharat-goenka",
+    "name": "Bharat Goenka",
+    "role": "Chief Financial Officer",
+    "company_ticker": "HINDALCO",
+    "date_joined": "2025-04-01",
+    "date_joined_precision": "exact",
+    "years_experience": 25,
+    "career_note": "25+ year finance leader, the majority of it at Hindustan Unilever, with later stints as CFO of Mahindra & Mahindra's Automobile Division, CFO of Vedanta's Aluminium & Power Division, and Finance Director for Unilever North America. Joined Hindalco in Sep 2024 and became CFO effective 1 Apr 2025, succeeding Praveen Kumar Maheshwari.",
+    "career_history": [
+      { "company": "Hindustan Unilever", "role": "Various senior finance roles", "period": "majority of ~25 years", "listed": true },
+      { "company": "Mahindra & Mahindra (Automobile Division)", "role": "Chief Financial Officer", "period": "approx. mid-career", "listed": true },
+      { "company": "Vedanta Limited (Aluminium & Power Division)", "role": "Chief Financial Officer", "period": "prior to Hindalco", "listed": true },
+      { "company": "Hindalco Industries", "role": "Chief Financial Officer", "period": "Apr 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.bseindia.com/xml-data/corpfiling/AttachHis/52436a45-5db4-4ce7-8be9-b0571afa540f.pdf", "https://hrtoday.in/bharat-goenka-appointed-as-chief-financial-officer-at-hindalco-industries-limited/"]
+  },
+  {
+    "id": "swayam-saurabh",
+    "name": "Swayam Saurabh",
+    "role": "Chief Financial Officer",
+    "company_ticker": "JSWSTEEL",
+    "date_joined": "2024-08-01",
+    "date_joined_precision": "approximate (month uncertain)",
+    "years_experience": null,
+    "career_note": "Career spanning Larsen & Toubro, Asian Paints, Ola, Hindustan Zinc and Royal Philips before serving as CFO of listed textile company Arvind Limited (Dec 2021-Jul 2023). Joined JSW Steel as CFO Designate in Jul 2023 and was confirmed as full CFO around mid-2024.",
+    "career_history": [
+      { "company": "Larsen & Toubro / Asian Paints / Ola / Hindustan Zinc / Royal Philips", "role": "Various senior finance roles", "period": "prior to Arvind (approx.)", "listed": true },
+      { "company": "Arvind Limited", "role": "Chief Financial Officer", "period": "Dec 2021-Jul 2023", "listed": true },
+      { "company": "JSW Steel", "role": "Chief Financial Officer (Designate, then CFO)", "period": "Jul 2023-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://cxolanes.com/leadership-moves/cfo/swayam-saurabh-appointed-as-chief-financial-officer-at-jsw-steel/", "https://constrofacilitator.com/jsw-steel-appoints-swayam-saurabh-as-cfo-designate/"]
+  },
+  {
+    "id": "gautam-malhotra",
+    "name": "Gautam Malhotra",
+    "role": "Chief Executive Officer",
+    "company_ticker": "JINDALSTEL",
+    "date_joined": "2025-10-28",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Best known as founder of doorstep fuel-delivery startup FuelBuddy. Joined Jindal Steel & Power in May 2024 and worked across mining, production, HR, logistics, technology and sales before being named CEO effective 28 Oct 2025 - the company's first top leadership change in five years.",
+    "career_history": [
+      { "company": "FuelBuddy", "role": "Founder", "period": "prior to May 2024", "listed": false },
+      { "company": "Jindal Steel & Power", "role": "Various leadership roles", "period": "May 2024-Oct 2025", "listed": true },
+      { "company": "Jindal Steel & Power", "role": "Chief Executive Officer", "period": "Oct 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.peoplematters.in/news/appointments/jindal-steel-names-gautam-malhotra-as-its-new-chief-executive-officer-47007", "https://www.storyboard18.com/brand-makers/jindal-steel-names-gautam-malhotra-as-ceo-after-five-year-gap-83345.htm"]
+  },
+  {
+    "id": "ajay-goel",
+    "name": "Ajay Goel",
+    "role": "Chief Financial Officer",
+    "company_ticker": "VEDL",
+    "date_joined": "2023-10-30",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Joined Vedanta Limited in Mar 2021 as Deputy CFO, took over as Acting CFO in Oct 2021, and was confirmed as full Chief Financial Officer effective 30 Oct 2023.",
+    "career_history": [
+      { "company": "Vedanta Limited", "role": "Deputy CFO -> Acting CFO", "period": "Mar 2021-Oct 2023", "listed": true },
+      { "company": "Vedanta Limited", "role": "Chief Financial Officer", "period": "Oct 2023-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/companies/news/anil-agarwal-s-vedanta-appoints-ajay-goel-s-as-chief-financial-officer-123102400594_1.html"]
+  },
+  {
+    "id": "amitava-mukherjee",
+    "name": "Amitava Mukherjee",
+    "role": "Chairman & Managing Director",
+    "company_ticker": "NMDC",
+    "date_joined": "2025-03-06",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Selected by the Public Enterprises Selection Board in Nov 2024 and appointed Chairman & Managing Director of NMDC effective 6 Mar 2025, with tenure running until his superannuation on 29 Feb 2028. Was concurrently CMD of NMDC Steel and given additional charge of Director (Finance) at various points.",
+    "career_history": [
+      { "company": "NMDC / NMDC Steel", "role": "Various senior leadership roles", "period": "prior to Mar 2025 (approx.)", "listed": true },
+      { "company": "NMDC Limited", "role": "Chairman & Managing Director", "period": "Mar 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/markets/capital-market-news/nmdc-appoints-amitava-mukherjee-as-chairman-managing-director-125030700461_1.html", "https://whispersinthecorridors.com/detail/128461-Amitava+Mukherjee+selected+as+CMD,+NMDC.html"]
+  },
+  {
+    "id": "anurag-kapil",
+    "name": "Anurag Kapil",
+    "role": "Director (Finance) & CFO",
+    "company_ticker": "NMDC",
+    "date_joined": "2026-03-31",
+    "date_joined_precision": "exact",
+    "years_experience": 26,
+    "career_note": "1998-batch Indian Railway Accounts Service officer with 26 years across Indian Railways and central PSUs, most recently Executive Director (Finance-Expenditure) at the Railway Board. Appointed Director (Finance) & CFO of NMDC for a five-year term effective 31 Mar 2026.",
+    "career_history": [
+      { "company": "Indian Railways / Railway Board", "role": "Various roles up to Executive Director (Finance-Expenditure)", "period": "1998-2026 (26 years)", "listed": false },
+      { "company": "NMDC Limited", "role": "Director (Finance) & CFO", "period": "Mar 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://egov.eletsonline.com/2026/03/nmdc-appoints-anurag-kapil-as-director-finance/", "https://scanx.trade/stock-market-news/companies/nmdc-limited-appoints-anurag-kapil-as-director-finance-for-five-year-term/36509824"]
+  },
+  {
+    "id": "saurabh-mashruwala",
+    "name": "Saurabh Mashruwala",
+    "role": "Chief Financial Officer",
+    "company_ticker": "TORNTPOWER",
+    "date_joined": "2023-04-14",
+    "date_joined_precision": "exact",
+    "years_experience": 33,
+    "career_note": "33-year corporate finance veteran with earlier leadership roles at Adani Power and Arvind Mills, joined Torrent Power in Jan 2009 and rose to Vice President - Finance before being appointed CFO effective 14 Apr 2023, succeeding Lalit Malik, who resigned for health reasons.",
+    "career_history": [
+      { "company": "Adani Power / Arvind Mills", "role": "Various senior finance roles", "period": "prior to 2009 (approx.)", "listed": true },
+      { "company": "Torrent Power", "role": "Vice President - Finance", "period": "2009-2023", "listed": true },
+      { "company": "Torrent Power", "role": "Chief Financial Officer", "period": "Apr 2023-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/companies/news/lalit-malik-resigns-as-torrent-power-cfo-co-appoints-saurabh-mashruwala-123041301013_1.html", "https://solarquarter.com/2023/04/18/torrent-power-appoints-saurabh-mashruwala-as-new-cfo-following-lalit-maliks-resignation/"]
+  },
+  {
+    "id": "anupam-agarwal",
+    "name": "Anupam Agarwal",
+    "role": "Director (Finance)",
+    "company_ticker": "ONGC",
+    "date_joined": "2025-06-03",
+    "date_joined_precision": "exact",
+    "years_experience": 35,
+    "career_note": "35+ year finance and commercial-management veteran in the oil and gas sector who served as Director (Finance) of ONGC Videsh (ONGC's unlisted overseas arm) from Jun 2022 before being appointed Director (Finance) of the parent, listed ONGC, effective 3 Jun 2025.",
+    "career_history": [
+      { "company": "ONGC Videsh Limited", "role": "Director (Finance)", "period": "Jun 2022-Jun 2025", "listed": false },
+      { "company": "Oil & Natural Gas Corporation", "role": "Director (Finance)", "period": "Jun 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://psuwatch.com/amp/story/psu-appointments/anupam-agarwal-assumes-charge-as-director-finance-of-ongc", "https://hrtoday.in/shri-anupam-agarwal-appointed-director-finance-at-ongc/"]
+  },
+  {
+    "id": "rk-tyagi",
+    "name": "Ravindra Kumar Tyagi",
+    "role": "Chairman & Managing Director",
+    "company_ticker": "POWERGRID",
+    "date_joined": "2024-01-01",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Was Director (Operations) of Power Grid Corporation of India since Aug 2022 before taking over as Chairman & Managing Director effective 1 Jan 2024, leading the Maharatna CPSE until his term end on 31 Mar 2026.",
+    "career_history": [
+      { "company": "Power Grid Corporation of India", "role": "Director (Operations)", "period": "Aug 2022-Dec 2023", "listed": true },
+      { "company": "Power Grid Corporation of India", "role": "Chairman & Managing Director", "period": "Jan 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.indianmandarins.com/news/powergrid-rk-tyagi-takes-over-as-cmd/28173", "https://utkarsh.com/current-affairs/national/appointment-update/ravindra-kumar-tyagi-appointed-as-new-cmd-of-power-grid-corporation"]
+  },
+  {
+    "id": "v-srikanth",
+    "name": "Venkatachari Srikanth (V. Srikanth)",
+    "role": "Chief Financial Officer",
+    "company_ticker": "RELIANCE",
+    "date_joined": "2023-06-01",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Was Joint Chief Financial Officer of Reliance Industries from 2011 before being elevated to full CFO effective 1 Jun 2023, succeeding Alok Agarwal, who turned 65 after 30 years at the firm and moved to Senior Advisor to the Chairman & Managing Director.",
+    "career_history": [
+      { "company": "Reliance Industries", "role": "Joint Chief Financial Officer", "period": "2011-2023", "listed": true },
+      { "company": "Reliance Industries", "role": "Chief Financial Officer", "period": "Jun 2023-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/article/companies/ril-names-v-srikanth-as-new-cfo-alok-agarwal-as-senior-advisor-to-chairman-123032401446_1.html", "https://www.businessworld.in/article/reliance-industries-picks-srikanth-venkatachari-as-its-new-cfo--470449"]
+  },
+  {
+    "id": "suresh-vasant-patil",
+    "name": "Suresh Vasant Patil",
+    "role": "Chief Executive Officer",
+    "company_ticker": "INDIACEM",
+    "date_joined": "2025-01-01",
+    "date_joined_precision": "exact",
+    "years_experience": 35,
+    "career_note": "35+ year Aditya Birla Group civil engineer who joined as a Management Trainee in 1988 and most recently headed UltraTech Cement's Ready-Mix Concrete, Key Accounts and Building Products divisions. Named CEO of newly UltraTech-controlled India Cements effective 1 Jan 2025, following the exit of the founding promoter.",
+    "career_history": [
+      { "company": "UltraTech Cement", "role": "Head, Ready-Mix Concrete / Key Accounts / Building Products", "period": "prior to 2025 (within 35+ year Aditya Birla Group career)", "listed": true },
+      { "company": "The India Cements", "role": "Chief Executive Officer", "period": "Jan 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://in.marketscreener.com/quote/stock/THE-INDIA-CEMENTS-LIMITED-9059001/news/The-India-Cements-Limited-Appoints-Suresh-Vasant-Patil-as-Chief-Executive-Officer-Effective-Januar-48668499/", "https://www.business-standard.com/companies/news/new-leadership-for-india-cements-ultratech-appoints-new-ceo-cfo-for-new-subsidiary-125010100301_1.html"]
+  },
+  {
+    "id": "jayant-dua",
+    "name": "Jayant Dua",
+    "role": "Managing Director (Designate)",
+    "company_ticker": "ULTRACEMCO",
+    "date_joined": "2026-04-01",
+    "date_joined_precision": "exact (designate); becomes full MD 1 Jan 2027",
+    "years_experience": 37,
+    "career_note": "37-year Aditya Birla Group veteran since 1996, having led Group companies including Aditya Birla Insulators, Century Textiles and Chlor Alkali as CEO, served as UltraTech Cement's Group Executive President (2014-2015), and most recently as Business Head - Renewables & Textiles. Named UltraTech Cement Managing Director (Designate) effective 1 Apr 2026, set to become full MD on 1 Jan 2027 succeeding K.C. Jhanwar.",
+    "career_history": [
+      { "company": "Aditya Birla Insulators / Century Textiles / Chlor Alkali", "role": "CEO of various Group companies", "period": "1996-2023 (approx.)", "listed": true },
+      { "company": "Aditya Birla Group", "role": "Business Head - Renewables & Textiles", "period": "2023-2026", "listed": true },
+      { "company": "UltraTech Cement", "role": "Managing Director (Designate)", "period": "Apr 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.cemnet.com/News/story/180943/ultratech-names-jayant-dua-as-md-designate.html", "https://www.business-standard.com/markets/capital-market-news/ultratech-cement-board-appoints-jayant-dua-as-managing-director-designate-126030600712_1.html"]
+  },
+  {
+    "id": "aravind-viswanathan",
+    "name": "Aravind Viswanathan",
+    "role": "Chief Financial Officer",
+    "company_ticker": "MPHASIS",
+    "date_joined": "2024-08-16",
+    "date_joined_precision": "exact",
+    "years_experience": 25,
+    "career_note": "Spent 19 years at Wipro across business finance for strategic business units, then became CFO of Tanla Platforms in April 2021. Joined Mphasis as CFO on 16 Aug 2024.",
+    "career_history": [
+      { "company": "Wipro Limited", "role": "Various business finance roles", "period": "prior to 2021 (19 years)", "listed": true },
+      { "company": "Tanla Platforms", "role": "Chief Financial Officer", "period": "Apr 2021-Aug 2024", "listed": true },
+      { "company": "Mphasis", "role": "Chief Financial Officer", "period": "Aug 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.bwpeople.in/article/mphasis-onboards-aravind-viswanathan-as-cfo-529895", "https://boardstewardship.com/girish-paranjpe-joins-mphasis-limited-as-independent-director-aravind-viswanathan-is-appointed-new-cfo/"]
+  },
+  {
+    "id": "shiv-walia",
+    "name": "Shiv Walia",
+    "role": "Chief Financial Officer",
+    "company_ticker": "HCLTECH",
+    "date_joined": "2024-09-06",
+    "date_joined_precision": "exact",
+    "years_experience": 31,
+    "career_note": "HCL veteran since 1993 who served as Corporate Vice President & Global Head of FP&A and Business Finance Operations before being elevated to Group CFO on 6 Sep 2024, succeeding Prateek Aggarwal.",
+    "career_history": [
+      { "company": "HCL Technologies", "role": "Corporate VP & Global Head, FP&A and Business Finance Operations", "period": "1993-2024 (31 years)", "listed": true },
+      { "company": "HCL Technologies", "role": "Chief Financial Officer", "period": "Sep 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://hrtoday.in/hcltech-appoints-shiv-walia-as-chief-financial-officer/", "https://www.business-standard.com/companies/people/hcltech-appoints-shiv-walia-as-new-cfo-prateek-aggarwal-to-step-down-124081900968_1.html"]
+  },
+  {
+    "id": "saurabh-goel",
+    "name": "Saurabh Goel",
+    "role": "Chief Financial Officer",
+    "company_ticker": "COFORGE",
+    "date_joined": "2024-01-05",
+    "date_joined_precision": "exact",
+    "years_experience": 19,
+    "career_note": "13-year Coforge veteran who served as Deputy CFO & EVP overseeing investor relations, pricing and business finance before being elevated to CFO on 5 Jan 2024, succeeding Ajay Kalra.",
+    "career_history": [
+      { "company": "Coforge", "role": "Deputy CFO & Executive Vice President", "period": "2011-2024 (13 years)", "listed": true },
+      { "company": "Coforge", "role": "Chief Financial Officer", "period": "Jan 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://boardstewardship.com/coforge-appoints-saurabh-goel-as-cfo/", "https://www.icicidirect.com/research/equity/trending-news/coforge-cfo-ajay-kalra-resigns-appoints-erstwhile-deputy-cfo-saurabh-goel-as-new-cfo"]
+  },
+  {
+    "id": "jayesh-sanghrajka",
+    "name": "Jayesh Sanghrajka",
+    "role": "Chief Financial Officer",
+    "company_ticker": "INFY",
+    "date_joined": "2024-04-01",
+    "date_joined_precision": "exact",
+    "years_experience": 25,
+    "career_note": "18-year Infosys veteran (across two stints) who served as Deputy CFO since October 2015 before being promoted to Group CFO effective 1 Apr 2024, succeeding Nilanjan Roy.",
+    "career_history": [
+      { "company": "Infosys", "role": "Deputy Chief Financial Officer", "period": "2015-2024", "listed": true },
+      { "company": "Infosys", "role": "Chief Financial Officer", "period": "Apr 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.bwpeople.in/article/infosys-appoints-jayesh-sanghrajka-as-cfo-as-nilanjan-roy-steps-down-501820", "https://www.infosys.com/newsroom/press-releases/2023/appoints-chief-financial-officer.html"]
+  },
+  {
+    "id": "jaideep-dhok",
+    "name": "Jaideep Dhok",
+    "role": "Chief Operating Officer – Technology",
+    "company_ticker": "PERSISTENT",
+    "date_joined": "2025-08-12",
+    "date_joined_precision": "exact",
+    "years_experience": 23,
+    "career_note": "23-year technology/BFSI veteran who led Persistent's Banking, Financial Services and Insurance unit as SVP before being elevated to COO-Technology on 12 Aug 2025, succeeding Dhanashree Bhat.",
+    "career_history": [
+      { "company": "Persistent Systems", "role": "Senior Vice President – BFSI", "period": "prior to 2025", "listed": true },
+      { "company": "Persistent Systems", "role": "Chief Operating Officer – Technology", "period": "Aug 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://mediabrief.com/persistent-systems-announces-coo-transition-as-dhanashree-bhat-steps-down-jaideep-dhok-elevated/", "https://www.hrkatha.com/people/movement/persistent-systems-elevates-jaideep-dhok-to-coo-technology/"]
+  },
+  {
+    "id": "priya-nair",
+    "name": "Priya Nair",
+    "role": "Chief Executive Officer & Managing Director",
+    "company_ticker": "HINDUNILVR",
+    "date_joined": "2025-08-01",
+    "date_joined_precision": "exact",
+    "years_experience": 30,
+    "career_note": "Nearly 30-year Unilever veteran who ran HUL's Home Care and Beauty & Personal Care businesses before moving to a global role as Unilever's Business Group President – Beauty & Wellbeing, then returning to India as HUL's first woman CEO & MD on 1 Aug 2025, succeeding Rohit Jawa.",
+    "career_history": [
+      { "company": "Hindustan Unilever", "role": "Executive Director, Home Care; then Beauty & Personal Care", "period": "prior to ~2022", "listed": true },
+      { "company": "Unilever plc", "role": "Business Group President – Beauty & Wellbeing", "period": "~2022-2025", "listed": true },
+      { "company": "Hindustan Unilever", "role": "Chief Executive Officer & Managing Director", "period": "Aug 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://hrtoday.in/priya-nair-appointed-ceo-and-md-of-hindustan-unilever-limited/", "https://www.businesstoday.in/latest/corporate/story/priya-nair-named-new-md-and-ceo-of-hindustan-unilever-effective-august-1-2025-484115-2025-07-10"]
+  },
+  {
+    "id": "manish-tiwary",
+    "name": "Manish Tiwary",
+    "role": "Managing Director & Chairman",
+    "company_ticker": "NESTLEIND",
+    "date_joined": "2025-02-01",
+    "date_joined_precision": "exact",
+    "years_experience": 29,
+    "career_note": "Spent 20 years at Unilever across India, the Gulf and North Africa, then over 8 years at Amazon India as Country Manager, before joining Nestle India as MD-designate on 1 Feb 2025; took over as MD & Chairman on 1 Aug 2025, succeeding Suresh Narayanan.",
+    "career_history": [
+      { "company": "Hindustan Unilever / Unilever", "role": "Various leadership roles", "period": "prior to ~2016 (20 years)", "listed": true },
+      { "company": "Amazon India", "role": "Country Manager", "period": "~2016-2025 (8+ years)", "listed": true },
+      { "company": "Nestle India", "role": "Managing Director & Chairman", "period": "Feb 2025 (designate) / Aug 2025 (MD & Chairman)-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.angelone.in/news/share-market/meet-manish-tiwary-the-next-chairman-and-md-of-nestl-india", "https://www.business-standard.com/companies/news/manish-tiwary-to-become-nestle-india-md-after-narayanan-retires-in-2025-124100700321_1.html"]
+  },
+  {
+    "id": "pawan-agrawal",
+    "name": "Pawan Agrawal",
+    "role": "Group CFO & CEO – International Business",
+    "company_ticker": "MARICO",
+    "date_joined": "2025-04-01",
+    "date_joined_precision": "exact",
+    "years_experience": 25,
+    "career_note": "25-year Marico veteran (joined 2004) and Group CFO since September 2020; given additional charge of Marico's international business (Southeast Asia and Bangladesh) as CEO-International effective 1 Apr 2025.",
+    "career_history": [
+      { "company": "Eveready Industries (India)", "role": "Internal Audit & Sales Commercial", "period": "prior to 2004 (4 years)", "listed": true },
+      { "company": "Marico", "role": "Various roles up to Group CFO (since Sep 2020)", "period": "2004-2025", "listed": true },
+      { "company": "Marico", "role": "Group CFO & CEO – International Business", "period": "Apr 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.storyboard18.com/brand-makers/marico-elevates-pawan-agrawal-to-group-cfo-and-ceo-international-ws-l-93924.htm", "https://www.bwmarketingworld.com/article/marico-expands-pawan-agrawal-s-role-as-group-cfo-ceo-international-biz-600347"]
+  },
+  {
+    "id": "herjit-bhalla",
+    "name": "Herjit S. Bhalla",
+    "role": "Chief Executive Officer – India Business",
+    "company_ticker": "DABUR",
+    "date_joined": "2026-04-15",
+    "date_joined_precision": "exact",
+    "years_experience": 25,
+    "career_note": "25+ year FMCG veteran with senior roles at Unilever, Metro Cash & Carry and The Hershey Company; joined Dabur India as CEO – India Business effective 15 Apr 2026, reporting to newly-elevated Global CEO Mohit Malhotra.",
+    "career_history": [
+      { "company": "Hindustan Unilever / Metro Cash & Carry / The Hershey Company", "role": "Senior leadership roles", "period": "prior to 2026 (25+ years)", "listed": true },
+      { "company": "Dabur India", "role": "Chief Executive Officer – India Business", "period": "Apr 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/companies/news/dabur-india-appoints-herjit-s-bhalla-as-ceo-for-india-business-operations-126042301142_1.html", "https://hrtoday.in/herjit-s-bhalla-appointed-as-chief-executive-officer-india-business-at-dabur-india-limited/"]
+  },
+  {
+    "id": "mohit-malhotra",
+    "name": "Mohit Malhotra",
+    "role": "Global Chief Executive Officer",
+    "company_ticker": "DABUR",
+    "date_joined": "2026-02-17",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Long-serving Dabur India executive elevated to Global CEO effective 17 Feb 2026, as part of a leadership restructuring that also created a separate India-business CEO role reporting to him.",
+    "career_history": [
+      { "company": "Dabur India", "role": "Senior leadership roles (incl. India Business)", "period": "prior to 2026", "listed": true },
+      { "company": "Dabur India", "role": "Global Chief Executive Officer", "period": "Feb 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.hpcmagmea.com/2026/02/19/dabur-india-restructures-leadership-with-new-ceo-appointments/"]
+  },
+  {
+    "id": "p-venkatesalu",
+    "name": "P. Venkatesalu",
+    "role": "Managing Director",
+    "company_ticker": "TRENT",
+    "date_joined": "2024-10-01",
+    "date_joined_precision": "approximate",
+    "years_experience": 23,
+    "career_note": "Joined Trent (Tata Group) in 2008 after a stint with Tata Sons/Tata Administrative Services; rose to CEO & Executive Director before being elevated to Managing Director in October 2024.",
+    "career_history": [
+      { "company": "Tata Sons / Tata Administrative Services", "role": "Group Finance team", "period": "2001-2008", "listed": true },
+      { "company": "Trent Limited", "role": "Various roles up to CEO & Executive Director", "period": "2008-2024", "listed": true },
+      { "company": "Trent Limited", "role": "Managing Director", "period": "Oct 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.indiaretailing.com/2024/07/04/two-years-from-now-zudio-should-be-different-from-today-p-venkatesalu", "https://naction.in/meet-p-venkatesalu/"]
+  },
+  {
+    "id": "karthik-yathindra",
+    "name": "Karthik Yathindra",
+    "role": "Chief Executive Officer",
+    "company_ticker": "PAGEIND",
+    "date_joined": "2025-04-01",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "9-year Page Industries (Jockey/Speedo licensee) veteran who served as President – Chief Sales & Marketing Officer before being named CEO effective 1 Apr 2025.",
+    "career_history": [
+      { "company": "Page Industries", "role": "President – Chief Sales & Marketing Officer", "period": "prior to 2025 (9 years)", "listed": true },
+      { "company": "Page Industries", "role": "Chief Executive Officer", "period": "Apr 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://in.apparelresources.com/business-news/retail/karthik-yathindra-new-ceo-page-industries/", "https://www.angelone.in/news/page-industries-appoints-karthik-yathindra-as-ceo"]
+  },
+  {
+    "id": "gaurav-sharma",
+    "name": "Gaurav Sharma",
+    "role": "Chief Financial Officer",
+    "company_ticker": "PVRINOX",
+    "date_joined": "2024-08-01",
+    "date_joined_precision": "exact",
+    "years_experience": 18,
+    "career_note": "Joined PVR in May 2022 as SVP-Finance & Head of Investor Relations; elevated to CFO of the merged PVR Inox entity effective 1 Aug 2024, succeeding Nitin Sood.",
+    "career_history": [
+      { "company": "PVR Inox", "role": "SVP-Finance & Head, Investor Relations", "period": "2022-2024", "listed": true },
+      { "company": "PVR Inox", "role": "Chief Financial Officer", "period": "Aug 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://boardstewardship.com/pvr-inox-appoints-gaurav-sharma-as-cfo/", "https://www.capitalmarket.com/markets/news/corporate-news/Board-of-PVR-Inox-appoints-CFO/1517158"]
+  },
+  {
+    "id": "himanshu-agarwal",
+    "name": "Himanshu Agarwal",
+    "role": "Chief Financial Officer & Whole-time Director",
+    "company_ticker": "NAUKRI",
+    "date_joined": "2026-09-17",
+    "date_joined_precision": "announced, onboarding pending",
+    "years_experience": 30,
+    "career_note": "30+ year finance leader who was CFO of Bennett Coleman & Co (Times Group) and held CFO roles at Huhtamaki, AkzoNobel India and AstraZeneca Pharma India, most recently CFO at Cohance Lifesciences; appointed CFO & whole-time director of Info Edge (Naukri.com) for a 5-year term effective 17 Sep 2026.",
+    "career_history": [
+      { "company": "AstraZeneca Pharma India / AkzoNobel India / Huhtamaki", "role": "Chief Financial Officer (various)", "period": "prior to ~2020", "listed": true },
+      { "company": "Bennett Coleman & Co Ltd (Times Group)", "role": "Chief Financial Officer", "period": "~2020-2023", "listed": false },
+      { "company": "Cohance Lifesciences", "role": "Whole-time Director & CFO", "period": "Jan 2024-2026", "listed": false },
+      { "company": "Info Edge (India)", "role": "Chief Financial Officer & Whole-time Director", "period": "Sep 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/amp/markets/capital-market-news/info-edge-appoints-himanshu-agarwal-as-cfo-for-5-years-126062700154_1.html", "https://inc42.com/buzz/info-edge-appoints-former-bennett-coleman-cfo-himanshu-agarwal-as-finance-chief/"]
+  },
+  {
+    "id": "p-ganesh",
+    "name": "P Ganesh",
+    "role": "Chief Financial Officer",
+    "company_ticker": "NYKAA",
+    "date_joined": "2023-02-03",
+    "date_joined_precision": "exact",
+    "years_experience": 27,
+    "career_note": "27-year finance veteran with prior leadership roles at Godrej Group, Glenmark Pharma and Pidilite; joined Nykaa (FSN E-Commerce Ventures) from TAFE Group as CFO effective 3 Feb 2023.",
+    "career_history": [
+      { "company": "Godrej Group / Glenmark Pharmaceuticals / Pidilite Industries", "role": "Senior finance leadership roles", "period": "prior to TAFE", "listed": true },
+      { "company": "TAFE (Tractors and Farm Equipment Ltd)", "role": "Chief Financial Officer", "period": "prior to 2023", "listed": false },
+      { "company": "Nykaa (FSN E-Commerce Ventures)", "role": "Chief Financial Officer", "period": "Feb 2023-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.businesstoday.in/latest/corporate/story/nykaa-appoints-p-ganesh-as-chief-financial-officer-367234-2023-01-23", "https://www.business-standard.com/article/news-cm/nykaa-appoints-p-ganesh-as-cfo-123012400129_1.html"]
+  },
+  {
+    "id": "vivek-pabari",
+    "name": "Vivek Pabari",
+    "role": "Chief Financial Officer",
+    "company_ticker": "DELHIVERY",
+    "date_joined": "2026-01-01",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Former Deutsche Bank investment banker who joined Delhivery in June 2021 and was part of the team that took the company public; elevated to CFO effective 1 Jan 2026, succeeding Amit Agarwal.",
+    "career_history": [
+      { "company": "Deutsche Bank", "role": "Investment Banker", "period": "prior to 2021", "listed": true },
+      { "company": "Delhivery", "role": "Various finance/IR roles", "period": "2021-2025", "listed": true },
+      { "company": "Delhivery", "role": "Chief Financial Officer", "period": "Jan 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.marcamoney.com/delhivery-cfo-amit-agarwal-resigns-vivek-pabari-to-take-over/"]
+  },
+  {
+    "id": "badal-bagri",
+    "name": "Badal Bagri",
+    "role": "Group Chief Financial Officer",
+    "company_ticker": "DLF",
+    "date_joined": "2024-12-06",
+    "date_joined_precision": "exact",
+    "years_experience": 30,
+    "career_note": "Chartered and cost accountant with ~30 years' experience; previously Group CFO of Bharti Airtel, joined DLF as Group CFO effective 6 Dec 2024, succeeding Ashok Kumar Tyagi (who remained MD).",
+    "career_history": [
+      { "company": "Bharti Airtel", "role": "Group Chief Financial Officer", "period": "prior to Dec 2024", "listed": true },
+      { "company": "DLF Limited", "role": "Group Chief Financial Officer", "period": "Dec 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://hrtoday.in/badal-bagri-appointed-as-group-chief-financial-officer-at-dlf-limited/", "https://allthingstalent.org/badal-bagri-to-take-over-as-group-cfo-of-dlf-from-december-6-2024/2024/12/05/"]
+  },
+  {
+    "id": "sandeep-navlakhe",
+    "name": "Sandeep Navlakhe",
+    "role": "Chief Operating Officer – Pan India",
+    "company_ticker": "GODREJPROP",
+    "date_joined": "2025-08-01",
+    "date_joined_precision": "exact",
+    "years_experience": 34,
+    "career_note": "34-year infrastructure/real-estate executive with stints at L&T, Lodha Group and Tata Projects; joined Godrej Properties as COO-Pan India effective 1 Aug 2025 from Adani Airport Holdings, where he was Chief Projects Officer.",
+    "career_history": [
+      { "company": "Larsen & Toubro", "role": "Project Manager", "period": "early career", "listed": true },
+      { "company": "Lodha Group / Tata Projects", "role": "Vice President; EVP & BU Head – Buildings, Factories & Airports", "period": "mid-career", "listed": false },
+      { "company": "Adani Airport Holdings", "role": "Chief Projects Officer", "period": "prior to Aug 2025", "listed": false },
+      { "company": "Godrej Properties", "role": "Chief Operating Officer – Pan India", "period": "Aug 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.corptrendz.com/sandeep-navlakhe-godrej-properties-coo/", "https://hrtoday.in/sandeep-navlakhe-appointed-as-chief-operating-officer-at-godrej-properties/"]
+  },
+  {
+    "id": "kailash-b-gupta",
+    "name": "Kailash B Gupta",
+    "role": "Group Chief Financial Officer",
+    "company_ticker": "PHOENIXLTD",
+    "date_joined": "2024-05-17",
+    "date_joined_precision": "exact",
+    "years_experience": 29,
+    "career_note": "Chartered Accountant (1995) who spent 8 years as CFO of Inox Leisure, staying on as Deputy CFO & Chief Commercial Officer after its merger with PVR; joined Phoenix Mills as Group CFO effective 17 May 2024.",
+    "career_history": [
+      { "company": "Torrent Pharma / Thomas Cook / Tata Teleservices / Aditya Birla Group", "role": "Various finance roles", "period": "early career", "listed": true },
+      { "company": "Inox Leisure (merged into PVR Inox)", "role": "Chief Financial Officer, then Deputy CFO & Chief Commercial Officer", "period": "~2016-2024 (8 years)", "listed": true },
+      { "company": "The Phoenix Mills Limited", "role": "Group Chief Financial Officer", "period": "May 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://in.marketscreener.com/quote/stock/THE-PHOENIX-MILLS-LIMITED-6498526/news/The-Phoenix-Mills-Limited-Appoints-Kailash-B-Gupta-as-Chief-Financial-Officer-46761757/", "https://www.bloomberg.com/profile/person/19885612"]
+  },
+  {
+    "id": "sudhanshu-vats",
+    "name": "Sudhanshu Vats",
+    "role": "Managing Director",
+    "company_ticker": "PIDILITIND",
+    "date_joined": "2025-04-10",
+    "date_joined_precision": "exact",
+    "years_experience": 33,
+    "career_note": "Career spans Hindustan Lever/Unilever (from 1991) and Viacom18, then MD & CEO of EPL Limited (2020-2021); joined Pidilite as Deputy MD in 2021 and was elevated to Managing Director effective 10 Apr 2025.",
+    "career_history": [
+      { "company": "Hindustan Lever / Unilever / Viacom18", "role": "Various senior sales & marketing roles", "period": "1991-2020", "listed": true },
+      { "company": "EPL Limited", "role": "Managing Director & CEO", "period": "2020-2021", "listed": true },
+      { "company": "Pidilite Industries", "role": "Deputy Managing Director, then Managing Director", "period": "2021-present (MD from Apr 2025)", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.hrkatha.com/news/pidilite-appoints-sudhanshu-vats-as-md/", "https://chemindigest.com/pidilite-appoints-sudhanshu-vats-md-and-kavinder-singh-joint-md/"]
+  },
+  {
+    "id": "kavinder-singh",
+    "name": "Kavinder Singh",
+    "role": "Joint Managing Director",
+    "company_ticker": "PIDILITIND",
+    "date_joined": "2024-05-01",
+    "date_joined_precision": "approximate",
+    "years_experience": null,
+    "career_note": "Spent over 9 years (2014-2024) as MD & CEO of Mahindra Holidays & Resorts India before joining Pidilite Industries as Joint Managing Director-designate in May 2024.",
+    "career_history": [
+      { "company": "Mahindra Holidays & Resorts India", "role": "Managing Director & CEO", "period": "2014-2024", "listed": true },
+      { "company": "Pidilite Industries", "role": "Joint Managing Director", "period": "May 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://chemindigest.com/pidilite-appoints-sudhanshu-vats-md-and-kavinder-singh-joint-md/", "https://boardstewardship.com/pidilite-appoints-sudhanshu-vats-as-managing-director-kavinder-singh-as-joint-managing-director/"]
+  },
+  {
+    "id": "samir-kashyap",
+    "name": "Samir Kashyap",
+    "role": "President & Chief Financial Officer",
+    "company_ticker": "SRF",
+    "date_joined": "2026-01-27",
+    "date_joined_precision": "exact",
+    "years_experience": 30,
+    "career_note": "30-year finance leader with roughly two decades in CFO-level roles at Meta, SAP and Genpact; joined SRF Limited as President & CFO effective 27 Jan 2026, succeeding Rahul Jain.",
+    "career_history": [
+      { "company": "Meta Platforms / SAP / Genpact", "role": "CFO-level finance leadership roles", "period": "~20 years, prior to 2026", "listed": true },
+      { "company": "SRF Limited", "role": "President & Chief Financial Officer", "period": "Jan 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://scanx.trade/stock-market-news/stocks/srf-limited-appoints-samir-kashyap-as-president-chief-financial-officer-effective-january-27-2026/30449140", "https://www.indianchemicalnews.com/people/srf-appoints-samir-kashyap-as-president-cfo-28992"]
+  },
+  {
+    "id": "shreehas-tambe",
+    "name": "Shreehas Tambe",
+    "role": "Chief Executive Officer & Managing Director",
+    "company_ticker": "BIOCON",
+    "date_joined": "2026-04-01",
+    "date_joined_precision": "exact",
+    "years_experience": null,
+    "career_note": "Led Biocon Biologics to a ~$5.5bn valuation and a top-5 global biosimilars ranking as its CEO; elevated to CEO & MD of the combined Biocon Limited effective 1 Apr 2026 as Biocon Biologics was integrated as a wholly-owned subsidiary.",
+    "career_history": [
+      { "company": "Biocon Biologics", "role": "Chief Executive Officer", "period": "prior to 2026", "listed": false },
+      { "company": "Biocon Limited", "role": "Chief Executive Officer & Managing Director", "period": "Apr 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://scanx.trade/stock-market-news/companies/biocon-limited-announces-leadership-transition-with-new-ceo-and-cfo-appointments/36158981"]
+  },
+  {
+    "id": "kedar-upadhye",
+    "name": "Kedar Upadhye",
+    "role": "Group Chief Financial Officer",
+    "company_ticker": "BIOCON",
+    "date_joined": "2023-10-31",
+    "date_joined_precision": "exact",
+    "years_experience": 23,
+    "career_note": "23-year finance veteran across Cipla, Dr. Reddy's, PepsiCo and Thermax, most recently CFO of NASDAQ-listed ReNew Energy Global; joined Biocon Biologics as CFO on 31 Oct 2023 and became Group CFO of Biocon Limited from 1 Apr 2026 as the businesses merged.",
+    "career_history": [
+      { "company": "Cipla / Dr. Reddy's Laboratories / PepsiCo / Thermax", "role": "Senior finance leadership roles", "period": "prior to ReNew Energy Global", "listed": true },
+      { "company": "ReNew Energy Global (NASDAQ-listed)", "role": "Chief Financial Officer", "period": "prior to Oct 2023", "listed": true },
+      { "company": "Biocon Biologics / Biocon Limited", "role": "Chief Financial Officer, then Group CFO", "period": "Oct 2023-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/companies/people/biocon-biologics-appoints-kedar-upadhye-as-new-chief-financial-officer-123101900691_1.html", "https://www.biocon.com/finance-leadership-update-at-biocon-biologics/"]
+  },
+  {
+    "id": "kirti-ganorkar",
+    "name": "Kirti Ganorkar",
+    "role": "Managing Director",
+    "company_ticker": "SUNPHARMA",
+    "date_joined": "2025-09-01",
+    "date_joined_precision": "exact",
+    "years_experience": 29,
+    "career_note": "Joined Sun Pharma in 1996 and headed its India Business since June 2019, driving entry into Japan and Europe and the Ilumya launch; elevated to Managing Director effective 1 Sep 2025, succeeding founder Dilip Shanghvi (who remains Executive Chairman).",
+    "career_history": [
+      { "company": "Sun Pharmaceutical Industries", "role": "Various roles up to President – India Business", "period": "1996-2025", "listed": true },
+      { "company": "Sun Pharmaceutical Industries", "role": "Managing Director", "period": "Sep 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://sunpharma.com/wp-content/uploads/2025/06/Press-Release_Sun-Pharma-appoints-Kirti-Ganorkar-as-Managing-Director.pdf", "https://www.storyboard18.com/brand-makers/sun-pharma-appoints-kirti-ganorkar-as-the-managing-director-70250.htm"]
+  },
+  {
+    "id": "aalok-shanghvi",
+    "name": "Aalok D. Shanghvi",
+    "role": "Chief Operating Officer",
+    "company_ticker": "SUNPHARMA",
+    "date_joined": "2025-02-01",
+    "date_joined_precision": "approximate",
+    "years_experience": 19,
+    "career_note": "Son of founder Dilip Shanghvi; joined Sun Pharma in 2006 and led its Emerging Markets, Global Generic R&D and Business Development functions before being named COO in early 2025.",
+    "career_history": [
+      { "company": "Sun Pharmaceutical Industries", "role": "Head – Emerging Markets, Global Generic R&D & BD", "period": "2006-2025", "listed": true },
+      { "company": "Sun Pharmaceutical Industries", "role": "Chief Operating Officer", "period": "2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://chemindigest.com/sun-pharmaceutical-industries-appoints-aalok-shanghvi-as-coo/", "https://www.india.com/business/meet-man-aalok-shanghvi-appointed-on-a-key-post-sun-pharma-rs-422000-crore-company-his-father-is-dilip-shanghvi-7591385/"]
+  },
+  {
+    "id": "tushar-shroff",
+    "name": "Tushar Shroff",
+    "role": "Chief Financial Officer",
+    "company_ticker": "ZYDUSLIFE",
+    "date_joined": "2025-09-01",
+    "date_joined_precision": "exact",
+    "years_experience": 29,
+    "career_note": "29+ year finance veteran across ABB India, Piramal Group, Intas Pharmaceuticals (Group CFO) and Sterlite Technologies (Group CFO), plus an earlier stint at Zydus (2010-2019); rejoined Zydus Lifesciences as President-Finance on 30 Apr 2025 and became CFO effective 1 Sep 2025, succeeding Nitin Parekh.",
+    "career_history": [
+      { "company": "ABB India / Piramal Healthcare / Intas Pharmaceuticals", "role": "Various finance roles up to Group CFO (Intas)", "period": "prior to Sterlite Technologies", "listed": true },
+      { "company": "Sterlite Technologies (STL)", "role": "Group Chief Financial Officer", "period": "prior to Apr 2025", "listed": true },
+      { "company": "Zydus Lifesciences", "role": "President-Finance, then Chief Financial Officer", "period": "Apr 2025-present (CFO from Sep 2025)", "listed": true, "current": true }
+    ],
+    "sources": ["https://hrtoday.in/tushar-shroff-appointed-as-chief-financial-officer-at-zydus-group/", "https://medicaldialogues.in/news/industry/pharma/zydus-lifesciences-ropes-in-tushar-shroff-as-president-finance-147559"]
+  },
+  {
+    "id": "aman-mehta",
+    "name": "Aman Mehta",
+    "role": "Managing Director",
+    "company_ticker": "TORNTPHARM",
+    "date_joined": "2025-08-01",
+    "date_joined_precision": "exact",
+    "years_experience": 13,
+    "career_note": "Elder son of Torrent Group Chairman Samir Mehta; headed Torrent Pharma's India & Rest-of-World business as Whole-Time Director since 2022, before being elevated to Managing Director effective 1 Aug 2025.",
+    "career_history": [
+      { "company": "Torrent Pharmaceuticals", "role": "Director / Whole-Time Director – India & RoW Business", "period": "2022-2025", "listed": true },
+      { "company": "Torrent Pharmaceuticals", "role": "Managing Director", "period": "Aug 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://ehealth.eletsonline.com/2025/05/aman-mehta-appointed-managing-director-of-torrent-pharma-marking-a-new-chapter-in-leadership-succession/", "https://www.indianpharmapost.com/people/torrent-pharmaceuticals-appoints-aman-mehta-as-md-17498"]
+  },
+  {
+    "id": "muthukumar-narayanaswamy",
+    "name": "Dr. Muthukumar Narayanaswamy",
+    "role": "Managing Director",
+    "company_ticker": "KAYNES",
+    "date_joined": "2025-09-24",
+    "date_joined_precision": "exact",
+    "years_experience": 37,
+    "career_note": "37-year manufacturing and operations veteran across the automotive, rubber and industrial products sectors at TTK-LIG, TVS Group and Cummins Meritor, holding a PhD in Operations Management. Appointed Managing Director of Kaynes Technology (a small-cap electronics manufacturing services company) for a five-year term effective 24 Sep 2025, as Ramesh Kunhikannan moved to Executive Vice Chairman.",
+    "career_history": [
+      { "company": "TTK-LIG Limited / TVS Group / Cummins Meritor", "role": "Various senior operations and manufacturing leadership roles", "period": "prior to 2025 (37 years)", "listed": false },
+      { "company": "Kaynes Technology India", "role": "Managing Director", "period": "Sep 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.angelone.in/news/market-updates/kaynes-tech-appoints-muthukumar-narayanaswamy-as-md", "https://scanx.trade/stock-market-news/stocks/kaynes-technology-proposes-leadership-reshuffle-new-managing-director-and-executive-vice-chairman/24443991"]
+  },
+  {
+    "id": "hari-haran-chalat",
+    "name": "Hari Haran Chalat",
+    "role": "Chief Financial Officer",
+    "company_ticker": "ZENTEC",
+    "date_joined": "2026-01-31",
+    "date_joined_precision": "exact",
+    "years_experience": 20,
+    "career_note": "Chartered Accountant with 20+ years across Amazon India, Black Knight India, PwC and KPMG; joined Zen Technologies (a small-cap defence simulation/training systems maker) as Senior General Manager in Jan 2025 before being elevated to Chief Financial Officer effective 31 Jan 2026, succeeding Afzal Harunbhai Malkani.",
+    "career_history": [
+      { "company": "PwC / KPMG / Amazon.com India / Black Knight India", "role": "Various senior finance roles", "period": "prior to 2025", "listed": true },
+      { "company": "Zen Technologies", "role": "Senior General Manager", "period": "Jan 2025-Jan 2026", "listed": true },
+      { "company": "Zen Technologies", "role": "Chief Financial Officer", "period": "Jan 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.prysm.fi/news/zen-technologies-appoints-new-cfo-reappoints-cmd-joint-md", "https://www.marketscreener.com/quote/stock/ZEN-TECHNOLOGIES-LIMITED-20701908/news/Zen-Technologies-Appoints-New-CFO-41150742/"]
+  },
+  {
+    "id": "rajsekhar-datta-roy",
+    "name": "Rajsekhar Datta Roy",
+    "role": "Chief Executive Officer",
+    "company_ticker": "SONATSOFTW",
+    "date_joined": "2026-05-09",
+    "date_joined_precision": "exact",
+    "years_experience": 30,
+    "career_note": "30+ year Sonata Software veteran who rose through roles including SVP & Global Head of Microsoft Competency and Chief Delivery Officer (driving the company's AI-first delivery transformation) before being appointed CEO for a three-year term effective 9 May 2026, succeeding Samir Dhir.",
+    "career_history": [
+      { "company": "Sonata Software", "role": "SVP & Global Head, Microsoft Competency; later Chief Delivery Officer", "period": "prior to 2026 (30+ years)", "listed": true },
+      { "company": "Sonata Software", "role": "Chief Executive Officer", "period": "May 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.sonata-software.com/newsroom/press-release/sonata-software-limited-announces-leadership-transition", "https://www.deccanherald.com/business/companies/sonata-software-appoints-rajsekhar-datta-roy-as-ceo-3982856"]
+  },
+  {
+    "id": "anand-balakrishnan",
+    "name": "Anand Balakrishnan",
+    "role": "Chief Financial Officer",
+    "company_ticker": "HAPPSTMNDS",
+    "date_joined": "2025-06-12",
+    "date_joined_precision": "exact",
+    "years_experience": 20,
+    "career_note": "20+ year finance veteran with senior roles at Marsh McLennan (formerly JLT), GE Healthcare and Mindteck; appointed Chief Financial Officer of Happiest Minds Technologies effective 12 Jun 2025, reporting to Managing Director Venkatraman Narayanan.",
+    "career_history": [
+      { "company": "GE Healthcare / Mindteck / Marsh McLennan (JLT)", "role": "Various senior finance leadership roles", "period": "prior to Jun 2025 (20+ years)", "listed": true },
+      { "company": "Happiest Minds Technologies", "role": "Chief Financial Officer", "period": "Jun 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.happiestminds.com/press-releases/happiest-minds-appoints-anand-balakrishnan-as-chief-financial-officer/", "https://www.business-standard.com/markets/capital-market-news/happiest-minds-technologies-appoints-anand-balakrishnan-as-cfo-125061201031_1.html"]
+  },
+  {
+    "id": "umang-nahata",
+    "name": "Umang Nahata",
+    "role": "Chief Executive Officer",
+    "company_ticker": "MASTEK",
+    "date_joined": "2025-01-16",
+    "date_joined_precision": "exact",
+    "years_experience": 20,
+    "career_note": "Chartered Accountant who founded Evosys, which grew into one of the world's most valuable Oracle Cloud partners before its 2020 acquisition by Mastek; continued leading Mastek's global Oracle practice and North America business, then served as interim Group CEO from 10 Aug 2024 before being confirmed as Chief Executive Officer effective 16 Jan 2025, succeeding Hiral Chandrana.",
+    "career_history": [
+      { "company": "Evosys (Evolutionary Systems)", "role": "Founder & Chief Executive Officer", "period": "prior to 2020", "listed": false },
+      { "company": "Mastek", "role": "Global Head, Oracle Practice / North America Business; then interim Group CEO", "period": "2020-Jan 2025", "listed": true },
+      { "company": "Mastek", "role": "Chief Executive Officer", "period": "Jan 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.mastek.com/pressreleases/mastek-appoints-umang-nahata-as-ceo/", "https://www.business-standard.com/markets/capital-market-news/mastek-appoints-umang-nahata-as-ceo-125011600855_1.html"]
+  },
+  {
+    "id": "raghavendra-srinivas-bhat",
+    "name": "Raghavendra Srinivas Bhat",
+    "role": "Managing Director & CEO",
+    "company_ticker": "KTKBANK",
+    "date_joined": "2025-11-16",
+    "date_joined_precision": "exact",
+    "years_experience": 38,
+    "career_note": "38-year Karnataka Bank career banker who started as a clerk in 1981 and rose through operations, HR, IT & digital banking and treasury roles up to Chief Operating Officer; appointed Managing Director & CEO for a one-year term effective 16 Nov 2025, succeeding Srikrishnan Harihara Sarma.",
+    "career_history": [
+      { "company": "Karnataka Bank", "role": "Various roles from clerk (1981) up to Chief Operating Officer", "period": "1981-2025 (38 years)", "listed": true },
+      { "company": "Karnataka Bank", "role": "Managing Director & CEO", "period": "Nov 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.dess.digital/leadership-update-karnataka-bank-appoints-raghavendra-srinivas-bhat-as-ceo-md/", "https://www.mangaloretoday.com/main/Karnataka-Bank-Appoints-Raghavendra-Srinivas-Bhat-as-MD-CEO.html"]
+  },
+  {
+    "id": "praveen-achuthan-kutty",
+    "name": "Praveen Achuthan Kutty",
+    "role": "Managing Director & CEO",
+    "company_ticker": "DCBBANK",
+    "date_joined": "2024-04-29",
+    "date_joined_precision": "exact",
+    "years_experience": 32,
+    "career_note": "32-year retail/SME banking veteran who spent over seven years at Citibank (Area Director-NRI Business, then Head of Portfolio Management for Credit Cards in Chennai and Head of NRI Business for the US/Canada) before joining DCB Bank in 2007 as EVP & Head of Consumer Banking; appointed Managing Director & CEO for a three-year term effective 29 Apr 2024, succeeding Murali M Natrajan.",
+    "career_history": [
+      { "company": "Citibank", "role": "Area Director-NRI Business; Head of Portfolio Management, Credit Cards; Head of NRI Business, US & Canada", "period": "prior to 2007 (7+ years)", "listed": true },
+      { "company": "DCB Bank", "role": "EVP & Head of Consumer Banking, then oversight of SME/Agri/Retail Banking", "period": "2007-2024", "listed": true },
+      { "company": "DCB Bank", "role": "Managing Director & CEO", "period": "Apr 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/markets/capital-market-news/dcb-bank-rises-on-appointing-praveen-kutty-as-md-ceo-124032100690_1.html", "https://www.indiainfoline.com/news/markets/rbi-authorizes-praveen-achuthan-kuttys-nomination-as-md-and-ceo-of-dcb-bank"]
+  },
+  {
+    "id": "r-vijay-anandh",
+    "name": "R. Vijay Anandh",
+    "role": "Managing Director & CEO",
+    "company_ticker": "CUB",
+    "date_joined": "2026-05-01",
+    "date_joined_precision": "exact",
+    "years_experience": 28,
+    "career_note": "28-year banking veteran across ICICI Bank, Transamerica, Barclays Finance and RBL Bank (an early 2011 joinee who became Group EVP & Business Head-Retail Assets there), before joining City Union Bank in 2023 as Executive President, being elevated to Executive Director in 2024, and becoming Managing Director & CEO for a three-year term effective 1 May 2026, succeeding long-serving Dr N Kamakodi.",
+    "career_history": [
+      { "company": "ICICI Bank / Transamerica / Barclays Finance", "role": "Various roles in lending and risk", "period": "prior to 2011 (approx.)", "listed": true },
+      { "company": "RBL Bank", "role": "Group Executive Vice President & Business Head-Retail Assets", "period": "2011-2023", "listed": true },
+      { "company": "City Union Bank", "role": "Executive President, then Executive Director", "period": "2023-2026", "listed": true },
+      { "company": "City Union Bank", "role": "Managing Director & CEO", "period": "May 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.peoplematters.in/news/appointments/rbi-clears-appointment-of-r-vijay-anandh-as-city-union-banks-new-ceo-48381", "https://scanx.trade/stock-market-news/companies/city-union-bank-appoints-r-vijay-anandh-as-managing-director-and-ceo/39177191"]
+  },
+  {
+    "id": "pr-seshadri",
+    "name": "P. R. Seshadri",
+    "role": "Managing Director & CEO",
+    "company_ticker": "SOUTHBANK",
+    "date_joined": "2023-10-01",
+    "date_joined_precision": "exact",
+    "years_experience": 25,
+    "career_note": "Nearly 25-year banker with multiple Citibank Asia Pacific leadership roles (regional sales & distribution, lending businesses, CitiFinancial Consumer Finance India), then Managing Director & CEO of the listed Karur Vysya Bank (Sep 2017-Mar 2020) before being appointed MD & CEO of South Indian Bank effective 1 Oct 2023, succeeding Murali Ramakrishnan.",
+    "career_history": [
+      { "company": "Citibank N.A., Asia Pacific / CitiFinancial Consumer Finance India", "role": "Various Managing Director-level roles", "period": "prior to 2017 (approx.)", "listed": true },
+      { "company": "Karur Vysya Bank", "role": "Managing Director & CEO", "period": "Sep 2017-Mar 2020", "listed": true },
+      { "company": "South Indian Bank", "role": "Managing Director & CEO", "period": "Oct 2023-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.entrepreneur.com/en-in/news-and-trends/south-indian-bank-appoints-pr-seshadri-as-new-md-and-ceo/462957", "https://bfsi.eletsonline.com/south-indian-bank-names-p-r-seshadri-as-md-ceo/"]
+  },
+  {
+    "id": "atul-jain",
+    "name": "Atul Jain",
+    "role": "Managing Director",
+    "company_ticker": "VIPIND",
+    "date_joined": "2025-09-23",
+    "date_joined_precision": "exact",
+    "years_experience": 20,
+    "career_note": "20+ year consumer-facing executive with roles at Coca-Cola, Bharti Airtel and Godfrey Phillips India, Senior Director at Samsung Electronics in South Korea (leading its ~Rs 15,000-crore consumer durables business), and CEO of listed education/training company Aptech Limited; appointed Managing Director of VIP Industries for a five-year term effective 23 Sep 2025, succeeding Neetu Kashiramka.",
+    "career_history": [
+      { "company": "Coca-Cola / Bharti Airtel / Godfrey Phillips India", "role": "Various senior leadership roles", "period": "prior to Samsung (approx.)", "listed": true },
+      { "company": "Samsung Electronics", "role": "Senior Director, Consumer Durables Business (South Korea)", "period": "approx. mid-career", "listed": true },
+      { "company": "Aptech Limited", "role": "Chief Executive Officer", "period": "prior to 2025", "listed": true },
+      { "company": "VIP Industries", "role": "Managing Director", "period": "Sep 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.afaqs.com/people-spotting/people-movement/vip-industries-appoints-atul-jain-as-managing-director-neetu-kashiramka-steps-down-10494686", "https://www.business-standard.com/markets/capital-market-news/vip-industries-gains-on-appointing-atul-jain-as-md-for-5-year-term-125092400169_1.html"]
+  },
+  {
+    "id": "gyanendra-shukla",
+    "name": "Dr. Gyanendra Shukla",
+    "role": "Managing Director & CEO",
+    "company_ticker": "RALLIS",
+    "date_joined": "2024-04-01",
+    "date_joined_precision": "exact",
+    "years_experience": 34,
+    "career_note": "34-year Crop Protection and Seed sector veteran spanning Hoechst AG and Syngenta (technical/strategic roles), two decades at Monsanto including CEO of Monsanto's India and Africa regions (2014-2019), and President & Director (CEO) of JK Agri Genetics; appointed Managing Director & CEO of Rallis India (a Tata Chemicals group company) for a five-year term effective 1 Apr 2024.",
+    "career_history": [
+      { "company": "Hoechst AG / Syngenta", "role": "Technical Officer rising to strategic portfolio management roles", "period": "early career", "listed": true },
+      { "company": "Monsanto", "role": "Various global leadership roles, including CEO - India & Africa regions", "period": "2014-2019 (part of ~20 years)", "listed": false },
+      { "company": "JK Agri Genetics", "role": "President & Director (CEO)", "period": "approx. 2019-2024 (5 years)", "listed": false },
+      { "company": "Rallis India", "role": "Managing Director & CEO", "period": "Apr 2024-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.tatachemicals.com/media/newsroom/press-releases/rallis-india-appoints-dr-gyanendra-shukla-as-md-and-ceo-from-1st-april-2024", "https://www.business-standard.com/markets/capital-market-news/rallis-india-appoints-gyanendra-shuklas-as-md-ceo-124030100113_1.html"]
+  },
+  {
+    "id": "himanshu-jindal",
+    "name": "Himanshu Jindal",
+    "role": "Chief Financial Officer",
+    "company_ticker": "GREENPANEL",
+    "date_joined": "2025-06-02",
+    "date_joined_precision": "exact",
+    "years_experience": 23,
+    "career_note": "Chartered Accountant with 23+ years including senior finance roles at Heidelberg Cement India and Cargill India, and CFO stints at listed Orient Bell Ltd and DEN Networks Ltd; appointed Chief Financial Officer of Greenpanel Industries effective 2 Jun 2025, succeeding Vishwanathan Venkatramani (who moved to President-Finance).",
+    "career_history": [
+      { "company": "Heidelberg Cement India / Cargill India", "role": "Senior finance roles", "period": "early-to-mid career", "listed": true },
+      { "company": "Orient Bell Limited", "role": "Chief Financial Officer", "period": "prior to DEN Networks", "listed": true },
+      { "company": "DEN Networks Limited", "role": "Chief Financial Officer", "period": "prior to 2025", "listed": true },
+      { "company": "Greenpanel Industries", "role": "Chief Financial Officer", "period": "Jun 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.businessworld.in/article/greenpanel-appoints-himanshu-jindal-as-cfo-559238", "https://www.peoplematters.in/news/appointments/greenpanel-industries-appoints-new-cfo-45902"]
+  },
+  {
+    "id": "sameer-patel",
+    "name": "Sameer Patel",
+    "role": "Chief Financial Officer",
+    "company_ticker": "METROPOLIS",
+    "date_joined": "2025-02-10",
+    "date_joined_precision": "exact",
+    "years_experience": 20,
+    "career_note": "Chartered Accountant who began at Deloitte Haskins & Rajendra & Co, then held finance leadership roles at Aditya Birla Retail before serving as Chief Financial Officer of listed Restaurant Brands Asia (Burger King India); appointed Chief Financial Officer of diagnostics chain Metropolis Healthcare effective 10 Feb 2025, succeeding interim CFO Aditya Shinde.",
+    "career_history": [
+      { "company": "Deloitte Haskins, Rajendra & Co", "role": "Early career finance roles", "period": "early career", "listed": false },
+      { "company": "Aditya Birla Retail", "role": "Finance leadership roles", "period": "mid-career", "listed": false },
+      { "company": "Restaurant Brands Asia (Burger King India)", "role": "Chief Financial Officer", "period": "prior to 2025", "listed": true },
+      { "company": "Metropolis Healthcare", "role": "Chief Financial Officer", "period": "Feb 2025-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://www.business-standard.com/markets/capital-market-news/metropolis-healthcare-appoints-sameer-patel-as-chief-financial-officer-125020401456_1.html", "https://www.metropolisindia.com/aboutus/team/sameer-patel"]
+  },
+  {
+    "id": "abrarali-dalal",
+    "name": "Abrarali Dalal",
+    "role": "Chief Executive Officer",
+    "company_ticker": "RAINBOW",
+    "date_joined": "2026-01-20",
+    "date_joined_precision": "exact",
+    "years_experience": 25,
+    "career_note": "25+ year healthcare executive who served as Managing Director & CEO of Sahyadri Hospitals, building it into Maharashtra's largest hospital chain through operational transformation and network-scale growth; appointed Chief Executive Officer of Rainbow Children's Medicare effective 20 Jan 2026.",
+    "career_history": [
+      { "company": "Sahyadri Hospitals", "role": "Managing Director & Chief Executive Officer", "period": "prior to Jan 2026", "listed": false },
+      { "company": "Rainbow Children's Medicare", "role": "Chief Executive Officer", "period": "Jan 2026-present", "listed": true, "current": true }
+    ],
+    "sources": ["https://ehealth.eletsonline.com/2026/01/rainbow-childrens-medicare-appoints-abrarali-dalal-as-chief-executive-officer/", "https://www.digitalhealthnews.com/rainbow-hospitals-appoints-abrarali-dalal-as-chief-executive-officer"]
+  }
+]

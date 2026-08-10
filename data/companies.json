@@ -1,0 +1,2966 @@
+[
+  {
+    "ticker": "360ONE",
+    "name": "360 One Wam Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "3MINDIA",
+    "name": "3M India Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "AADHARHFC",
+    "name": "Aadhar Housing Finance Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "AARTIIND",
+    "name": "Aarti Industries Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "AAVAS",
+    "name": "Aavas Financiers Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ABB",
+    "name": "ABB India Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "ABBOTINDIA",
+    "name": "Abbott India Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ACC",
+    "name": "ACC Ltd",
+    "industry": "Cement",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ACMESOLAR",
+    "name": "ACME Solar Holdings Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ACE",
+    "name": "Action Construction Equipment Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ACUTAAS",
+    "name": "Acutaas Chemicals Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ADANIENSOL",
+    "name": "Adani Energy Solutions",
+    "industry": "Power / Energy",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ADANIENT",
+    "name": "Adani Enterprises Ltd",
+    "industry": "Diversified / Conglomerate",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "ADANIGREEN",
+    "name": "Adani Green Energy Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "ADANIPORTS",
+    "name": "Adani Ports and Special Economic Zone Ltd",
+    "industry": "Logistics / Shipping",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "ADANIPOWER",
+    "name": "Adani Power Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "ATGL",
+    "name": "Adani Total Gas Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ABCAPITAL",
+    "name": "Aditya Birla Capital Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ABFRL",
+    "name": "Aditya Birla Fashion and Retail Ltd",
+    "industry": "Retail / Apparel",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ABLBL",
+    "name": "Aditya Birla Lifestyle Brands Ltd",
+    "industry": "Retail / Apparel",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ABREL",
+    "name": "Aditya Birla Real Estate Ltd",
+    "industry": "Real Estate",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ABSLAMC",
+    "name": "Aditya Birla Sun Life AMC Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CPPLUS",
+    "name": "Aditya Infotech Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "AEGISLOG",
+    "name": "Aegis Logistics Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "AEGISVOPAK",
+    "name": "Aegis Vopak Terminals Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "AFCONS",
+    "name": "Afcons Infrastructure Ltd",
+    "industry": "Infrastructure / Engineering",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "AFFLE",
+    "name": "Affle (India) Ltd",
+    "industry": "Internet / New-age Tech",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "AIAENG",
+    "name": "AIA Engineering Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "AJANTPHARM",
+    "name": "Ajanta Pharma Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ALKEM",
+    "name": "Alkem Laboratories Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ABDL",
+    "name": "Allied Blenders and Distillers Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ARE&M",
+    "name": "Amara Raja Energy & Mobility Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "AMBER",
+    "name": "Amber Enterprises India Ltd",
+    "industry": "Consumer Durables",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "AMBUJACEM",
+    "name": "Ambuja Cements Ltd",
+    "industry": "Cement",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "ANANDRATHI",
+    "name": "Anand Rathi Wealth Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ANANTRAJ",
+    "name": "Anant Raj Ltd",
+    "industry": "Real Estate",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ANGELONE",
+    "name": "Angel One Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ANTHEM",
+    "name": "Anthem Biosciences Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ANURAS",
+    "name": "Anupam Rasayan India Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "APARINDS",
+    "name": "Apar Industries Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "APLAPOLLO",
+    "name": "APL Apollo Tubes Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "APOLLOHOSP",
+    "name": "Apollo Hospitals Enterprise Ltd",
+    "industry": "Healthcare / Hospitals",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "APOLLOTYRE",
+    "name": "Apollo Tyres Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "APTUS",
+    "name": "Aptus Value Housing Finance India Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ASAHIINDIA",
+    "name": "Asahi India Glass Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ASHOKLEY",
+    "name": "Ashok Leyland",
+    "industry": "Automobile (Commercial Vehicles)",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ASIANPAINT",
+    "name": "Asian Paints Ltd",
+    "industry": "Paints",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "ASTERDM",
+    "name": "Aster DM Healthcare Ltd",
+    "industry": "Healthcare / Hospitals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ASTRAL",
+    "name": "Astral Ltd",
+    "industry": "Building Materials",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ATHERENERG",
+    "name": "Ather Energy Ltd",
+    "industry": "Automobile (Two-Wheelers)",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ATUL",
+    "name": "Atul Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "AUBANK",
+    "name": "AU Small Finance Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "AUROPHARMA",
+    "name": "Aurobindo Pharma Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "AIIL",
+    "name": "Authum Investment & Infrastructure Ltd",
+    "industry": "Diversified / Conglomerate",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "DMART",
+    "name": "Avenue Supermarts Ltd",
+    "industry": "Retail",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "AWL",
+    "name": "AWL Agri Business Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "BAJAJ-AUTO",
+    "name": "Bajaj Auto Ltd",
+    "industry": "Automobile",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "BAJFINANCE",
+    "name": "Bajaj Finance",
+    "industry": "NBFC / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "BAJAJFINSV",
+    "name": "Bajaj Finserv",
+    "industry": "Financial Services / NBFC",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "BAJAJHLDNG",
+    "name": "Bajaj Holdings and Investment Ltd",
+    "industry": "Diversified / Conglomerate",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "BAJAJHFL",
+    "name": "Bajaj Housing Finance Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "BALKRISIND",
+    "name": "Balkrishna Industries Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "BALRAMCHIN",
+    "name": "Balrampur Chini Mills Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BANDHANBNK",
+    "name": "Bandhan Bank",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "BANKBARODA",
+    "name": "Bank of Baroda Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "BANKINDIA",
+    "name": "Bank of India Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "MAHABANK",
+    "name": "Bank of Maharashtra Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "BATAINDIA",
+    "name": "Bata India Ltd",
+    "industry": "Retail / Apparel",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BAYERCROP",
+    "name": "Bayer Cropscience Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BELRISE",
+    "name": "Belrise Industries Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BEML",
+    "name": "BEML Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BERGEPAINT",
+    "name": "Berger Paints India Ltd",
+    "industry": "Paints",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "BDL",
+    "name": "Bharat Dynamics Ltd",
+    "industry": "Defence / Aerospace",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "BEL",
+    "name": "Bharat Electronics Ltd",
+    "industry": "Defence / Aerospace",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "BHARATFORG",
+    "name": "Bharat Forge",
+    "industry": "Auto Components",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "BHEL",
+    "name": "Bharat Heavy Electricals Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "BPCL",
+    "name": "Bharat Petroleum Corporation Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "BHARTIARTL",
+    "name": "Bharti Airtel",
+    "industry": "Telecommunications",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "BHARTIHEXA",
+    "name": "Bharti Hexacom Ltd",
+    "industry": "Telecommunications",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "BIKAJI",
+    "name": "Bikaji Foods International Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BIOCON",
+    "name": "Biocon",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "BSOFT",
+    "name": "Birlasoft Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BLS",
+    "name": "BLS International Services Ltd",
+    "industry": "Travel / Tourism",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BLUEDART",
+    "name": "Blue Dart Express Ltd",
+    "industry": "Logistics / Shipping",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BLUEJET",
+    "name": "Blue Jet Healthcare Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BLUESTARCO",
+    "name": "Blue Star Ltd",
+    "industry": "Consumer Durables",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "BBTC",
+    "name": "Bombay Burmah Trading Corporation Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BOSCHLTD",
+    "name": "Bosch Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "FIRSTCRY",
+    "name": "Brainbees Solutions Ltd",
+    "industry": "Consumer Internet / E-commerce",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BRIGADE",
+    "name": "Brigade Enterprises Ltd",
+    "industry": "Real Estate",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "BRITANNIA",
+    "name": "Britannia Industries",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "BSE",
+    "name": "BSE Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "MAPMYINDIA",
+    "name": "C.E. Info Systems Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CANFINHOME",
+    "name": "Can Fin Homes Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CANBK",
+    "name": "Canara Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "CANHLIFE",
+    "name": "Canara HSBC Life Insurance Company Ltd",
+    "industry": "Insurance",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CAPLIPOINT",
+    "name": "Caplin Point Laboratories Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CGCL",
+    "name": "Capri Global Capital Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CARBORUNIV",
+    "name": "Carborundum Universal Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CARTRADE",
+    "name": "Cartrade Tech Ltd",
+    "industry": "Consumer Internet / E-commerce",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CASTROLIND",
+    "name": "Castrol India Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CCL",
+    "name": "CCL Products (India) Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CEATLTD",
+    "name": "Ceat Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CENTRALBK",
+    "name": "Central Bank of India Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CDSL",
+    "name": "Central Depository Services (India) Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CESC",
+    "name": "CESC Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CGPOWER",
+    "name": "CG Power and Industrial Solutions Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "CHALET",
+    "name": "Chalet Hotels Ltd",
+    "industry": "Hospitality / Hotels",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CHAMBLFERT",
+    "name": "Chambal Fertilizers & Chemicals Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CHENNPETRO",
+    "name": "Chennai Petroleum Corporation Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CHOICEIN",
+    "name": "Choice International Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CHOLAHLDNG",
+    "name": "Cholamandalam Financial Holdings Ltd",
+    "industry": "NBFC / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CHOLAFIN",
+    "name": "Cholamandalam Investment and Finance Company",
+    "industry": "NBFC / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "CIEINDIA",
+    "name": "CIE Automotive India Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CIPLA",
+    "name": "Cipla",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "CUB",
+    "name": "City Union Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CLEAN",
+    "name": "Clean Science and Technology Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "COALINDIA",
+    "name": "Coal India Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "COCHINSHIP",
+    "name": "Cochin Shipyard Ltd",
+    "industry": "Defence / Aerospace",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "COFORGE",
+    "name": "Coforge",
+    "industry": "IT Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "COHANCE",
+    "name": "Cohance Lifesciences Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "COLPAL",
+    "name": "Colgate-Palmolive (India) Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "CAMS",
+    "name": "Computer Age Management Services Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CONCORDBIO",
+    "name": "Concord Biotech Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CONCOR",
+    "name": "Container Corporation of India Ltd",
+    "industry": "Logistics / Shipping",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "COROMANDEL",
+    "name": "Coromandel International Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "CRAFTSMAN",
+    "name": "Craftsman Automation Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CREDITACC",
+    "name": "CreditAccess Grameen Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CRISIL",
+    "name": "CRISIL Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "CROMPTON",
+    "name": "Crompton Greaves Consumer Electricals Ltd",
+    "industry": "Consumer Durables",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "CUMMINSIND",
+    "name": "Cummins India Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "CYIENT",
+    "name": "Cyient Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "DABUR",
+    "name": "Dabur India",
+    "industry": "FMCG / Consumer",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "DALBHARAT",
+    "name": "Dalmia Bharat Ltd",
+    "industry": "Cement",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "DATAPATTNS",
+    "name": "Data Patterns (India) Ltd",
+    "industry": "Defence / Aerospace",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "DCBBANK",
+    "name": "DCB Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "DCMSHRIRAM",
+    "name": "DCM Shriram Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "DEEPAKFERT",
+    "name": "Deepak Fertilisers and Petrochemicals Corporation Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "DEEPAKNTR",
+    "name": "Deepak Nitrite Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "DELHIVERY",
+    "name": "Delhivery",
+    "industry": "Logistics / New-age Tech",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "DEVYANI",
+    "name": "Devyani International Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "DIVISLAB",
+    "name": "Divi's Laboratories Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "DIXON",
+    "name": "Dixon Technologies (India) Ltd",
+    "industry": "Consumer Durables",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "DLF",
+    "name": "DLF Limited",
+    "industry": "Real Estate",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "DOMS",
+    "name": "DOMS Industries Ltd",
+    "industry": "FMCG / Consumer",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "LALPATHLAB",
+    "name": "Dr. Lal PathLabs Ltd",
+    "industry": "Healthcare / Hospitals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "DRREDDY",
+    "name": "Dr. Reddy's Laboratories",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "EIDPARRY",
+    "name": "E.I.D. Parry (India) Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ECLERX",
+    "name": "eClerx Services Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "EICHERMOT",
+    "name": "Eicher Motors Ltd",
+    "industry": "Automobile",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "EIHOTEL",
+    "name": "EIH Ltd",
+    "industry": "Hospitality / Hotels",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ELECON",
+    "name": "Elecon Engineering Company Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ELGIEQUIP",
+    "name": "Elgi Equipments Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "EMAMILTD",
+    "name": "Emami Ltd",
+    "industry": "FMCG / Consumer",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "EMCURE",
+    "name": "Emcure Pharmaceuticals Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "EMMVEE",
+    "name": "Emmvee Photovoltaic Power Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ENDURANCE",
+    "name": "Endurance Technologies Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ENGINERSIN",
+    "name": "Engineers India Ltd",
+    "industry": "Infrastructure / Engineering",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ERIS",
+    "name": "Eris Lifesciences Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ESCORTS",
+    "name": "Escorts Kubota Ltd",
+    "industry": "Automobile",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ETERNAL",
+    "name": "Eternal Ltd",
+    "industry": "Consumer Internet / E-commerce",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "EXIDEIND",
+    "name": "Exide Industries Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "FEDERALBNK",
+    "name": "Federal Bank",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "FACT",
+    "name": "Fertilisers and Chemicals Travancore Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "FINCABLES",
+    "name": "Finolex Cables Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "FSL",
+    "name": "Firstsource Solutions Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "FIVESTAR",
+    "name": "Five-Star Business Finance Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "FORCEMOT",
+    "name": "Force Motors Ltd",
+    "industry": "Automobile",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "FORTIS",
+    "name": "Fortis Healthcare Ltd",
+    "industry": "Healthcare / Hospitals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "NYKAA",
+    "name": "FSN E-Commerce Ventures (Nykaa)",
+    "industry": "E-commerce / Retail",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "GABRIEL",
+    "name": "Gabriel India Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "GAIL",
+    "name": "GAIL (India) Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "GALLANTT",
+    "name": "Gallantt Ispat Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "GRSE",
+    "name": "Garden Reach Shipbuilders & Engineers Ltd",
+    "industry": "Defence / Aerospace",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "GICRE",
+    "name": "General Insurance Corporation of India",
+    "industry": "Insurance",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "GILLETTE",
+    "name": "Gillette India Ltd",
+    "industry": "FMCG / Consumer",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "GLAND",
+    "name": "Gland Pharma Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "GLAXO",
+    "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "GLENMARK",
+    "name": "Glenmark Pharmaceuticals Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "MEDANTA",
+    "name": "Global Health Ltd",
+    "industry": "Healthcare / Hospitals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "GMRAIRPORT",
+    "name": "GMR Airports Ltd",
+    "industry": "Aviation",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "GODIGIT",
+    "name": "Go Digit General Insurance Ltd",
+    "industry": "Insurance",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "GPIL",
+    "name": "Godawari Power and Ispat Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "GODFRYPHLP",
+    "name": "Godfrey Phillips India Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "GODREJCP",
+    "name": "Godrej Consumer Products Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "GODREJIND",
+    "name": "Godrej Industries Ltd",
+    "industry": "Diversified / Conglomerate",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "GODREJPROP",
+    "name": "Godrej Properties",
+    "industry": "Real Estate",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "GRANULES",
+    "name": "Granules India Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "GRAPHITE",
+    "name": "Graphite India Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "GRASIM",
+    "name": "Grasim Industries Ltd",
+    "industry": "Diversified / Conglomerate",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "GRAVITA",
+    "name": "Gravita India Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "GESHIP",
+    "name": "Great Eastern Shipping Company Ltd",
+    "industry": "Logistics / Shipping",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "GREENPANEL",
+    "name": "Greenpanel Industries Ltd",
+    "industry": "Building Materials",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "FLUOROCHEM",
+    "name": "Gujarat Fluorochemicals Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "GMDCLTD",
+    "name": "Gujarat Mineral Development Corporation Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "HAPPSTMNDS",
+    "name": "Happiest Minds Technologies Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "HAVELLS",
+    "name": "Havells India Ltd",
+    "industry": "Consumer Durables",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "HBLENGINE",
+    "name": "HBL Engineering Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "HCLTECH",
+    "name": "HCL Technologies",
+    "industry": "IT Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "HDBFS",
+    "name": "HDB Financial Services Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "HDFCAMC",
+    "name": "HDFC Asset Management Company Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "name": "HDFC Bank",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "HDFCLIFE",
+    "name": "HDFC Life Insurance Company Ltd",
+    "industry": "Insurance",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "HEG",
+    "name": "HEG Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "HEROMOTOCO",
+    "name": "Hero MotoCorp",
+    "industry": "Automobile (Two-Wheelers)",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "HEXT",
+    "name": "Hexaware Technologies Ltd",
+    "industry": "IT Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "HFCL",
+    "name": "HFCL Ltd",
+    "industry": "Telecommunications",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "HSCL",
+    "name": "Himadri Speciality Chemical Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "HINDALCO",
+    "name": "Hindalco Industries",
+    "industry": "Metals & Mining",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "HAL",
+    "name": "Hindustan Aeronautics Ltd",
+    "industry": "Defence / Aerospace",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "HINDCOPPER",
+    "name": "Hindustan Copper Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "HINDPETRO",
+    "name": "Hindustan Petroleum Corp Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "HINDUNILVR",
+    "name": "Hindustan Unilever",
+    "industry": "FMCG / Consumer",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "HINDZINC",
+    "name": "Hindustan Zinc Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "POWERINDIA",
+    "name": "Hitachi Energy India Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "HOMEFIRST",
+    "name": "Home First Finance Company India Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "HONASA",
+    "name": "Honasa Consumer Ltd",
+    "industry": "FMCG / Consumer",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "HONAUT",
+    "name": "Honeywell Automation India Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "HUDCO",
+    "name": "Housing and Urban Development Corporation Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "HYUNDAI",
+    "name": "Hyundai Motor India Ltd",
+    "industry": "Automobile",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "ICICIGI",
+    "name": "ICICI Lombard General Insurance Company Ltd",
+    "industry": "Insurance",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ICICIAMC",
+    "name": "ICICI Prudential Asset Management Company Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ICICIPRULI",
+    "name": "ICICI Prudential Life Insurance",
+    "industry": "Insurance",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "IDBI",
+    "name": "IDBI Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "IDFCFIRSTB",
+    "name": "IDFC First Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "IFCI",
+    "name": "IFCI Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "IIFL",
+    "name": "IIFL Finance Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "INDGN",
+    "name": "Indegene Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "INDIAMART",
+    "name": "Indiamart Intermesh Ltd",
+    "industry": "Consumer Internet / E-commerce",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "INDIANB",
+    "name": "Indian Bank",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "IEX",
+    "name": "Indian Energy Exchange Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "INDHOTEL",
+    "name": "Indian Hotels Company Ltd",
+    "industry": "Hospitality / Hotels",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "IOC",
+    "name": "Indian Oil Corporation Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "IOB",
+    "name": "Indian Overseas Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "IRCTC",
+    "name": "Indian Railway Catering and Tourism Corporation Ltd",
+    "industry": "Travel / Tourism",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "IRFC",
+    "name": "Indian Railway Finance Corp Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "IREDA",
+    "name": "Indian Renewable Energy Development Agency Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "IGL",
+    "name": "Indraprastha Gas Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "INDUSTOWER",
+    "name": "Indus Towers Ltd",
+    "industry": "Telecommunications",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "INDUSINDBK",
+    "name": "IndusInd Bank",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "NAUKRI",
+    "name": "Info Edge (India)",
+    "industry": "Internet / New-age Tech",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "INFY",
+    "name": "Infosys",
+    "industry": "IT Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "INOXWIND",
+    "name": "Inox Wind Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "INTELLECT",
+    "name": "Intellect Design Arena Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "INDIGO",
+    "name": "InterGlobe Aviation (IndiGo)",
+    "industry": "Aviation / Airlines",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "IGIL",
+    "name": "International Gemological Institute Ltd",
+    "industry": "Retail",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "IKS",
+    "name": "Inventurus Knowledge Solutions Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "IPCALAB",
+    "name": "IPCA Laboratories Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "IRB",
+    "name": "IRB Infrastructure Developers Ltd",
+    "industry": "Infrastructure / Engineering",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "IRCON",
+    "name": "Ircon International Ltd",
+    "industry": "Infrastructure / Engineering",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ITCHOTELS",
+    "name": "ITC Hotels Ltd",
+    "industry": "Hospitality / Hotels",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ITI",
+    "name": "ITI Ltd",
+    "industry": "Telecommunications",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "JKCEMENT",
+    "name": "J K Cement Ltd",
+    "industry": "Cement",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "JBCHEPHARM",
+    "name": "J.B. Chemicals and Pharmaceuticals Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "JAINREC",
+    "name": "Jain Resource Recycling Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "JPPOWER",
+    "name": "Jaiprakash Power Ventures Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "J&KBANK",
+    "name": "Jammu and Kashmir Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "JBMA",
+    "name": "JBM Auto Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "JINDALSAW",
+    "name": "Jindal Saw Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "JSL",
+    "name": "Jindal Stainless Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "JINDALSTEL",
+    "name": "Jindal Steel & Power",
+    "industry": "Metals & Mining",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "JIOFIN",
+    "name": "Jio Financial Services Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "JKTYRE",
+    "name": "JK Tyre & Industries Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "JMFINANCIL",
+    "name": "JM Financial Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "JSWCEMENT",
+    "name": "JSW Cement Ltd",
+    "industry": "Cement",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "JSWENERGY",
+    "name": "JSW Energy Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "JSWINFRA",
+    "name": "JSW Infrastructure Ltd",
+    "industry": "Infrastructure / Engineering",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "JSWSTEEL",
+    "name": "JSW Steel",
+    "industry": "Metals & Mining",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "JUBLFOOD",
+    "name": "Jubilant Foodworks Ltd",
+    "industry": "Retail",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "JUBLINGREA",
+    "name": "Jubilant Ingrevia Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "JUBLPHARMA",
+    "name": "Jubilant Pharmova Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "JWL",
+    "name": "Jupiter Wagons Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "JYOTICNC",
+    "name": "Jyoti CNC Automation Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "KAJARIACER",
+    "name": "Kajaria Ceramics Ltd",
+    "industry": "Building Materials",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "KPIL",
+    "name": "Kalpataru Projects International Ltd",
+    "industry": "Infrastructure / Engineering",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "KALYANKJIL",
+    "name": "Kalyan Jewellers India Ltd",
+    "industry": "Retail",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "KTKBANK",
+    "name": "Karnataka Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "KARURVYSYA",
+    "name": "Karur Vysya Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "KAYNES",
+    "name": "Kaynes Technology India Ltd",
+    "industry": "Electronics Manufacturing Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "KEC",
+    "name": "Kec International Ltd",
+    "industry": "Infrastructure / Engineering",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "KEI",
+    "name": "KEI Industries Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "KFINTECH",
+    "name": "Kfin Technologies Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "KIRLOSENG",
+    "name": "Kirloskar Oil Engines Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "KPITTECH",
+    "name": "KPIT Technologies Ltd",
+    "industry": "IT Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "KPRMILL",
+    "name": "KPR Mill Ltd",
+    "industry": "Textiles",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "KIMS",
+    "name": "Krishna Institute of Medical Sciences Ltd",
+    "industry": "Healthcare / Hospitals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "LTF",
+    "name": "L&T Finance Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "LTTS",
+    "name": "L&T Technology Services Ltd",
+    "industry": "IT Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "LT",
+    "name": "Larsen & Toubro",
+    "industry": "Engineering, Construction & Infrastructure",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "LATENTVIEW",
+    "name": "Latent View Analytics Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "LAURUSLABS",
+    "name": "Laurus Labs Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "THELEELA",
+    "name": "Leela Palaces Hotels & Resorts Ltd",
+    "industry": "Hospitality / Hotels",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "LEMONTREE",
+    "name": "Lemon Tree Hotels Ltd",
+    "industry": "Hospitality / Hotels",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "LENSKART",
+    "name": "Lenskart Solutions Ltd",
+    "industry": "Consumer Internet / E-commerce",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "LGEINDIA",
+    "name": "LG Electronics India Ltd",
+    "industry": "Consumer Durables",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "LICHSGFIN",
+    "name": "LIC Housing Finance Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "LICI",
+    "name": "Life Insurance Corporation Of India",
+    "industry": "Insurance",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "LINDEINDIA",
+    "name": "Linde India Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "LLOYDSME",
+    "name": "Lloyds Metals and Energy Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "LODHA",
+    "name": "Lodha Developers Ltd",
+    "industry": "Real Estate",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "LTFOODS",
+    "name": "LT Foods Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "LTIM",
+    "name": "LTIMindtree",
+    "industry": "IT Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "LUPIN",
+    "name": "Lupin Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "MGL",
+    "name": "Mahanagar Gas Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "M&M",
+    "name": "Mahindra & Mahindra",
+    "industry": "Automobile",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "M&MFIN",
+    "name": "Mahindra and Mahindra Financial Services Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "MANAPPURAM",
+    "name": "Manappuram Finance Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "MRPL",
+    "name": "Mangalore Refinery and Petrochemicals Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "MANKIND",
+    "name": "Mankind Pharma Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "MARICO",
+    "name": "Marico",
+    "industry": "FMCG / Consumer",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "MARUTI",
+    "name": "Maruti Suzuki India",
+    "industry": "Automobile",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "MASTEK",
+    "name": "Mastek Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "MFSL",
+    "name": "Max Financial Services Ltd",
+    "industry": "Insurance",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "MAXHEALTH",
+    "name": "Max Healthcare Institute Ltd",
+    "industry": "Healthcare / Hospitals",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "MAZDOCK",
+    "name": "Mazagon Dock Shipbuilders Ltd",
+    "industry": "Defence / Aerospace",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "MEESHO",
+    "name": "Meesho Ltd",
+    "industry": "Consumer Internet / E-commerce",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "METROPOLIS",
+    "name": "Metropolis Healthcare Ltd",
+    "industry": "Healthcare / Diagnostics",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "MINDACORP",
+    "name": "Minda Corporation Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "MMTC",
+    "name": "MMTC Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "MSUMI",
+    "name": "Motherson Sumi Wiring India Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "MOTILALOFS",
+    "name": "Motilal Oswal Financial Services Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "MPHASIS",
+    "name": "Mphasis",
+    "industry": "IT Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "MRF",
+    "name": "MRF Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "MCX",
+    "name": "Multi Commodity Exchange of India Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "MUTHOOTFIN",
+    "name": "Muthoot Finance Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "NH",
+    "name": "Narayana Hrudayalaya Ltd",
+    "industry": "Healthcare / Hospitals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "NATCOPHARM",
+    "name": "Natco Pharma Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "NATIONALUM",
+    "name": "National Aluminium Co Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "NAVA",
+    "name": "Nava Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "NAVINFLUOR",
+    "name": "Navin Fluorine International Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "NBCC",
+    "name": "NBCC (India) Ltd",
+    "industry": "Infrastructure / Engineering",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "NCC",
+    "name": "NCC Ltd",
+    "industry": "Infrastructure / Engineering",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "NESTLEIND",
+    "name": "Nestle India",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "NETWEB",
+    "name": "Netweb Technologies India Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "NEULANDLAB",
+    "name": "Neuland Laboratories Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "NIACL",
+    "name": "New India Assurance Company Ltd",
+    "industry": "Insurance",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "NEWGEN",
+    "name": "Newgen Software Technologies Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "NHPC",
+    "name": "NHPC Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "NAM-INDIA",
+    "name": "Nippon Life India Asset Management Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "NIVABUPA",
+    "name": "Niva Bupa Health Insurance Company Ltd",
+    "industry": "Insurance",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "NLCINDIA",
+    "name": "NLC India Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "NMDC",
+    "name": "NMDC Limited",
+    "industry": "Metals & Mining",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "NSLNISP",
+    "name": "NMDC Steel Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "NTPCGREEN",
+    "name": "NTPC Green Energy Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "NUVAMA",
+    "name": "Nuvama Wealth Management Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "NUVOCO",
+    "name": "Nuvoco Vistas Corporation Ltd",
+    "industry": "Cement",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "OBEROIRLTY",
+    "name": "Oberoi Realty Ltd",
+    "industry": "Real Estate",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ONGC",
+    "name": "Oil & Natural Gas Corporation",
+    "industry": "Oil & Gas",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "OIL",
+    "name": "Oil India Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "OLAELEC",
+    "name": "Ola Electric Mobility Ltd",
+    "industry": "Automobile (Two-Wheelers)",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "OLECTRA",
+    "name": "Olectra Greentech Ltd",
+    "industry": "Automobile",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "PAYTM",
+    "name": "One 97 Communications Ltd",
+    "industry": "Consumer Internet / E-commerce",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ONESOURCE",
+    "name": "Onesource Specialty Pharma Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "OFSS",
+    "name": "Oracle Financial Services Software Ltd",
+    "industry": "IT Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "PAGEIND",
+    "name": "Page Industries",
+    "industry": "Retail / Apparel",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "PARADEEP",
+    "name": "Paradeep Phosphates Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "PATANJALI",
+    "name": "Patanjali Foods Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "POLICYBZR",
+    "name": "PB Fintech Ltd",
+    "industry": "Consumer Internet / E-commerce",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "PCBL",
+    "name": "PCBL Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "PERSISTENT",
+    "name": "Persistent Systems",
+    "industry": "IT Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "PETRONET",
+    "name": "Petronet LNG Ltd",
+    "industry": "Oil & Gas",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "PFIZER",
+    "name": "Pfizer Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "PGEL",
+    "name": "PG Electroplast Ltd",
+    "industry": "Consumer Durables",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "PWL",
+    "name": "Physicswallah Ltd",
+    "industry": "Consumer Internet / E-commerce",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "PIIND",
+    "name": "PI Industries Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "PIDILITIND",
+    "name": "Pidilite Industries",
+    "industry": "Chemicals",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "PINELABS",
+    "name": "Pine Labs Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "PPLPHARMA",
+    "name": "Piramal Pharma Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "PNBHOUSING",
+    "name": "PNB Housing Finance Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "POLYMED",
+    "name": "Poly Medicure Ltd",
+    "industry": "Healthcare / Hospitals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "POLYCAB",
+    "name": "Polycab India Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "POONAWALLA",
+    "name": "Poonawalla Fincorp Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "PFC",
+    "name": "Power Finance Corporation Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "POWERGRID",
+    "name": "Power Grid Corporation of India",
+    "industry": "Power / Energy",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "PREMIERENE",
+    "name": "Premier Energies Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "PRESTIGE",
+    "name": "Prestige Estates Projects Ltd",
+    "industry": "Real Estate",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "PTCIL",
+    "name": "PTC Industries Ltd",
+    "industry": "Defence / Aerospace",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "PNB",
+    "name": "Punjab National Bank",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "PVRINOX",
+    "name": "PVR Inox",
+    "industry": "Media & Entertainment",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "RRKABEL",
+    "name": "R R Kabel Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "RADICO",
+    "name": "Radico Khaitan Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "RVNL",
+    "name": "Rail Vikas Nigam Ltd",
+    "industry": "Infrastructure / Engineering",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "RAILTEL",
+    "name": "Railtel Corporation of India Ltd",
+    "industry": "Telecommunications",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "RAINBOW",
+    "name": "Rainbow Children's Medicare Ltd",
+    "industry": "Healthcare / Hospitals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "RALLIS",
+    "name": "Rallis India Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "RAMCOCEM",
+    "name": "Ramco Cements Ltd",
+    "industry": "Cement",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "RKFORGE",
+    "name": "Ramkrishna Forgings Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "RBLBANK",
+    "name": "RBL Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "RECLTD",
+    "name": "REC Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "REDINGTON",
+    "name": "Redington Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "RELIANCE",
+    "name": "Reliance Industries",
+    "industry": "Oil & Gas / Conglomerate",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "RPOWER",
+    "name": "Reliance Power Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "RHIM",
+    "name": "RHI Magnesita India Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "RITES",
+    "name": "RITES Ltd",
+    "industry": "Infrastructure / Engineering",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SAGILITY",
+    "name": "Sagility India Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SAILIFE",
+    "name": "Sai Life Sciences Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SAMMAANCAP",
+    "name": "Sammaan Capital Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "MOTHERSON",
+    "name": "Samvardhana Motherson International Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "SAPPHIRE",
+    "name": "Sapphire Foods India Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SARDAEN",
+    "name": "Sarda Energy & Minerals Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SAREGAMA",
+    "name": "Saregama India Ltd",
+    "industry": "Media & Entertainment",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SBFC",
+    "name": "SBFC Finance Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SBICARD",
+    "name": "SBI Cards and Payment Services Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "SBILIFE",
+    "name": "SBI Life Insurance",
+    "industry": "Insurance",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "SCHAEFFLER",
+    "name": "Schaeffler India Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "SCHNEIDER",
+    "name": "Schneider Electric Infrastructure Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SCI",
+    "name": "Shipping Corporation of India Ltd",
+    "industry": "Logistics / Shipping",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SHREECEM",
+    "name": "Shree Cement Ltd",
+    "industry": "Cement",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "SHRIRAMFIN",
+    "name": "Shriram Finance Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "SHYAMMETL",
+    "name": "Shyam Metalics and Energy Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SIEMENS",
+    "name": "Siemens Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "SIGNATURE",
+    "name": "Signatureglobal (India) Ltd",
+    "industry": "Real Estate",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SJVN",
+    "name": "SJVN Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "SOBHA",
+    "name": "Sobha Ltd",
+    "industry": "Real Estate",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SOLARINDS",
+    "name": "Solar Industries India Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "SONACOMS",
+    "name": "Sona BLW Precision Forgings Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SONATSOFTW",
+    "name": "Sonata Software Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SOUTHBANK",
+    "name": "South Indian Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SRF",
+    "name": "SRF Limited",
+    "industry": "Chemicals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "STARHEALTH",
+    "name": "Star Health and Allied Insurance Company Ltd",
+    "industry": "Insurance",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SBIN",
+    "name": "State Bank of India",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "SAIL",
+    "name": "Steel Authority of India Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "SUMICHEM",
+    "name": "Sumitomo Chemical India Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SUNPHARMA",
+    "name": "Sun Pharmaceutical Industries",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "SUNTV",
+    "name": "Sun TV Network Ltd",
+    "industry": "Media & Entertainment",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SUNDARMFIN",
+    "name": "Sundaram Finance Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "SUPREMEIND",
+    "name": "Supreme Industries Ltd",
+    "industry": "Building Materials",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "SPLPETRO",
+    "name": "Supreme Petrochem Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SUZLON",
+    "name": "Suzlon Energy Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "SWANCORP",
+    "name": "Swan Corp Ltd",
+    "industry": "Diversified / Conglomerate",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SWIGGY",
+    "name": "Swiggy Ltd",
+    "industry": "Consumer Internet / E-commerce",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "SYNGENE",
+    "name": "Syngene International Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "SYRMA",
+    "name": "Syrma SGS Technology Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TATACAP",
+    "name": "Tata Capital Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "TATACHEM",
+    "name": "Tata Chemicals Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TATACOMM",
+    "name": "Tata Communications Ltd",
+    "industry": "Telecommunications",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "TATACONSUM",
+    "name": "Tata Consumer Products Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "TATAELXSI",
+    "name": "Tata Elxsi Ltd",
+    "industry": "IT Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "TATAINVEST",
+    "name": "Tata Investment Corporation Ltd",
+    "industry": "Diversified / Conglomerate",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "TATAPOWER",
+    "name": "Tata Power Company Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "TATATECH",
+    "name": "Tata Technologies Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TTML",
+    "name": "Tata Teleservices (Maharashtra) Ltd",
+    "industry": "Telecommunications",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TBOTEK",
+    "name": "TBO Tek Ltd",
+    "industry": "Travel / Tourism",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TECHM",
+    "name": "Tech Mahindra",
+    "industry": "IT Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "TECHNOE",
+    "name": "Techno Electric & Engineering Company Ltd",
+    "industry": "Infrastructure / Engineering",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TEGA",
+    "name": "Tega Industries Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TEJASNET",
+    "name": "Tejas Networks Ltd",
+    "industry": "Telecommunications",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TENNIND",
+    "name": "Tenneco Clean Air India Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "INDIACEM",
+    "name": "The India Cements",
+    "industry": "Cement",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "PHOENIXLTD",
+    "name": "The Phoenix Mills",
+    "industry": "Real Estate",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "THERMAX",
+    "name": "Thermax Limited",
+    "industry": "Capital Goods",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "TIMKEN",
+    "name": "Timken India Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TITAGARH",
+    "name": "Titagarh Rail Systems Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TORNTPHARM",
+    "name": "Torrent Pharmaceuticals",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "TORNTPOWER",
+    "name": "Torrent Power",
+    "industry": "Power / Energy",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "TARIL",
+    "name": "Transformers and Rectifiers (India) Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TRAVELFOOD",
+    "name": "Travel Food Services Ltd",
+    "industry": "Travel / Tourism",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TRENT",
+    "name": "Trent Limited",
+    "industry": "Retail",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "TRIDENT",
+    "name": "Trident Ltd",
+    "industry": "Textiles",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TRITURBINE",
+    "name": "Triveni Turbine Ltd",
+    "industry": "Capital Goods",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "TIINDIA",
+    "name": "Tube Investments of India Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "TVSMOTOR",
+    "name": "TVS Motor Company",
+    "industry": "Automobile (Two-Wheelers)",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "UCOBANK",
+    "name": "UCO Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ULTRACEMCO",
+    "name": "UltraTech Cement",
+    "industry": "Cement",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "UNIONBANK",
+    "name": "Union Bank of India Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "UBL",
+    "name": "United Breweries Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "UNITDSPR",
+    "name": "United Spirits Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "UNOMINDA",
+    "name": "UNO Minda Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "UPL",
+    "name": "UPL Ltd",
+    "industry": "Chemicals",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "URBANCO",
+    "name": "Urban Company Ltd",
+    "industry": "Consumer Internet / E-commerce",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "USHAMART",
+    "name": "Usha Martin Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "UTIAMC",
+    "name": "UTI Asset Management Company Ltd",
+    "industry": "Asset Management / Capital Markets",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "VTL",
+    "name": "Vardhman Textiles Ltd",
+    "industry": "Textiles",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "VBL",
+    "name": "Varun Beverages Ltd",
+    "industry": "FMCG / Food & Beverages",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "VEDL",
+    "name": "Vedanta Limited",
+    "industry": "Metals & Mining",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "VIJAYA",
+    "name": "Vijaya Diagnostic Centre Ltd",
+    "industry": "Healthcare / Hospitals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "VIPIND",
+    "name": "VIP Industries Ltd",
+    "industry": "Consumer Durables",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "VMM",
+    "name": "Vishal Mega Mart Ltd",
+    "industry": "Retail",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "IDEA",
+    "name": "Vodafone Idea Ltd",
+    "industry": "Telecommunications",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "VOLT",
+    "name": "Voltas Ltd",
+    "industry": "Consumer Durables",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "WAAREEENER",
+    "name": "Waaree Energies Ltd",
+    "industry": "Power / Energy",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "WELCORP",
+    "name": "Welspun Corp Ltd",
+    "industry": "Metals & Mining",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "WELSPUNLIV",
+    "name": "Welspun Living Ltd",
+    "industry": "Textiles",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "WHIRLPOOL",
+    "name": "Whirlpool of India Ltd",
+    "industry": "Consumer Durables",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "WIPRO",
+    "name": "Wipro Limited",
+    "industry": "IT Services",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "WOCKPHARMA",
+    "name": "Wockhardt Ltd",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "YESBANK",
+    "name": "Yes Bank Ltd",
+    "industry": "Banking / Financial Services",
+    "cap_segment": "mid"
+  },
+  {
+    "ticker": "ZEEL",
+    "name": "Zee Entertainment Enterprises Ltd",
+    "industry": "Media & Entertainment",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ZENTEC",
+    "name": "Zen Technologies Ltd",
+    "industry": "Defence / Aerospace",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ZENSARTECH",
+    "name": "Zensar Technologies Ltd",
+    "industry": "IT Services",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ZFCVINDIA",
+    "name": "ZF Commercial Vehicle Control Systems India Ltd",
+    "industry": "Automobile Ancillary",
+    "cap_segment": "small"
+  },
+  {
+    "ticker": "ZYDUSLIFE",
+    "name": "Zydus Lifesciences",
+    "industry": "Pharmaceuticals",
+    "cap_segment": "large"
+  },
+  {
+    "ticker": "ZYDUSWELL",
+    "name": "Zydus Wellness Ltd",
+    "industry": "FMCG / Consumer",
+    "cap_segment": "small"
+  }
+]

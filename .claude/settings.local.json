@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(mkdir -p data scripts lib \"pages/company\" \"pages/executive\" styles)",
+      "Bash(npm --version)",
+      "Bash(node scripts/fetch_stock_data.js)",
+      "Bash(curl -s -A \"Mozilla/5.0\" \"https://query1.finance.yahoo.com/v8/finance/chart/LTIM.NS?range=5d&interval=1d\")",
+      "Bash(curl -s -A \"Mozilla/5.0\" \"https://query1.finance.yahoo.com/v8/finance/chart/LTIM.BO?range=5d&interval=1d\")",
+      "Bash(curl -s -A \"Mozilla/5.0\" \"https://query2.finance.yahoo.com/v1/finance/search?q=LTIM&quotesCount=10&newsCount=0\")",
+      "Bash(node -e \"const c=require\\('./data/stock_cache.json'\\); console.log\\(JSON.stringify\\(c['venu-lambu'], null, 2\\)\\)\")",
+      "Bash(npm view *)",
+      "Bash(node -e \"let d='';process.stdin.on\\('data',c=>d+=c\\);process.stdin.on\\('end',\\(\\)=>{const v=JSON.parse\\(d\\);console.log\\(v.filter\\(x=>x.startsWith\\('14.2'\\)\\).slice\\(-5\\)\\);console.log\\('latest:',v[v.length-1]\\)}\\)\")",
+      "Bash(npm install *)",
+      "Bash(npm audit *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:3000/ -o /dev/null -w \"index: %{http_code}\\\\n\")",
+      "Bash(curl -s http://localhost:3000/company/HEROMOTOCO -o /dev/null -w \"company: %{http_code}\\\\n\")",
+      "Bash(curl -s http://localhost:3000/executive/kunjal-mehta -o /dev/null -w \"executive: %{http_code}\\\\n\")",
+      "Bash(curl -s http://localhost:3000/tracker -o /dev/null -w \"tracker: %{http_code}\\\\n\")",
+      "mcp__Claude_in_Chrome__navigate",
+      "Bash(mkdir -p \"/c/Users/vihan/OneDrive/文档/Desktop/dashboard/.claude\")",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(powershell -Command \"Stop-Process -Id 12364 -Force\")",
+      "WebFetch(domain:www.niftyindices.com)",
+      "WebFetch(domain:nsearchives.nseindia.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:www.tickertape.in)",
+      "Bash(node -e \"const e=require\\('./data/executives.json'\\); const c=require\\('./data/companies.json'\\); console.log\\('executives:', e.length\\); console.log\\('companies:', c.length\\); const tickers=new Set\\(c.map\\(x=>x.ticker\\)\\); const missing=e.filter\\(x=>!tickers.has\\(x.company_ticker\\)\\); console.log\\('missing ticker refs:', missing.map\\(x=>x.id\\)\\);\")",
+      "Bash(node -e ' *)",
+      "Bash(node scripts/merge_universe.js)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3000/executive/himanshu-agarwal)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3000/executive/kunjal-mehta)",
+      "Bash(curl -s http://localhost:3000/company/KAYNES -o /dev/null -w \"kaynes company: %{http_code}\\\\n\")",
+      "Bash(curl -s http://localhost:3000/executive/hari-haran-chalat -o /dev/null -w \"zen exec: %{http_code}\\\\n\")",
+      "Bash(curl -s http://localhost:3000/company/KAYNES -o /dev/null -w \"kaynes company retry: %{http_code}\\\\n\")"
+    ]
+  }
+}
