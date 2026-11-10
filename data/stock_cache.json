@@ -9,11 +9,11 @@
     "end_price": 479.5,
     "stock_pct_change": 25.58,
     "index_start": 21741.9,
-    "index_end": 25030.35,
-    "index_pct_change": 15.12,
-    "outperformance_pct": 10.45,
+    "index_end": 25044.65,
+    "index_pct_change": 15.19,
+    "outperformance_pct": 10.39,
     "tenure_days": 1043,
-    "generated_at": "2026-11-09T21:24:39.887Z"
+    "generated_at": "2026-11-10T18:38:53.128Z"
   },
   "srini-pallia": {
     "status": "ok",
@@ -25,11 +25,11 @@
     "end_price": 199,
     "stock_pct_change": -17.07,
     "index_start": 22666.3,
-    "index_end": 25030.35,
-    "index_pct_change": 10.43,
-    "outperformance_pct": -27.5,
+    "index_end": 25044.65,
+    "index_pct_change": 10.49,
+    "outperformance_pct": -27.56,
     "tenure_days": 945,
-    "generated_at": "2026-11-09T21:24:40.344Z"
+    "generated_at": "2026-11-10T18:38:53.614Z"
   },
   "mohit-joshi": {
     "status": "ok",
@@ -41,11 +41,11 @@
     "end_price": 1805,
     "stock_pct_change": 44.56,
     "index_start": 21150.15,
-    "index_end": 25030.35,
-    "index_pct_change": 18.35,
-    "outperformance_pct": 26.22,
+    "index_end": 25044.65,
+    "index_pct_change": 18.41,
+    "outperformance_pct": 26.15,
     "tenure_days": 1055,
-    "generated_at": "2026-11-09T21:24:40.806Z"
+    "generated_at": "2026-11-10T18:38:54.103Z"
   },
   "venu-lambu": {
     "status": "unavailable",
@@ -61,11 +61,11 @@
     "end_price": 168.6,
     "stock_pct_change": -8.19,
     "index_start": 24304.35,
-    "index_end": 25030.35,
-    "index_pct_change": 2.99,
-    "outperformance_pct": -11.18,
+    "index_end": 25044.65,
+    "index_pct_change": 3.05,
+    "outperformance_pct": -11.24,
     "tenure_days": 738,
-    "generated_at": "2026-11-09T21:24:41.676Z"
+    "generated_at": "2026-11-10T18:38:54.977Z"
   },
   "rajiv-anand": {
     "status": "ok",
@@ -77,11 +77,11 @@
     "end_price": 895,
     "stock_pct_change": 16.11,
     "index_start": 24967.75,
-    "index_end": 25030.35,
-    "index_pct_change": 0.25,
-    "outperformance_pct": 15.85,
+    "index_end": 25044.65,
+    "index_pct_change": 0.31,
+    "outperformance_pct": 15.8,
     "tenure_days": 441,
-    "generated_at": "2026-11-09T21:24:42.151Z"
+    "generated_at": "2026-11-10T18:38:55.439Z"
   },
   "puneet-sharma": {
     "status": "ok",
@@ -93,11 +93,11 @@
     "end_price": 798.15,
     "stock_pct_change": 12.12,
     "index_start": 24055.8,
-    "index_end": 25030.35,
-    "index_pct_change": 4.05,
-    "outperformance_pct": 8.06,
+    "index_end": 25044.65,
+    "index_pct_change": 4.11,
+    "outperformance_pct": 8,
     "tenure_days": 69,
-    "generated_at": "2026-11-09T21:24:42.606Z"
+    "generated_at": "2026-11-10T18:38:55.932Z"
   },
   "shashwat-sharma": {
     "status": "ok",
@@ -109,11 +109,11 @@
     "end_price": 2072.1,
     "stock_pct_change": -1.81,
     "index_start": 26146.55,
-    "index_end": 25030.35,
-    "index_pct_change": -4.27,
-    "outperformance_pct": 2.45,
+    "index_end": 25044.65,
+    "index_pct_change": -4.21,
+    "outperformance_pct": 2.4,
     "tenure_days": 312,
-    "generated_at": "2026-11-09T21:24:43.084Z"
+    "generated_at": "2026-11-10T18:38:56.374Z"
   },
   "sharat-sinha": {
     "status": "ok",
@@ -125,11 +125,11 @@
     "end_price": 2072.1,
     "stock_pct_change": 48.95,
     "index_start": 23263.9,
-    "index_end": 25030.35,
-    "index_pct_change": 7.59,
-    "outperformance_pct": 41.36,
+    "index_end": 25044.65,
+    "index_pct_change": 7.65,
+    "outperformance_pct": 41.3,
     "tenure_days": 889,
-    "generated_at": "2026-11-09T21:24:43.525Z"
+    "generated_at": "2026-11-10T18:38:56.871Z"
   },
   "rakshit-hargave": {
     "status": "ok",
@@ -141,11 +141,11 @@
     "end_price": 4790,
     "stock_pct_change": -20.67,
     "index_start": 26027.3,
-    "index_end": 25030.35,
-    "index_pct_change": -3.83,
-    "outperformance_pct": -16.84,
+    "index_end": 25044.65,
+    "index_pct_change": -3.78,
+    "outperformance_pct": -16.89,
     "tenure_days": 329,
-    "generated_at": "2026-11-09T21:24:43.940Z"
+    "generated_at": "2026-11-10T18:38:57.367Z"
   },
   "vivek-anand": {
     "status": "ok",
@@ -157,11 +157,11 @@
     "end_price": 5410.5,
     "stock_pct_change": 20.04,
     "index_start": 22338.75,
-    "index_end": 25030.35,
-    "index_pct_change": 12.05,
-    "outperformance_pct": 7.99,
+    "index_end": 25044.65,
+    "index_pct_change": 12.11,
+    "outperformance_pct": 7.93,
     "tenure_days": 983,
-    "generated_at": "2026-11-09T21:24:44.420Z"
+    "generated_at": "2026-11-10T18:38:57.834Z"
   },
   "harshavardhan-chitale": {
     "status": "ok",
@@ -173,11 +173,11 @@
     "end_price": 5410.5,
     "stock_pct_change": -9.61,
     "index_start": 26250.3,
-    "index_end": 25030.35,
-    "index_pct_change": -4.65,
-    "outperformance_pct": -4.96,
+    "index_end": 25044.65,
+    "index_pct_change": -4.59,
+    "outperformance_pct": -5.01,
     "tenure_days": 308,
-    "generated_at": "2026-11-09T21:24:44.832Z"
+    "generated_at": "2026-11-10T18:38:58.292Z"
   },
   "mv-narasimham": {
     "status": "ok",
@@ -189,11 +189,11 @@
     "end_price": 1385,
     "stock_pct_change": 0.54,
     "index_start": 25010.9,
-    "index_end": 25030.35,
-    "index_pct_change": 0.08,
-    "outperformance_pct": 0.46,
+    "index_end": 25044.65,
+    "index_pct_change": 0.13,
+    "outperformance_pct": 0.4,
     "tenure_days": 830,
-    "generated_at": "2026-11-09T21:24:45.331Z"
+    "generated_at": "2026-11-10T18:38:58.757Z"
   },
   "achin-gupta": {
     "status": "ok",
@@ -205,11 +205,11 @@
     "end_price": 1403.8,
     "stock_pct_change": 17.38,
     "index_start": 22679.4,
-    "index_end": 25030.35,
-    "index_pct_change": 10.37,
-    "outperformance_pct": 7.02,
+    "index_end": 25044.65,
+    "index_pct_change": 10.43,
+    "outperformance_pct": 6.96,
     "tenure_days": 222,
-    "generated_at": "2026-11-09T21:24:45.742Z"
+    "generated_at": "2026-11-10T18:38:59.175Z"
   },
   "kunjal-mehta": {
     "status": "ok",
@@ -221,11 +221,11 @@
     "end_price": 1439.1,
     "stock_pct_change": 29.42,
     "index_start": 22462,
-    "index_end": 25030.35,
-    "index_pct_change": 11.43,
-    "outperformance_pct": 17.98,
+    "index_end": 25044.65,
+    "index_pct_change": 11.5,
+    "outperformance_pct": 17.92,
     "tenure_days": 952,
-    "generated_at": "2026-11-09T21:24:46.189Z"
+    "generated_at": "2026-11-10T18:38:59.611Z"
   },
   "p-ramakrishnan": {
     "status": "ok",
@@ -237,11 +237,11 @@
     "end_price": 4185,
     "stock_pct_change": 2.26,
     "index_start": 24005.85,
-    "index_end": 25030.35,
-    "index_pct_change": 4.27,
-    "outperformance_pct": -2.01,
+    "index_end": 25044.65,
+    "index_pct_change": 4.33,
+    "outperformance_pct": -2.07,
     "tenure_days": 131,
-    "generated_at": "2026-11-09T21:24:46.673Z"
+    "generated_at": "2026-11-10T18:39:00.031Z"
   },
   "william-walsh": {
     "status": "ok",
@@ -253,11 +253,11 @@
     "end_price": 5430,
     "stock_pct_change": 0.56,
     "index_start": 24774.3,
-    "index_end": 25030.35,
-    "index_pct_change": 1.03,
-    "outperformance_pct": -0.48,
+    "index_end": 25044.65,
+    "index_pct_change": 1.09,
+    "outperformance_pct": -0.54,
     "tenure_days": 98,
-    "generated_at": "2026-11-09T21:24:47.072Z"
+    "generated_at": "2026-11-10T18:39:00.449Z"
   },
   "kvs-manian": {
     "status": "ok",
@@ -269,11 +269,11 @@
     "end_price": 344.1,
     "stock_pct_change": 83.37,
     "index_start": 25939.05,
-    "index_end": 25030.35,
-    "index_pct_change": -3.5,
-    "outperformance_pct": 86.88,
+    "index_end": 25044.65,
+    "index_pct_change": -3.45,
+    "outperformance_pct": 86.82,
     "tenure_days": 777,
-    "generated_at": "2026-11-09T21:24:47.564Z"
+    "generated_at": "2026-11-10T18:39:00.909Z"
   },
   "rama-mohan-rao-amara": {
     "status": "ok",
@@ -285,11 +285,11 @@
     "end_price": 1042,
     "stock_pct_change": 24.32,
     "index_start": 24198.85,
-    "index_end": 25030.35,
-    "index_pct_change": 3.44,
-    "outperformance_pct": 20.89,
+    "index_end": 25044.65,
+    "index_pct_change": 3.5,
+    "outperformance_pct": 20.83,
     "tenure_days": 691,
-    "generated_at": "2026-11-09T21:24:48.008Z"
+    "generated_at": "2026-11-10T18:39:01.377Z"
   },
   "amit-jhingran": {
     "status": "ok",
@@ -301,27 +301,27 @@
     "end_price": 1748,
     "stock_pct_change": 35.25,
     "index_start": 19528.75,
-    "index_end": 25030.35,
-    "index_pct_change": 28.17,
-    "outperformance_pct": 7.08,
+    "index_end": 25044.65,
+    "index_pct_change": 28.25,
+    "outperformance_pct": 7,
     "tenure_days": 1133,
-    "generated_at": "2026-11-09T21:24:48.441Z"
+    "generated_at": "2026-11-10T18:39:01.834Z"
   },
   "anup-bagchi": {
     "status": "ok",
     "ticker": "ICICIPRULI",
     "company_name": "ICICI Prudential Life Insurance",
     "start_date": "2026-07-17",
-    "end_date": "2026-11-06",
+    "end_date": "2026-11-09",
     "start_price": 497.15,
-    "end_price": 438.9,
-    "stock_pct_change": -11.72,
+    "end_price": 438.4,
+    "stock_pct_change": -11.82,
     "index_start": 18755.45,
-    "index_end": 25030.35,
-    "index_pct_change": 33.46,
-    "outperformance_pct": -45.17,
-    "tenure_days": 112,
-    "generated_at": "2026-11-09T21:24:48.870Z"
+    "index_end": 25044.65,
+    "index_pct_change": 33.53,
+    "outperformance_pct": -45.35,
+    "tenure_days": 115,
+    "generated_at": "2026-11-10T18:39:02.308Z"
   },
   "ramandeep-singh-sahni": {
     "status": "ok",
@@ -333,11 +333,11 @@
     "end_price": 1836.9,
     "stock_pct_change": 4.73,
     "index_start": 23482.15,
-    "index_end": 25030.35,
-    "index_pct_change": 6.59,
-    "outperformance_pct": -1.87,
+    "index_end": 25044.65,
+    "index_pct_change": 6.65,
+    "outperformance_pct": -1.93,
     "tenure_days": 646,
-    "generated_at": "2026-11-09T21:24:49.287Z"
+    "generated_at": "2026-11-10T18:39:02.726Z"
   },
   "ravindra-kumar-kundu": {
     "status": "ok",
@@ -349,11 +349,11 @@
     "end_price": 1790.8,
     "stock_pct_change": 21.13,
     "index_start": 24795.75,
-    "index_end": 25030.35,
-    "index_pct_change": 0.95,
-    "outperformance_pct": 20.18,
+    "index_end": 25044.65,
+    "index_pct_change": 1,
+    "outperformance_pct": 20.12,
     "tenure_days": 763,
-    "generated_at": "2026-11-09T21:24:49.719Z"
+    "generated_at": "2026-11-10T18:39:03.190Z"
   },
   "anup-kumar-saha": {
     "status": "ok",
@@ -365,11 +365,11 @@
     "end_price": 1064.85,
     "stock_pct_change": 22.42,
     "index_start": 23165.7,
-    "index_end": 25030.35,
-    "index_pct_change": 8.05,
-    "outperformance_pct": 14.37,
+    "index_end": 25044.65,
+    "index_pct_change": 8.11,
+    "outperformance_pct": 14.31,
     "tenure_days": 587,
-    "generated_at": "2026-11-09T21:24:50.171Z"
+    "generated_at": "2026-11-10T18:39:03.610Z"
   },
   "manoj-bhat": {
     "status": "ok",
@@ -381,11 +381,11 @@
     "end_price": 3290.6,
     "stock_pct_change": 24.76,
     "index_start": 23332.35,
-    "index_end": 25030.35,
-    "index_pct_change": 7.28,
-    "outperformance_pct": 17.48,
+    "index_end": 25044.65,
+    "index_pct_change": 7.34,
+    "outperformance_pct": 17.42,
     "tenure_days": 586,
-    "generated_at": "2026-11-09T21:24:50.625Z"
+    "generated_at": "2026-11-10T18:39:04.082Z"
   },
   "arnab-roy": {
     "status": "ok",
@@ -397,11 +397,11 @@
     "end_price": 12928,
     "stock_pct_change": 25.72,
     "index_start": 21741.9,
-    "index_end": 25030.35,
-    "index_pct_change": 15.12,
-    "outperformance_pct": 10.59,
+    "index_end": 25044.65,
+    "index_pct_change": 15.19,
+    "outperformance_pct": 10.53,
     "tenure_days": 1043,
-    "generated_at": "2026-11-09T21:24:51.150Z"
+    "generated_at": "2026-11-10T18:39:04.542Z"
   },
   "km-balaji": {
     "status": "ok",
@@ -413,11 +413,11 @@
     "end_price": 174.86,
     "stock_pct_change": 47.87,
     "index_start": 23263.9,
-    "index_end": 25030.35,
-    "index_pct_change": 7.59,
-    "outperformance_pct": 40.28,
+    "index_end": 25044.65,
+    "index_pct_change": 7.65,
+    "outperformance_pct": 40.22,
     "tenure_days": 889,
-    "generated_at": "2026-11-09T21:24:51.652Z"
+    "generated_at": "2026-11-10T18:39:05.015Z"
   },
   "kedar-dixit": {
     "status": "ok",
@@ -429,11 +429,11 @@
     "end_price": 1725,
     "stock_pct_change": 105.21,
     "index_start": 19322.55,
-    "index_end": 25030.35,
-    "index_pct_change": 29.54,
-    "outperformance_pct": 75.67,
+    "index_end": 25044.65,
+    "index_pct_change": 29.61,
+    "outperformance_pct": 75.6,
     "tenure_days": 1225,
-    "generated_at": "2026-11-09T21:24:52.172Z"
+    "generated_at": "2026-11-10T18:39:05.489Z"
   },
   "sudarshan-venu": {
     "status": "ok",
@@ -445,11 +445,11 @@
     "end_price": 4505.9,
     "stock_pct_change": 37.18,
     "index_start": 24967.75,
-    "index_end": 25030.35,
-    "index_pct_change": 0.25,
-    "outperformance_pct": 36.93,
+    "index_end": 25044.65,
+    "index_pct_change": 0.31,
+    "outperformance_pct": 36.87,
     "tenure_days": 441,
-    "generated_at": "2026-11-09T21:24:52.582Z"
+    "generated_at": "2026-11-10T18:39:06.306Z"
   },
   "bharat-goenka": {
     "status": "ok",
@@ -461,11 +461,11 @@
     "end_price": 960,
     "stock_pct_change": 44.63,
     "index_start": 23165.7,
-    "index_end": 25030.35,
-    "index_pct_change": 8.05,
-    "outperformance_pct": 36.58,
+    "index_end": 25044.65,
+    "index_pct_change": 8.11,
+    "outperformance_pct": 36.52,
     "tenure_days": 587,
-    "generated_at": "2026-11-09T21:24:53.071Z"
+    "generated_at": "2026-11-10T18:39:06.805Z"
   },
   "swayam-saurabh": {
     "status": "ok",
@@ -477,11 +477,11 @@
     "end_price": 1347,
     "stock_pct_change": 44.13,
     "index_start": 25010.9,
-    "index_end": 25030.35,
-    "index_pct_change": 0.08,
-    "outperformance_pct": 44.06,
+    "index_end": 25044.65,
+    "index_pct_change": 0.13,
+    "outperformance_pct": 44,
     "tenure_days": 830,
-    "generated_at": "2026-11-09T21:24:53.514Z"
+    "generated_at": "2026-11-10T18:39:07.319Z"
   },
   "gautam-malhotra": {
     "status": "ok",
@@ -493,11 +493,11 @@
     "end_price": 1146,
     "stock_pct_change": 6.75,
     "index_start": 25936.2,
-    "index_end": 25030.35,
-    "index_pct_change": -3.49,
-    "outperformance_pct": 10.25,
+    "index_end": 25044.65,
+    "index_pct_change": -3.44,
+    "outperformance_pct": 10.19,
     "tenure_days": 377,
-    "generated_at": "2026-11-09T21:24:53.934Z"
+    "generated_at": "2026-11-10T18:39:07.758Z"
   },
   "ajay-goel": {
     "status": "ok",
@@ -509,11 +509,11 @@
     "end_price": 262,
     "stock_pct_change": 21.04,
     "index_start": 19140.9,
-    "index_end": 25030.35,
-    "index_pct_change": 30.77,
-    "outperformance_pct": -9.72,
+    "index_end": 25044.65,
+    "index_pct_change": 30.84,
+    "outperformance_pct": -9.8,
     "tenure_days": 1106,
-    "generated_at": "2026-11-09T21:24:54.374Z"
+    "generated_at": "2026-11-10T18:39:08.251Z"
   },
   "amitava-mukherjee": {
     "status": "ok",
@@ -525,11 +525,11 @@
     "end_price": 71.5,
     "stock_pct_change": 6.88,
     "index_start": 22544.7,
-    "index_end": 25030.35,
-    "index_pct_change": 11.03,
-    "outperformance_pct": -4.15,
+    "index_end": 25044.65,
+    "index_pct_change": 11.09,
+    "outperformance_pct": -4.21,
     "tenure_days": 613,
-    "generated_at": "2026-11-09T21:24:54.867Z"
+    "generated_at": "2026-11-10T18:39:08.672Z"
   },
   "anurag-kapil": {
     "status": "ok",
@@ -541,11 +541,11 @@
     "end_price": 71.5,
     "stock_pct_change": -8.53,
     "index_start": 22679.4,
-    "index_end": 25030.35,
-    "index_pct_change": 10.37,
-    "outperformance_pct": -18.9,
+    "index_end": 25044.65,
+    "index_pct_change": 10.43,
+    "outperformance_pct": -18.96,
     "tenure_days": 222,
-    "generated_at": "2026-11-09T21:24:55.289Z"
+    "generated_at": "2026-11-10T18:39:09.083Z"
   },
   "saurabh-mashruwala": {
     "status": "ok",
@@ -557,11 +557,11 @@
     "end_price": 1236,
     "stock_pct_change": 137.72,
     "index_start": 17706.85,
-    "index_end": 25030.35,
-    "index_pct_change": 41.36,
-    "outperformance_pct": 96.36,
+    "index_end": 25044.65,
+    "index_pct_change": 41.44,
+    "outperformance_pct": 96.27,
     "tenure_days": 1302,
-    "generated_at": "2026-11-09T21:24:55.742Z"
+    "generated_at": "2026-11-10T18:39:09.541Z"
   },
   "anupam-agarwal": {
     "status": "ok",
@@ -573,11 +573,11 @@
     "end_price": 233.5,
     "stock_pct_change": -1.59,
     "index_start": 24542.5,
-    "index_end": 25030.35,
-    "index_pct_change": 1.99,
-    "outperformance_pct": -3.58,
+    "index_end": 25044.65,
+    "index_pct_change": 2.05,
+    "outperformance_pct": -3.63,
     "tenure_days": 524,
-    "generated_at": "2026-11-09T21:24:56.194Z"
+    "generated_at": "2026-11-10T18:39:09.963Z"
   },
   "rk-tyagi": {
     "status": "ok",
@@ -589,11 +589,11 @@
     "end_price": 257.95,
     "stock_pct_change": 8.27,
     "index_start": 21741.9,
-    "index_end": 25030.35,
-    "index_pct_change": 15.12,
-    "outperformance_pct": -6.86,
+    "index_end": 25044.65,
+    "index_pct_change": 15.19,
+    "outperformance_pct": -6.92,
     "tenure_days": 1043,
-    "generated_at": "2026-11-09T21:24:56.727Z"
+    "generated_at": "2026-11-10T18:39:10.416Z"
   },
   "v-srikanth": {
     "status": "ok",
@@ -605,11 +605,11 @@
     "end_price": 1324.4,
     "stock_pct_change": 16.5,
     "index_start": 18487.75,
-    "index_end": 25030.35,
-    "index_pct_change": 35.39,
-    "outperformance_pct": -18.89,
+    "index_end": 25044.65,
+    "index_pct_change": 35.47,
+    "outperformance_pct": -18.96,
     "tenure_days": 1257,
-    "generated_at": "2026-11-09T21:24:57.190Z"
+    "generated_at": "2026-11-10T18:39:10.878Z"
   },
   "suresh-vasant-patil": {
     "status": "ok",
@@ -621,11 +621,11 @@
     "end_price": 341.4,
     "stock_pct_change": -9.53,
     "index_start": 23742.9,
-    "index_end": 25030.35,
-    "index_pct_change": 5.42,
-    "outperformance_pct": -14.95,
+    "index_end": 25044.65,
+    "index_pct_change": 5.48,
+    "outperformance_pct": -15.01,
     "tenure_days": 677,
-    "generated_at": "2026-11-09T21:24:57.612Z"
+    "generated_at": "2026-11-10T18:39:11.296Z"
   },
   "jayant-dua": {
     "status": "ok",
@@ -637,11 +637,11 @@
     "end_price": 12275,
     "stock_pct_change": 14.57,
     "index_start": 22679.4,
-    "index_end": 25030.35,
-    "index_pct_change": 10.37,
-    "outperformance_pct": 4.2,
+    "index_end": 25044.65,
+    "index_pct_change": 10.43,
+    "outperformance_pct": 4.14,
     "tenure_days": 222,
-    "generated_at": "2026-11-09T21:24:58.015Z"
+    "generated_at": "2026-11-10T18:39:11.709Z"
   },
   "aravind-viswanathan": {
     "status": "ok",
@@ -653,11 +653,11 @@
     "end_price": 2455,
     "stock_pct_change": -15.66,
     "index_start": 24541.15,
-    "index_end": 25030.35,
-    "index_pct_change": 1.99,
-    "outperformance_pct": -17.66,
+    "index_end": 25044.65,
+    "index_pct_change": 2.05,
+    "outperformance_pct": -17.71,
     "tenure_days": 815,
-    "generated_at": "2026-11-09T21:24:58.459Z"
+    "generated_at": "2026-11-10T18:39:12.166Z"
   },
   "shiv-walia": {
     "status": "ok",
@@ -669,11 +669,11 @@
     "end_price": 1407,
     "stock_pct_change": -19.88,
     "index_start": 24852.15,
-    "index_end": 25030.35,
-    "index_pct_change": 0.72,
-    "outperformance_pct": -20.6,
+    "index_end": 25044.65,
+    "index_pct_change": 0.77,
+    "outperformance_pct": -20.65,
     "tenure_days": 794,
-    "generated_at": "2026-11-09T21:24:58.985Z"
+    "generated_at": "2026-11-10T18:39:12.609Z"
   },
   "saurabh-goel": {
     "status": "ok",
@@ -685,11 +685,11 @@
     "end_price": 2047,
     "stock_pct_change": 68.44,
     "index_start": 21710.8,
-    "index_end": 25030.35,
-    "index_pct_change": 15.29,
-    "outperformance_pct": 53.15,
+    "index_end": 25044.65,
+    "index_pct_change": 15.36,
+    "outperformance_pct": 53.08,
     "tenure_days": 1039,
-    "generated_at": "2026-11-09T21:24:59.504Z"
+    "generated_at": "2026-11-10T18:39:13.081Z"
   },
   "jayesh-sanghrajka": {
     "status": "ok",
@@ -701,11 +701,11 @@
     "end_price": 1154.1,
     "stock_pct_change": -22.83,
     "index_start": 22462,
-    "index_end": 25030.35,
-    "index_pct_change": 11.43,
-    "outperformance_pct": -34.26,
+    "index_end": 25044.65,
+    "index_pct_change": 11.5,
+    "outperformance_pct": -34.32,
     "tenure_days": 952,
-    "generated_at": "2026-11-09T21:24:59.966Z"
+    "generated_at": "2026-11-10T18:39:13.620Z"
   },
   "jaideep-dhok": {
     "status": "ok",
@@ -717,11 +717,11 @@
     "end_price": 6040,
     "stock_pct_change": 15.43,
     "index_start": 24487.4,
-    "index_end": 25030.35,
-    "index_pct_change": 2.22,
-    "outperformance_pct": 13.22,
+    "index_end": 25044.65,
+    "index_pct_change": 2.28,
+    "outperformance_pct": 13.16,
     "tenure_days": 454,
-    "generated_at": "2026-11-09T21:25:00.444Z"
+    "generated_at": "2026-11-10T18:39:14.038Z"
   },
   "priya-nair": {
     "status": "ok",
@@ -733,11 +733,11 @@
     "end_price": 1990.3,
     "stock_pct_change": -22.06,
     "index_start": 24565.35,
-    "index_end": 25030.35,
-    "index_pct_change": 1.89,
-    "outperformance_pct": -23.96,
+    "index_end": 25044.65,
+    "index_pct_change": 1.95,
+    "outperformance_pct": -24.01,
     "tenure_days": 465,
-    "generated_at": "2026-11-09T21:25:00.864Z"
+    "generated_at": "2026-11-10T18:39:14.463Z"
   },
   "manish-tiwary": {
     "status": "ok",
@@ -749,11 +749,11 @@
     "end_price": 1297.8,
     "stock_pct_change": 11.53,
     "index_start": 23482.15,
-    "index_end": 25030.35,
-    "index_pct_change": 6.59,
-    "outperformance_pct": 4.94,
+    "index_end": 25044.65,
+    "index_pct_change": 6.65,
+    "outperformance_pct": 4.88,
     "tenure_days": 646,
-    "generated_at": "2026-11-09T21:25:01.301Z"
+    "generated_at": "2026-11-10T18:39:14.910Z"
   },
   "pawan-agrawal": {
     "status": "ok",
@@ -765,11 +765,11 @@
     "end_price": 902,
     "stock_pct_change": 39.29,
     "index_start": 23165.7,
-    "index_end": 25030.35,
-    "index_pct_change": 8.05,
-    "outperformance_pct": 31.25,
+    "index_end": 25044.65,
+    "index_pct_change": 8.11,
+    "outperformance_pct": 31.18,
     "tenure_days": 587,
-    "generated_at": "2026-11-09T21:25:01.813Z"
+    "generated_at": "2026-11-10T18:39:15.334Z"
   },
   "herjit-bhalla": {
     "status": "ok",
@@ -781,11 +781,11 @@
     "end_price": 375.25,
     "stock_pct_change": -13.39,
     "index_start": 24231.3,
-    "index_end": 25030.35,
-    "index_pct_change": 3.3,
-    "outperformance_pct": -16.68,
+    "index_end": 25044.65,
+    "index_pct_change": 3.36,
+    "outperformance_pct": -16.74,
     "tenure_days": 208,
-    "generated_at": "2026-11-09T21:25:02.222Z"
+    "generated_at": "2026-11-10T18:39:15.759Z"
   },
   "mohit-malhotra": {
     "status": "ok",
@@ -797,11 +797,11 @@
     "end_price": 375.25,
     "stock_pct_change": -27.39,
     "index_start": 25725.4,
-    "index_end": 25030.35,
-    "index_pct_change": -2.7,
-    "outperformance_pct": -24.69,
+    "index_end": 25044.65,
+    "index_pct_change": -2.65,
+    "outperformance_pct": -24.74,
     "tenure_days": 265,
-    "generated_at": "2026-11-09T21:25:02.700Z"
+    "generated_at": "2026-11-10T18:39:16.218Z"
   },
   "p-venkatesalu": {
     "status": "ok",
@@ -813,11 +813,11 @@
     "end_price": 3119.2,
     "stock_pct_change": -59.03,
     "index_start": 25796.9,
-    "index_end": 25030.35,
-    "index_pct_change": -2.97,
-    "outperformance_pct": -56.05,
+    "index_end": 25044.65,
+    "index_pct_change": -2.92,
+    "outperformance_pct": -56.11,
     "tenure_days": 769,
-    "generated_at": "2026-11-09T21:25:03.144Z"
+    "generated_at": "2026-11-10T18:39:16.681Z"
   },
   "karthik-yathindra": {
     "status": "ok",
@@ -829,11 +829,11 @@
     "end_price": 36380,
     "stock_pct_change": -13.39,
     "index_start": 23165.7,
-    "index_end": 25030.35,
-    "index_pct_change": 8.05,
-    "outperformance_pct": -21.44,
+    "index_end": 25044.65,
+    "index_pct_change": 8.11,
+    "outperformance_pct": -21.5,
     "tenure_days": 587,
-    "generated_at": "2026-11-09T21:25:03.559Z"
+    "generated_at": "2026-11-10T18:39:17.113Z"
   },
   "gaurav-sharma": {
     "status": "ok",
@@ -845,11 +845,11 @@
     "end_price": 1589.8,
     "stock_pct_change": 6.68,
     "index_start": 25010.9,
-    "index_end": 25030.35,
-    "index_pct_change": 0.08,
-    "outperformance_pct": 6.6,
+    "index_end": 25044.65,
+    "index_pct_change": 0.13,
+    "outperformance_pct": 6.54,
     "tenure_days": 830,
-    "generated_at": "2026-11-09T21:25:03.991Z"
+    "generated_at": "2026-11-10T18:39:17.591Z"
   },
   "himanshu-agarwal": {
     "status": "ok",
@@ -861,11 +861,11 @@
     "end_price": 1200.2,
     "stock_pct_change": -5.12,
     "index_start": 23270.6,
-    "index_end": 25030.35,
-    "index_pct_change": 7.56,
-    "outperformance_pct": -12.68,
+    "index_end": 25044.65,
+    "index_pct_change": 7.62,
+    "outperformance_pct": -12.75,
     "tenure_days": 53,
-    "generated_at": "2026-11-09T21:25:04.393Z"
+    "generated_at": "2026-11-10T18:39:18.000Z"
   },
   "p-ganesh": {
     "status": "ok",
@@ -877,11 +877,11 @@
     "end_price": 359.7,
     "stock_pct_change": 153.76,
     "index_start": 17854.05,
-    "index_end": 25030.35,
-    "index_pct_change": 40.19,
-    "outperformance_pct": 113.56,
+    "index_end": 25044.65,
+    "index_pct_change": 40.27,
+    "outperformance_pct": 113.48,
     "tenure_days": 1375,
-    "generated_at": "2026-11-09T21:25:04.827Z"
+    "generated_at": "2026-11-10T18:39:18.492Z"
   },
   "vivek-pabari": {
     "status": "ok",
@@ -893,11 +893,11 @@
     "end_price": 433.15,
     "stock_pct_change": 8.13,
     "index_start": 26146.55,
-    "index_end": 25030.35,
-    "index_pct_change": -4.27,
-    "outperformance_pct": 12.39,
+    "index_end": 25044.65,
+    "index_pct_change": -4.21,
+    "outperformance_pct": 12.34,
     "tenure_days": 312,
-    "generated_at": "2026-11-09T21:25:05.232Z"
+    "generated_at": "2026-11-10T18:39:18.895Z"
   },
   "badal-bagri": {
     "status": "ok",
@@ -909,11 +909,11 @@
     "end_price": 755,
     "stock_pct_change": -11.89,
     "index_start": 24677.8,
-    "index_end": 25030.35,
-    "index_pct_change": 1.43,
-    "outperformance_pct": -13.32,
+    "index_end": 25044.65,
+    "index_pct_change": 1.49,
+    "outperformance_pct": -13.37,
     "tenure_days": 703,
-    "generated_at": "2026-11-09T21:25:05.673Z"
+    "generated_at": "2026-11-10T18:39:19.342Z"
   },
   "sandeep-navlakhe": {
     "status": "ok",
@@ -925,11 +925,11 @@
     "end_price": 1814.6,
     "stock_pct_change": -11.51,
     "index_start": 24565.35,
-    "index_end": 25030.35,
-    "index_pct_change": 1.89,
-    "outperformance_pct": -13.4,
+    "index_end": 25044.65,
+    "index_pct_change": 1.95,
+    "outperformance_pct": -13.46,
     "tenure_days": 465,
-    "generated_at": "2026-11-09T21:25:06.077Z"
+    "generated_at": "2026-11-10T18:39:19.766Z"
   },
   "kailash-b-gupta": {
     "status": "ok",
@@ -941,11 +941,11 @@
     "end_price": 2147,
     "stock_pct_change": 41.24,
     "index_start": 22466.1,
-    "index_end": 25030.35,
-    "index_pct_change": 11.41,
-    "outperformance_pct": 29.82,
+    "index_end": 25044.65,
+    "index_pct_change": 11.48,
+    "outperformance_pct": 29.76,
     "tenure_days": 906,
-    "generated_at": "2026-11-09T21:25:06.538Z"
+    "generated_at": "2026-11-10T18:39:20.249Z"
   },
   "sudhanshu-vats": {
     "status": "ok",
@@ -957,11 +957,11 @@
     "end_price": 1587.5,
     "stock_pct_change": 7.53,
     "index_start": 22828.55,
-    "index_end": 25030.35,
-    "index_pct_change": 9.64,
-    "outperformance_pct": -2.11,
+    "index_end": 25044.65,
+    "index_pct_change": 9.71,
+    "outperformance_pct": -2.18,
     "tenure_days": 577,
-    "generated_at": "2026-11-09T21:25:06.965Z"
+    "generated_at": "2026-11-10T18:39:20.676Z"
   },
   "kavinder-singh": {
     "status": "ok",
@@ -973,11 +973,11 @@
     "end_price": 1587.5,
     "stock_pct_change": 6.26,
     "index_start": 22648.2,
-    "index_end": 25030.35,
-    "index_pct_change": 10.52,
-    "outperformance_pct": -4.26,
+    "index_end": 25044.65,
+    "index_pct_change": 10.58,
+    "outperformance_pct": -4.32,
     "tenure_days": 921,
-    "generated_at": "2026-11-09T21:25:07.415Z"
+    "generated_at": "2026-11-10T18:39:21.127Z"
   },
   "samir-kashyap": {
     "status": "ok",
@@ -989,11 +989,11 @@
     "end_price": 2459.7,
     "stock_pct_change": -8.3,
     "index_start": 25175.4,
-    "index_end": 25030.35,
-    "index_pct_change": -0.58,
-    "outperformance_pct": -7.72,
+    "index_end": 25044.65,
+    "index_pct_change": -0.52,
+    "outperformance_pct": -7.78,
     "tenure_days": 286,
-    "generated_at": "2026-11-09T21:25:07.892Z"
+    "generated_at": "2026-11-10T18:39:21.541Z"
   },
   "shreehas-tambe": {
     "status": "ok",
@@ -1005,11 +1005,11 @@
     "end_price": 368.5,
     "stock_pct_change": 0.9,
     "index_start": 22679.4,
-    "index_end": 25030.35,
-    "index_pct_change": 10.37,
-    "outperformance_pct": -9.46,
+    "index_end": 25044.65,
+    "index_pct_change": 10.43,
+    "outperformance_pct": -9.53,
     "tenure_days": 222,
-    "generated_at": "2026-11-09T21:25:08.302Z"
+    "generated_at": "2026-11-10T18:39:21.957Z"
   },
   "kedar-upadhye": {
     "status": "ok",
@@ -1021,11 +1021,11 @@
     "end_price": 368.5,
     "stock_pct_change": 67.77,
     "index_start": 19079.6,
-    "index_end": 25030.35,
-    "index_pct_change": 31.19,
-    "outperformance_pct": 36.58,
+    "index_end": 25044.65,
+    "index_pct_change": 31.26,
+    "outperformance_pct": 36.5,
     "tenure_days": 1105,
-    "generated_at": "2026-11-09T21:25:08.750Z"
+    "generated_at": "2026-11-10T18:39:22.411Z"
   },
   "kirti-ganorkar": {
     "status": "ok",
@@ -1037,11 +1037,11 @@
     "end_price": 1904.5,
     "stock_pct_change": 21.83,
     "index_start": 24625.05,
-    "index_end": 25030.35,
-    "index_pct_change": 1.65,
-    "outperformance_pct": 20.18,
+    "index_end": 25044.65,
+    "index_pct_change": 1.7,
+    "outperformance_pct": 20.12,
     "tenure_days": 434,
-    "generated_at": "2026-11-09T21:25:09.183Z"
+    "generated_at": "2026-11-10T18:39:22.838Z"
   },
   "aalok-shanghvi": {
     "status": "ok",
@@ -1053,11 +1053,11 @@
     "end_price": 1904.5,
     "stock_pct_change": 9.32,
     "index_start": 23482.15,
-    "index_end": 25030.35,
-    "index_pct_change": 6.59,
-    "outperformance_pct": 2.72,
+    "index_end": 25044.65,
+    "index_pct_change": 6.65,
+    "outperformance_pct": 2.66,
     "tenure_days": 646,
-    "generated_at": "2026-11-09T21:25:09.654Z"
+    "generated_at": "2026-11-10T18:39:23.260Z"
   },
   "tushar-shroff": {
     "status": "ok",
@@ -1069,11 +1069,11 @@
     "end_price": 1215.9,
     "stock_pct_change": 22.69,
     "index_start": 24625.05,
-    "index_end": 25030.35,
-    "index_pct_change": 1.65,
-    "outperformance_pct": 21.04,
+    "index_end": 25044.65,
+    "index_pct_change": 1.7,
+    "outperformance_pct": 20.98,
     "tenure_days": 434,
-    "generated_at": "2026-11-09T21:25:10.085Z"
+    "generated_at": "2026-11-10T18:39:23.680Z"
   },
   "aman-mehta": {
     "status": "ok",
@@ -1085,11 +1085,11 @@
     "end_price": 4780,
     "stock_pct_change": 29.95,
     "index_start": 24565.35,
-    "index_end": 25030.35,
-    "index_pct_change": 1.89,
-    "outperformance_pct": 28.06,
+    "index_end": 25044.65,
+    "index_pct_change": 1.95,
+    "outperformance_pct": 28,
     "tenure_days": 465,
-    "generated_at": "2026-11-09T21:25:10.571Z"
+    "generated_at": "2026-11-10T18:39:24.094Z"
   },
   "muthukumar-narayanaswamy": {
     "status": "ok",
@@ -1101,11 +1101,11 @@
     "end_price": 3300,
     "stock_pct_change": -55.73,
     "index_start": 25056.9,
-    "index_end": 25030.35,
-    "index_pct_change": -0.11,
-    "outperformance_pct": -55.62,
+    "index_end": 25044.65,
+    "index_pct_change": -0.05,
+    "outperformance_pct": -55.68,
     "tenure_days": 411,
-    "generated_at": "2026-11-09T21:25:11.055Z"
+    "generated_at": "2026-11-10T18:39:24.498Z"
   },
   "hari-haran-chalat": {
     "status": "ok",
@@ -1117,11 +1117,11 @@
     "end_price": 1712.6,
     "stock_pct_change": 27.28,
     "index_start": 25088.4,
-    "index_end": 25030.35,
-    "index_pct_change": -0.23,
-    "outperformance_pct": 27.51,
+    "index_end": 25044.65,
+    "index_pct_change": -0.17,
+    "outperformance_pct": 27.46,
     "tenure_days": 280,
-    "generated_at": "2026-11-09T21:25:11.468Z"
+    "generated_at": "2026-11-10T18:39:24.917Z"
   },
   "rajsekhar-datta-roy": {
     "status": "ok",
@@ -1133,11 +1133,11 @@
     "end_price": 256.07,
     "stock_pct_change": -14.34,
     "index_start": 23815.85,
-    "index_end": 25030.35,
-    "index_pct_change": 5.1,
-    "outperformance_pct": -19.44,
+    "index_end": 25044.65,
+    "index_pct_change": 5.16,
+    "outperformance_pct": -19.5,
     "tenure_days": 182,
-    "generated_at": "2026-11-09T21:25:11.880Z"
+    "generated_at": "2026-11-10T18:39:25.339Z"
   },
   "anand-balakrishnan": {
     "status": "ok",
@@ -1149,11 +1149,11 @@
     "end_price": 313.2,
     "stock_pct_change": -48.49,
     "index_start": 24888.2,
-    "index_end": 25030.35,
-    "index_pct_change": 0.57,
-    "outperformance_pct": -49.06,
+    "index_end": 25044.65,
+    "index_pct_change": 0.63,
+    "outperformance_pct": -49.12,
     "tenure_days": 515,
-    "generated_at": "2026-11-09T21:25:12.285Z"
+    "generated_at": "2026-11-10T18:39:25.837Z"
   },
   "umang-nahata": {
     "status": "ok",
@@ -1165,11 +1165,11 @@
     "end_price": 1500.6,
     "stock_pct_change": -45.26,
     "index_start": 23311.8,
-    "index_end": 25030.35,
-    "index_pct_change": 7.37,
-    "outperformance_pct": -52.63,
+    "index_end": 25044.65,
+    "index_pct_change": 7.43,
+    "outperformance_pct": -52.69,
     "tenure_days": 662,
-    "generated_at": "2026-11-09T21:25:12.729Z"
+    "generated_at": "2026-11-10T18:39:26.290Z"
   },
   "raghavendra-srinivas-bhat": {
     "status": "ok",
@@ -1181,11 +1181,11 @@
     "end_price": 331.9,
     "stock_pct_change": 88.87,
     "index_start": 26013.45,
-    "index_end": 25030.35,
-    "index_pct_change": -3.78,
-    "outperformance_pct": 92.65,
+    "index_end": 25044.65,
+    "index_pct_change": -3.72,
+    "outperformance_pct": 92.59,
     "tenure_days": 357,
-    "generated_at": "2026-11-09T21:25:13.142Z"
+    "generated_at": "2026-11-10T18:39:26.715Z"
   },
   "praveen-achuthan-kutty": {
     "status": "ok",
@@ -1197,11 +1197,11 @@
     "end_price": 210.33,
     "stock_pct_change": 49.22,
     "index_start": 22643.4,
-    "index_end": 25030.35,
-    "index_pct_change": 10.54,
-    "outperformance_pct": 38.68,
+    "index_end": 25044.65,
+    "index_pct_change": 10.6,
+    "outperformance_pct": 38.62,
     "tenure_days": 924,
-    "generated_at": "2026-11-09T21:25:13.578Z"
+    "generated_at": "2026-11-10T18:39:27.164Z"
   },
   "r-vijay-anandh": {
     "status": "ok",
@@ -1213,11 +1213,11 @@
     "end_price": 225,
     "stock_pct_change": 10.35,
     "index_start": 24119.3,
-    "index_end": 25030.35,
-    "index_pct_change": 3.78,
-    "outperformance_pct": 6.58,
+    "index_end": 25044.65,
+    "index_pct_change": 3.84,
+    "outperformance_pct": 6.52,
     "tenure_days": 189,
-    "generated_at": "2026-11-09T21:25:13.990Z"
+    "generated_at": "2026-11-10T18:39:27.627Z"
   },
   "pr-seshadri": {
     "status": "ok",
@@ -1229,11 +1229,11 @@
     "end_price": 58.68,
     "stock_pct_change": 116.93,
     "index_start": 19528.75,
-    "index_end": 25030.35,
-    "index_pct_change": 28.17,
-    "outperformance_pct": 88.76,
+    "index_end": 25044.65,
+    "index_pct_change": 28.25,
+    "outperformance_pct": 88.69,
     "tenure_days": 1133,
-    "generated_at": "2026-11-09T21:25:14.438Z"
+    "generated_at": "2026-11-10T18:39:28.092Z"
   },
   "atul-jain": {
     "status": "ok",
@@ -1245,11 +1245,11 @@
     "end_price": 239.4,
     "stock_pct_change": -45.53,
     "index_start": 25169.5,
-    "index_end": 25030.35,
-    "index_pct_change": -0.55,
-    "outperformance_pct": -44.98,
+    "index_end": 25044.65,
+    "index_pct_change": -0.5,
+    "outperformance_pct": -45.03,
     "tenure_days": 412,
-    "generated_at": "2026-11-09T21:25:14.848Z"
+    "generated_at": "2026-11-10T18:39:28.518Z"
   },
   "gyanendra-shukla": {
     "status": "ok",
@@ -1261,11 +1261,11 @@
     "end_price": 188.46,
     "stock_pct_change": -26.45,
     "index_start": 22462,
-    "index_end": 25030.35,
-    "index_pct_change": 11.43,
-    "outperformance_pct": -37.89,
+    "index_end": 25044.65,
+    "index_pct_change": 11.5,
+    "outperformance_pct": -37.95,
     "tenure_days": 952,
-    "generated_at": "2026-11-09T21:25:15.314Z"
+    "generated_at": "2026-11-10T18:39:28.986Z"
   },
   "himanshu-jindal": {
     "status": "ok",
@@ -1277,11 +1277,11 @@
     "end_price": 145.77,
     "stock_pct_change": -43.74,
     "index_start": 24716.6,
-    "index_end": 25030.35,
-    "index_pct_change": 1.27,
-    "outperformance_pct": -45.01,
+    "index_end": 25044.65,
+    "index_pct_change": 1.33,
+    "outperformance_pct": -45.07,
     "tenure_days": 525,
-    "generated_at": "2026-11-09T21:25:15.714Z"
+    "generated_at": "2026-11-10T18:39:29.396Z"
   },
   "sameer-patel": {
     "status": "ok",
@@ -1293,11 +1293,11 @@
     "end_price": 582.35,
     "stock_pct_change": 29.61,
     "index_start": 23381.6,
-    "index_end": 25030.35,
-    "index_pct_change": 7.05,
-    "outperformance_pct": 22.56,
+    "index_end": 25044.65,
+    "index_pct_change": 7.11,
+    "outperformance_pct": 22.5,
     "tenure_days": 637,
-    "generated_at": "2026-11-09T21:25:16.159Z"
+    "generated_at": "2026-11-10T18:39:29.917Z"
   },
   "abrarali-dalal": {
     "status": "ok",
@@ -1309,10 +1309,10 @@
     "end_price": 1275.2,
     "stock_pct_change": 5.38,
     "index_start": 25232.5,
-    "index_end": 25030.35,
-    "index_pct_change": -0.8,
-    "outperformance_pct": 6.18,
+    "index_end": 25044.65,
+    "index_pct_change": -0.74,
+    "outperformance_pct": 6.12,
     "tenure_days": 293,
-    "generated_at": "2026-11-09T21:25:16.640Z"
+    "generated_at": "2026-11-10T18:39:30.387Z"
   }
 }
