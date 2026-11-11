@@ -13,7 +13,7 @@
     "index_pct_change": 15.19,
     "outperformance_pct": 10.39,
     "tenure_days": 1043,
-    "generated_at": "2026-11-10T18:38:53.128Z"
+    "generated_at": "2026-11-11T18:38:26.857Z"
   },
   "srini-pallia": {
     "status": "ok",
@@ -29,7 +29,7 @@
     "index_pct_change": 10.49,
     "outperformance_pct": -27.56,
     "tenure_days": 945,
-    "generated_at": "2026-11-10T18:38:53.614Z"
+    "generated_at": "2026-11-11T18:38:27.252Z"
   },
   "mohit-joshi": {
     "status": "ok",
@@ -45,7 +45,7 @@
     "index_pct_change": 18.41,
     "outperformance_pct": 26.15,
     "tenure_days": 1055,
-    "generated_at": "2026-11-10T18:38:54.103Z"
+    "generated_at": "2026-11-11T18:38:27.659Z"
   },
   "venu-lambu": {
     "status": "unavailable",
@@ -65,7 +65,7 @@
     "index_pct_change": 3.05,
     "outperformance_pct": -11.24,
     "tenure_days": 738,
-    "generated_at": "2026-11-10T18:38:54.977Z"
+    "generated_at": "2026-11-11T18:38:28.418Z"
   },
   "rajiv-anand": {
     "status": "ok",
@@ -81,7 +81,7 @@
     "index_pct_change": 0.31,
     "outperformance_pct": 15.8,
     "tenure_days": 441,
-    "generated_at": "2026-11-10T18:38:55.439Z"
+    "generated_at": "2026-11-11T18:38:28.793Z"
   },
   "puneet-sharma": {
     "status": "ok",
@@ -97,7 +97,7 @@
     "index_pct_change": 4.11,
     "outperformance_pct": 8,
     "tenure_days": 69,
-    "generated_at": "2026-11-10T18:38:55.932Z"
+    "generated_at": "2026-11-11T18:38:29.171Z"
   },
   "shashwat-sharma": {
     "status": "ok",
@@ -113,7 +113,7 @@
     "index_pct_change": -4.21,
     "outperformance_pct": 2.4,
     "tenure_days": 312,
-    "generated_at": "2026-11-10T18:38:56.374Z"
+    "generated_at": "2026-11-11T18:38:29.539Z"
   },
   "sharat-sinha": {
     "status": "ok",
@@ -129,7 +129,7 @@
     "index_pct_change": 7.65,
     "outperformance_pct": 41.3,
     "tenure_days": 889,
-    "generated_at": "2026-11-10T18:38:56.871Z"
+    "generated_at": "2026-11-11T18:38:29.942Z"
   },
   "rakshit-hargave": {
     "status": "ok",
@@ -145,7 +145,7 @@
     "index_pct_change": -3.78,
     "outperformance_pct": -16.89,
     "tenure_days": 329,
-    "generated_at": "2026-11-10T18:38:57.367Z"
+    "generated_at": "2026-11-11T18:38:30.316Z"
   },
   "vivek-anand": {
     "status": "ok",
@@ -161,7 +161,7 @@
     "index_pct_change": 12.11,
     "outperformance_pct": 7.93,
     "tenure_days": 983,
-    "generated_at": "2026-11-10T18:38:57.834Z"
+    "generated_at": "2026-11-11T18:38:30.716Z"
   },
   "harshavardhan-chitale": {
     "status": "ok",
@@ -177,7 +177,7 @@
     "index_pct_change": -4.59,
     "outperformance_pct": -5.01,
     "tenure_days": 308,
-    "generated_at": "2026-11-10T18:38:58.292Z"
+    "generated_at": "2026-11-11T18:38:31.084Z"
   },
   "mv-narasimham": {
     "status": "ok",
@@ -193,7 +193,7 @@
     "index_pct_change": 0.13,
     "outperformance_pct": 0.4,
     "tenure_days": 830,
-    "generated_at": "2026-11-10T18:38:58.757Z"
+    "generated_at": "2026-11-11T18:38:31.462Z"
   },
   "achin-gupta": {
     "status": "ok",
@@ -209,7 +209,7 @@
     "index_pct_change": 10.43,
     "outperformance_pct": 6.96,
     "tenure_days": 222,
-    "generated_at": "2026-11-10T18:38:59.175Z"
+    "generated_at": "2026-11-11T18:38:31.835Z"
   },
   "kunjal-mehta": {
     "status": "ok",
@@ -225,7 +225,7 @@
     "index_pct_change": 11.5,
     "outperformance_pct": 17.92,
     "tenure_days": 952,
-    "generated_at": "2026-11-10T18:38:59.611Z"
+    "generated_at": "2026-11-11T18:38:32.194Z"
   },
   "p-ramakrishnan": {
     "status": "ok",
@@ -241,7 +241,7 @@
     "index_pct_change": 4.33,
     "outperformance_pct": -2.07,
     "tenure_days": 131,
-    "generated_at": "2026-11-10T18:39:00.031Z"
+    "generated_at": "2026-11-11T18:38:32.559Z"
   },
   "william-walsh": {
     "status": "ok",
@@ -257,7 +257,7 @@
     "index_pct_change": 1.09,
     "outperformance_pct": -0.54,
     "tenure_days": 98,
-    "generated_at": "2026-11-10T18:39:00.449Z"
+    "generated_at": "2026-11-11T18:38:32.917Z"
   },
   "kvs-manian": {
     "status": "ok",
@@ -273,7 +273,7 @@
     "index_pct_change": -3.45,
     "outperformance_pct": 86.82,
     "tenure_days": 777,
-    "generated_at": "2026-11-10T18:39:00.909Z"
+    "generated_at": "2026-11-11T18:38:33.320Z"
   },
   "rama-mohan-rao-amara": {
     "status": "ok",
@@ -289,7 +289,7 @@
     "index_pct_change": 3.5,
     "outperformance_pct": 20.83,
     "tenure_days": 691,
-    "generated_at": "2026-11-10T18:39:01.377Z"
+    "generated_at": "2026-11-11T18:38:33.750Z"
   },
   "amit-jhingran": {
     "status": "ok",
@@ -305,7 +305,7 @@
     "index_pct_change": 28.25,
     "outperformance_pct": 7,
     "tenure_days": 1133,
-    "generated_at": "2026-11-10T18:39:01.834Z"
+    "generated_at": "2026-11-11T18:38:34.147Z"
   },
   "anup-bagchi": {
     "status": "ok",
@@ -321,7 +321,7 @@
     "index_pct_change": 33.53,
     "outperformance_pct": -45.35,
     "tenure_days": 115,
-    "generated_at": "2026-11-10T18:39:02.308Z"
+    "generated_at": "2026-11-11T18:38:34.510Z"
   },
   "ramandeep-singh-sahni": {
     "status": "ok",
@@ -337,7 +337,7 @@
     "index_pct_change": 6.65,
     "outperformance_pct": -1.93,
     "tenure_days": 646,
-    "generated_at": "2026-11-10T18:39:02.726Z"
+    "generated_at": "2026-11-11T18:38:34.916Z"
   },
   "ravindra-kumar-kundu": {
     "status": "ok",
@@ -353,7 +353,7 @@
     "index_pct_change": 1,
     "outperformance_pct": 20.12,
     "tenure_days": 763,
-    "generated_at": "2026-11-10T18:39:03.190Z"
+    "generated_at": "2026-11-11T18:38:35.299Z"
   },
   "anup-kumar-saha": {
     "status": "ok",
@@ -369,7 +369,7 @@
     "index_pct_change": 8.11,
     "outperformance_pct": 14.31,
     "tenure_days": 587,
-    "generated_at": "2026-11-10T18:39:03.610Z"
+    "generated_at": "2026-11-11T18:38:35.672Z"
   },
   "manoj-bhat": {
     "status": "ok",
@@ -385,7 +385,7 @@
     "index_pct_change": 7.34,
     "outperformance_pct": 17.42,
     "tenure_days": 586,
-    "generated_at": "2026-11-10T18:39:04.082Z"
+    "generated_at": "2026-11-11T18:38:36.056Z"
   },
   "arnab-roy": {
     "status": "ok",
@@ -401,7 +401,7 @@
     "index_pct_change": 15.19,
     "outperformance_pct": 10.53,
     "tenure_days": 1043,
-    "generated_at": "2026-11-10T18:39:04.542Z"
+    "generated_at": "2026-11-11T18:38:36.428Z"
   },
   "km-balaji": {
     "status": "ok",
@@ -417,7 +417,7 @@
     "index_pct_change": 7.65,
     "outperformance_pct": 40.22,
     "tenure_days": 889,
-    "generated_at": "2026-11-10T18:39:05.015Z"
+    "generated_at": "2026-11-11T18:38:36.807Z"
   },
   "kedar-dixit": {
     "status": "ok",
@@ -433,7 +433,7 @@
     "index_pct_change": 29.61,
     "outperformance_pct": 75.6,
     "tenure_days": 1225,
-    "generated_at": "2026-11-10T18:39:05.489Z"
+    "generated_at": "2026-11-11T18:38:37.210Z"
   },
   "sudarshan-venu": {
     "status": "ok",
@@ -449,7 +449,7 @@
     "index_pct_change": 0.31,
     "outperformance_pct": 36.87,
     "tenure_days": 441,
-    "generated_at": "2026-11-10T18:39:06.306Z"
+    "generated_at": "2026-11-11T18:38:37.629Z"
   },
   "bharat-goenka": {
     "status": "ok",
@@ -465,7 +465,7 @@
     "index_pct_change": 8.11,
     "outperformance_pct": 36.52,
     "tenure_days": 587,
-    "generated_at": "2026-11-10T18:39:06.805Z"
+    "generated_at": "2026-11-11T18:38:38.002Z"
   },
   "swayam-saurabh": {
     "status": "ok",
@@ -481,7 +481,7 @@
     "index_pct_change": 0.13,
     "outperformance_pct": 44,
     "tenure_days": 830,
-    "generated_at": "2026-11-10T18:39:07.319Z"
+    "generated_at": "2026-11-11T18:38:38.450Z"
   },
   "gautam-malhotra": {
     "status": "ok",
@@ -497,7 +497,7 @@
     "index_pct_change": -3.44,
     "outperformance_pct": 10.19,
     "tenure_days": 377,
-    "generated_at": "2026-11-10T18:39:07.758Z"
+    "generated_at": "2026-11-11T18:38:38.870Z"
   },
   "ajay-goel": {
     "status": "ok",
@@ -513,7 +513,7 @@
     "index_pct_change": 30.84,
     "outperformance_pct": -9.8,
     "tenure_days": 1106,
-    "generated_at": "2026-11-10T18:39:08.251Z"
+    "generated_at": "2026-11-11T18:38:39.249Z"
   },
   "amitava-mukherjee": {
     "status": "ok",
@@ -529,7 +529,7 @@
     "index_pct_change": 11.09,
     "outperformance_pct": -4.21,
     "tenure_days": 613,
-    "generated_at": "2026-11-10T18:39:08.672Z"
+    "generated_at": "2026-11-11T18:38:39.658Z"
   },
   "anurag-kapil": {
     "status": "ok",
@@ -545,7 +545,7 @@
     "index_pct_change": 10.43,
     "outperformance_pct": -18.96,
     "tenure_days": 222,
-    "generated_at": "2026-11-10T18:39:09.083Z"
+    "generated_at": "2026-11-11T18:38:40.021Z"
   },
   "saurabh-mashruwala": {
     "status": "ok",
@@ -561,7 +561,7 @@
     "index_pct_change": 41.44,
     "outperformance_pct": 96.27,
     "tenure_days": 1302,
-    "generated_at": "2026-11-10T18:39:09.541Z"
+    "generated_at": "2026-11-11T18:38:40.406Z"
   },
   "anupam-agarwal": {
     "status": "ok",
@@ -577,7 +577,7 @@
     "index_pct_change": 2.05,
     "outperformance_pct": -3.63,
     "tenure_days": 524,
-    "generated_at": "2026-11-10T18:39:09.963Z"
+    "generated_at": "2026-11-11T18:38:40.841Z"
   },
   "rk-tyagi": {
     "status": "ok",
@@ -593,7 +593,7 @@
     "index_pct_change": 15.19,
     "outperformance_pct": -6.92,
     "tenure_days": 1043,
-    "generated_at": "2026-11-10T18:39:10.416Z"
+    "generated_at": "2026-11-11T18:38:41.222Z"
   },
   "v-srikanth": {
     "status": "ok",
@@ -609,7 +609,7 @@
     "index_pct_change": 35.47,
     "outperformance_pct": -18.96,
     "tenure_days": 1257,
-    "generated_at": "2026-11-10T18:39:10.878Z"
+    "generated_at": "2026-11-11T18:38:41.625Z"
   },
   "suresh-vasant-patil": {
     "status": "ok",
@@ -625,7 +625,7 @@
     "index_pct_change": 5.48,
     "outperformance_pct": -15.01,
     "tenure_days": 677,
-    "generated_at": "2026-11-10T18:39:11.296Z"
+    "generated_at": "2026-11-11T18:38:41.997Z"
   },
   "jayant-dua": {
     "status": "ok",
@@ -641,7 +641,7 @@
     "index_pct_change": 10.43,
     "outperformance_pct": 4.14,
     "tenure_days": 222,
-    "generated_at": "2026-11-10T18:39:11.709Z"
+    "generated_at": "2026-11-11T18:38:42.363Z"
   },
   "aravind-viswanathan": {
     "status": "ok",
@@ -657,7 +657,7 @@
     "index_pct_change": 2.05,
     "outperformance_pct": -17.71,
     "tenure_days": 815,
-    "generated_at": "2026-11-10T18:39:12.166Z"
+    "generated_at": "2026-11-11T18:38:42.741Z"
   },
   "shiv-walia": {
     "status": "ok",
@@ -673,7 +673,7 @@
     "index_pct_change": 0.77,
     "outperformance_pct": -20.65,
     "tenure_days": 794,
-    "generated_at": "2026-11-10T18:39:12.609Z"
+    "generated_at": "2026-11-11T18:38:43.180Z"
   },
   "saurabh-goel": {
     "status": "ok",
@@ -689,7 +689,7 @@
     "index_pct_change": 15.36,
     "outperformance_pct": 53.08,
     "tenure_days": 1039,
-    "generated_at": "2026-11-10T18:39:13.081Z"
+    "generated_at": "2026-11-11T18:38:43.557Z"
   },
   "jayesh-sanghrajka": {
     "status": "ok",
@@ -705,7 +705,7 @@
     "index_pct_change": 11.5,
     "outperformance_pct": -34.32,
     "tenure_days": 952,
-    "generated_at": "2026-11-10T18:39:13.620Z"
+    "generated_at": "2026-11-11T18:38:43.958Z"
   },
   "jaideep-dhok": {
     "status": "ok",
@@ -721,7 +721,7 @@
     "index_pct_change": 2.28,
     "outperformance_pct": 13.16,
     "tenure_days": 454,
-    "generated_at": "2026-11-10T18:39:14.038Z"
+    "generated_at": "2026-11-11T18:38:44.324Z"
   },
   "priya-nair": {
     "status": "ok",
@@ -737,7 +737,7 @@
     "index_pct_change": 1.95,
     "outperformance_pct": -24.01,
     "tenure_days": 465,
-    "generated_at": "2026-11-10T18:39:14.463Z"
+    "generated_at": "2026-11-11T18:38:44.703Z"
   },
   "manish-tiwary": {
     "status": "ok",
@@ -753,7 +753,7 @@
     "index_pct_change": 6.65,
     "outperformance_pct": 4.88,
     "tenure_days": 646,
-    "generated_at": "2026-11-10T18:39:14.910Z"
+    "generated_at": "2026-11-11T18:38:45.092Z"
   },
   "pawan-agrawal": {
     "status": "ok",
@@ -769,7 +769,7 @@
     "index_pct_change": 8.11,
     "outperformance_pct": 31.18,
     "tenure_days": 587,
-    "generated_at": "2026-11-10T18:39:15.334Z"
+    "generated_at": "2026-11-11T18:38:45.467Z"
   },
   "herjit-bhalla": {
     "status": "ok",
@@ -785,7 +785,7 @@
     "index_pct_change": 3.36,
     "outperformance_pct": -16.74,
     "tenure_days": 208,
-    "generated_at": "2026-11-10T18:39:15.759Z"
+    "generated_at": "2026-11-11T18:38:45.841Z"
   },
   "mohit-malhotra": {
     "status": "ok",
@@ -801,7 +801,7 @@
     "index_pct_change": -2.65,
     "outperformance_pct": -24.74,
     "tenure_days": 265,
-    "generated_at": "2026-11-10T18:39:16.218Z"
+    "generated_at": "2026-11-11T18:38:46.215Z"
   },
   "p-venkatesalu": {
     "status": "ok",
@@ -817,7 +817,7 @@
     "index_pct_change": -2.92,
     "outperformance_pct": -56.11,
     "tenure_days": 769,
-    "generated_at": "2026-11-10T18:39:16.681Z"
+    "generated_at": "2026-11-11T18:38:46.634Z"
   },
   "karthik-yathindra": {
     "status": "ok",
@@ -833,7 +833,7 @@
     "index_pct_change": 8.11,
     "outperformance_pct": -21.5,
     "tenure_days": 587,
-    "generated_at": "2026-11-10T18:39:17.113Z"
+    "generated_at": "2026-11-11T18:38:47.010Z"
   },
   "gaurav-sharma": {
     "status": "ok",
@@ -849,7 +849,7 @@
     "index_pct_change": 0.13,
     "outperformance_pct": 6.54,
     "tenure_days": 830,
-    "generated_at": "2026-11-10T18:39:17.591Z"
+    "generated_at": "2026-11-11T18:38:47.399Z"
   },
   "himanshu-agarwal": {
     "status": "ok",
@@ -865,7 +865,7 @@
     "index_pct_change": 7.62,
     "outperformance_pct": -12.75,
     "tenure_days": 53,
-    "generated_at": "2026-11-10T18:39:18.000Z"
+    "generated_at": "2026-11-11T18:38:47.779Z"
   },
   "p-ganesh": {
     "status": "ok",
@@ -881,7 +881,7 @@
     "index_pct_change": 40.27,
     "outperformance_pct": 113.48,
     "tenure_days": 1375,
-    "generated_at": "2026-11-10T18:39:18.492Z"
+    "generated_at": "2026-11-11T18:38:48.168Z"
   },
   "vivek-pabari": {
     "status": "ok",
@@ -897,7 +897,7 @@
     "index_pct_change": -4.21,
     "outperformance_pct": 12.34,
     "tenure_days": 312,
-    "generated_at": "2026-11-10T18:39:18.895Z"
+    "generated_at": "2026-11-11T18:38:48.523Z"
   },
   "badal-bagri": {
     "status": "ok",
@@ -913,7 +913,7 @@
     "index_pct_change": 1.49,
     "outperformance_pct": -13.37,
     "tenure_days": 703,
-    "generated_at": "2026-11-10T18:39:19.342Z"
+    "generated_at": "2026-11-11T18:38:48.918Z"
   },
   "sandeep-navlakhe": {
     "status": "ok",
@@ -929,7 +929,7 @@
     "index_pct_change": 1.95,
     "outperformance_pct": -13.46,
     "tenure_days": 465,
-    "generated_at": "2026-11-10T18:39:19.766Z"
+    "generated_at": "2026-11-11T18:38:49.289Z"
   },
   "kailash-b-gupta": {
     "status": "ok",
@@ -945,7 +945,7 @@
     "index_pct_change": 11.48,
     "outperformance_pct": 29.76,
     "tenure_days": 906,
-    "generated_at": "2026-11-10T18:39:20.249Z"
+    "generated_at": "2026-11-11T18:38:49.680Z"
   },
   "sudhanshu-vats": {
     "status": "ok",
@@ -961,7 +961,7 @@
     "index_pct_change": 9.71,
     "outperformance_pct": -2.18,
     "tenure_days": 577,
-    "generated_at": "2026-11-10T18:39:20.676Z"
+    "generated_at": "2026-11-11T18:38:50.051Z"
   },
   "kavinder-singh": {
     "status": "ok",
@@ -977,7 +977,7 @@
     "index_pct_change": 10.58,
     "outperformance_pct": -4.32,
     "tenure_days": 921,
-    "generated_at": "2026-11-10T18:39:21.127Z"
+    "generated_at": "2026-11-11T18:38:50.432Z"
   },
   "samir-kashyap": {
     "status": "ok",
@@ -993,7 +993,7 @@
     "index_pct_change": -0.52,
     "outperformance_pct": -7.78,
     "tenure_days": 286,
-    "generated_at": "2026-11-10T18:39:21.541Z"
+    "generated_at": "2026-11-11T18:38:50.906Z"
   },
   "shreehas-tambe": {
     "status": "ok",
@@ -1009,7 +1009,7 @@
     "index_pct_change": 10.43,
     "outperformance_pct": -9.53,
     "tenure_days": 222,
-    "generated_at": "2026-11-10T18:39:21.957Z"
+    "generated_at": "2026-11-11T18:38:51.275Z"
   },
   "kedar-upadhye": {
     "status": "ok",
@@ -1025,7 +1025,7 @@
     "index_pct_change": 31.26,
     "outperformance_pct": 36.5,
     "tenure_days": 1105,
-    "generated_at": "2026-11-10T18:39:22.411Z"
+    "generated_at": "2026-11-11T18:38:51.732Z"
   },
   "kirti-ganorkar": {
     "status": "ok",
@@ -1041,7 +1041,7 @@
     "index_pct_change": 1.7,
     "outperformance_pct": 20.12,
     "tenure_days": 434,
-    "generated_at": "2026-11-10T18:39:22.838Z"
+    "generated_at": "2026-11-11T18:38:52.126Z"
   },
   "aalok-shanghvi": {
     "status": "ok",
@@ -1057,7 +1057,7 @@
     "index_pct_change": 6.65,
     "outperformance_pct": 2.66,
     "tenure_days": 646,
-    "generated_at": "2026-11-10T18:39:23.260Z"
+    "generated_at": "2026-11-11T18:38:52.524Z"
   },
   "tushar-shroff": {
     "status": "ok",
@@ -1073,7 +1073,7 @@
     "index_pct_change": 1.7,
     "outperformance_pct": 20.98,
     "tenure_days": 434,
-    "generated_at": "2026-11-10T18:39:23.680Z"
+    "generated_at": "2026-11-11T18:38:52.898Z"
   },
   "aman-mehta": {
     "status": "ok",
@@ -1089,7 +1089,7 @@
     "index_pct_change": 1.95,
     "outperformance_pct": 28,
     "tenure_days": 465,
-    "generated_at": "2026-11-10T18:39:24.094Z"
+    "generated_at": "2026-11-11T18:38:53.314Z"
   },
   "muthukumar-narayanaswamy": {
     "status": "ok",
@@ -1105,7 +1105,7 @@
     "index_pct_change": -0.05,
     "outperformance_pct": -55.68,
     "tenure_days": 411,
-    "generated_at": "2026-11-10T18:39:24.498Z"
+    "generated_at": "2026-11-11T18:38:53.670Z"
   },
   "hari-haran-chalat": {
     "status": "ok",
@@ -1121,7 +1121,7 @@
     "index_pct_change": -0.17,
     "outperformance_pct": 27.46,
     "tenure_days": 280,
-    "generated_at": "2026-11-10T18:39:24.917Z"
+    "generated_at": "2026-11-11T18:38:54.041Z"
   },
   "rajsekhar-datta-roy": {
     "status": "ok",
@@ -1137,7 +1137,7 @@
     "index_pct_change": 5.16,
     "outperformance_pct": -19.5,
     "tenure_days": 182,
-    "generated_at": "2026-11-10T18:39:25.339Z"
+    "generated_at": "2026-11-11T18:38:54.414Z"
   },
   "anand-balakrishnan": {
     "status": "ok",
@@ -1153,7 +1153,7 @@
     "index_pct_change": 0.63,
     "outperformance_pct": -49.12,
     "tenure_days": 515,
-    "generated_at": "2026-11-10T18:39:25.837Z"
+    "generated_at": "2026-11-11T18:38:54.775Z"
   },
   "umang-nahata": {
     "status": "ok",
@@ -1169,7 +1169,7 @@
     "index_pct_change": 7.43,
     "outperformance_pct": -52.69,
     "tenure_days": 662,
-    "generated_at": "2026-11-10T18:39:26.290Z"
+    "generated_at": "2026-11-11T18:38:55.194Z"
   },
   "raghavendra-srinivas-bhat": {
     "status": "ok",
@@ -1185,7 +1185,7 @@
     "index_pct_change": -3.72,
     "outperformance_pct": 92.59,
     "tenure_days": 357,
-    "generated_at": "2026-11-10T18:39:26.715Z"
+    "generated_at": "2026-11-11T18:38:55.564Z"
   },
   "praveen-achuthan-kutty": {
     "status": "ok",
@@ -1201,7 +1201,7 @@
     "index_pct_change": 10.6,
     "outperformance_pct": 38.62,
     "tenure_days": 924,
-    "generated_at": "2026-11-10T18:39:27.164Z"
+    "generated_at": "2026-11-11T18:38:55.952Z"
   },
   "r-vijay-anandh": {
     "status": "ok",
@@ -1217,7 +1217,7 @@
     "index_pct_change": 3.84,
     "outperformance_pct": 6.52,
     "tenure_days": 189,
-    "generated_at": "2026-11-10T18:39:27.627Z"
+    "generated_at": "2026-11-11T18:38:56.324Z"
   },
   "pr-seshadri": {
     "status": "ok",
@@ -1233,7 +1233,7 @@
     "index_pct_change": 28.25,
     "outperformance_pct": 88.69,
     "tenure_days": 1133,
-    "generated_at": "2026-11-10T18:39:28.092Z"
+    "generated_at": "2026-11-11T18:38:56.757Z"
   },
   "atul-jain": {
     "status": "ok",
@@ -1249,7 +1249,7 @@
     "index_pct_change": -0.5,
     "outperformance_pct": -45.03,
     "tenure_days": 412,
-    "generated_at": "2026-11-10T18:39:28.518Z"
+    "generated_at": "2026-11-11T18:38:57.180Z"
   },
   "gyanendra-shukla": {
     "status": "ok",
@@ -1265,7 +1265,7 @@
     "index_pct_change": 11.5,
     "outperformance_pct": -37.95,
     "tenure_days": 952,
-    "generated_at": "2026-11-10T18:39:28.986Z"
+    "generated_at": "2026-11-11T18:38:57.580Z"
   },
   "himanshu-jindal": {
     "status": "ok",
@@ -1281,7 +1281,7 @@
     "index_pct_change": 1.33,
     "outperformance_pct": -45.07,
     "tenure_days": 525,
-    "generated_at": "2026-11-10T18:39:29.396Z"
+    "generated_at": "2026-11-11T18:38:57.997Z"
   },
   "sameer-patel": {
     "status": "ok",
@@ -1297,7 +1297,7 @@
     "index_pct_change": 7.11,
     "outperformance_pct": 22.5,
     "tenure_days": 637,
-    "generated_at": "2026-11-10T18:39:29.917Z"
+    "generated_at": "2026-11-11T18:38:58.380Z"
   },
   "abrarali-dalal": {
     "status": "ok",
@@ -1313,6 +1313,6 @@
     "index_pct_change": -0.74,
     "outperformance_pct": 6.12,
     "tenure_days": 293,
-    "generated_at": "2026-11-10T18:39:30.387Z"
+    "generated_at": "2026-11-11T18:38:58.738Z"
   }
 }
